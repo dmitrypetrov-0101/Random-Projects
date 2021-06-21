@@ -1,4 +1,9 @@
-TEST
+## Description
+This project explores ways to use Python libraries for extracting data from arguments of HTML tags, and then enriching it with information from other sources.
+
+## Task
+A service proivder has a map of their locations available on the website https://www.gasum.com/sv/hallbara-transporter/tung-trafik/tankstationer/. Unfortunately, they do not offer an option to download list of all location in a single file. But we can parse the HTML code of the webpage to extract GPS coordinates of all locations, which service provider have placed on their map. 
+
 
 
 | name | latitude | longitude | type | city | country | country_code |
