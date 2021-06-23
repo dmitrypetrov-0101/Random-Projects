@@ -62,7 +62,7 @@ The output files are analyzed in
 [OSM_results.ipynb notebook](OSM_results.ipynb).
 
 Some of the interactive features of Jupyter are disabled here. So an alternative link to view the notebook is available 
-here https://nbviewer.jupyter.org/github/dmitrypetrov-0101/osm_api_tollroads/blob/master/OSM_results.ipynb
+here https://nbviewer.jupyter.org/github/dmitrypetrov-0101/Random-Projects/blob/main/osm_api_tollroads/OSM_results.ipynb
 
 ## Conclusions
 
