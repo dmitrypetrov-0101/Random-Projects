@@ -1,0 +1,2386 @@
+pointID;pointLat;pointLon;p2p_dist;osmWayID;osmWayType;int_ref;ref;way_name;operator;toll;nodeId;nodeLat;nodeLon;p2nodeDistance;comments
+1;50.94878;1.87465;0;;;;;;;No;;;;;No toll objects found
+2;50.94876;1.87468;3;;;;;;;No;;;;;No toll objects found
+3;50.94871;1.87472;6;;;;;;;No;;;;;No toll objects found
+4;50.94849;1.87481;25;;;;;;;No;;;;;No toll objects found
+5;50.94749;1.87517;114;;;;;;;No;;;;;No toll objects found
+6;50.94692;1.87537;64;;;;;;;No;;;;;No toll objects found
+7;50.9465;1.87559;49;;;;;;;No;;;;;No toll objects found
+8;50.9465;1.87559;0;;;;;;;No;;;;;No toll objects found
+9;50.94657;1.87593;25;;;;;;;No;;;;;No toll objects found
+10;50.94663;1.87626;24;;;;;;;No;;;;;No toll objects found
+11;50.94666;1.87648;15;;;;;;;No;;;;;No toll objects found
+12;50.94668;1.87657;6;;;;;;;No;;;;;No toll objects found
+13;50.94671;1.87677;14;;;;;;;No;;;;;No toll objects found
+14;50.94683;1.87754;55;;;;;;;No;;;;;No toll objects found
+15;50.94693;1.87815;44;;;;;;;No;;;;;No toll objects found
+16;50.94693;1.87815;0;;;;;;;No;;;;;No toll objects found
+17;50.94601;1.87846;104;;;;;;;No;;;;;No toll objects found
+18;50.94598;1.87847;3;;;;;;;No;;;;;No toll objects found
+19;50.9459;1.8785;9;;;;;;;No;;;;;No toll objects found
+20;50.94577;1.87851;14;;;;;;;No;;;;;No toll objects found
+21;50.94517;1.87871;68;;;;;;;No;;;;;No toll objects found
+22;50.94517;1.87871;0;;;;;;;No;;;;;No toll objects found
+23;50.94486;1.87884;35;;;;;;;No;;;;;No toll objects found
+24;50.94467;1.87891;21;;;;;;;No;;;;;No toll objects found
+25;50.94446;1.87892;23;;;;;;;No;;;;;No toll objects found
+26;50.94354;1.87895;102;;;;;;;No;;;;;No toll objects found
+27;50.94321;1.87896;36;;;;;;;No;;;;;No toll objects found
+28;50.94311;1.87896;11;;;;;;;No;;;;;No toll objects found
+29;50.94304;1.87896;7;;;;;;;No;;;;;No toll objects found
+30;50.94295;1.87895;10;;;;;;;No;;;;;No toll objects found
+31;50.94286;1.87893;10;;;;;;;No;;;;;No toll objects found
+32;50.94277;1.87891;10;;;;;;;No;;;;;No toll objects found
+33;50.94269;1.87889;9;;;;;;;No;;;;;No toll objects found
+34;50.94167;1.87855;115;;;;;;;No;;;;;No toll objects found
+35;50.94096;1.87827;81;;;;;;;No;;;;;No toll objects found
+36;50.94048;1.87809;54;;;;;;;No;;;;;No toll objects found
+37;50.9404;1.87805;9;;;;;;;No;;;;;No toll objects found
+38;50.94036;1.87802;4;;;;;;;No;;;;;No toll objects found
+39;50.94034;1.878;2;;;;;;;No;;;;;No toll objects found
+40;50.94032;1.87797;3;;;;;;;No;;;;;No toll objects found
+41;50.9403;1.87793;3;;;;;;;No;;;;;No toll objects found
+42;50.94026;1.87783;8;;;;;;;No;;;;;No toll objects found
+43;50.94026;1.87783;0;;;;;;;No;;;;;No toll objects found
+44;50.94026;1.87779;2;;;;;;;No;;;;;No toll objects found
+45;50.94025;1.87775;3;;;;;;;No;;;;;No toll objects found
+46;50.94024;1.87771;3;;;;;;;No;;;;;No toll objects found
+47;50.94022;1.87768;3;;;;;;;No;;;;;No toll objects found
+48;50.94021;1.87764;3;;;;;;;No;;;;;No toll objects found
+49;50.94019;1.87761;3;;;;;;;No;;;;;No toll objects found
+50;50.94017;1.87758;3;;;;;;;No;;;;;No toll objects found
+51;50.94015;1.87756;2;;;;;;;No;;;;;No toll objects found
+52;50.94012;1.87754;3;;;;;;;No;;;;;No toll objects found
+53;50.9401;1.87752;2;;;;;;;No;;;;;No toll objects found
+54;50.94007;1.87751;3;;;;;;;No;;;;;No toll objects found
+55;50.94005;1.87751;2;;;;;;;No;;;;;No toll objects found
+56;50.94002;1.87751;3;;;;;;;No;;;;;No toll objects found
+57;50.93999;1.87751;3;;;;;;;No;;;;;No toll objects found
+58;50.93997;1.87752;2;;;;;;;No;;;;;No toll objects found
+59;50.93994;1.87754;3;;;;;;;No;;;;;No toll objects found
+60;50.93992;1.87755;2;;;;;;;No;;;;;No toll objects found
+61;50.93989;1.87758;3;;;;;;;No;;;;;No toll objects found
+62;50.93987;1.8776;2;;;;;;;No;;;;;No toll objects found
+63;50.93985;1.87763;3;;;;;;;No;;;;;No toll objects found
+64;50.93984;1.87767;3;;;;;;;No;;;;;No toll objects found
+65;50.93982;1.8777;3;;;;;;;No;;;;;No toll objects found
+66;50.93981;1.87774;3;;;;;;;No;;;;;No toll objects found
+67;50.9398;1.87778;3;;;;;;;No;;;;;No toll objects found
+68;50.9398;1.87782;2;;;;;;;No;;;;;No toll objects found
+69;50.93979;1.87786;3;;;;;;;No;;;;;No toll objects found
+70;50.93979;1.87791;3;;;;;;;No;;;;;No toll objects found
+71;50.9398;1.87795;3;;;;;;;No;;;;;No toll objects found
+72;50.9398;1.87799;2;;;;;;;No;;;;;No toll objects found
+73;50.93981;1.87803;3;;;;;;;No;;;;;No toll objects found
+74;50.93983;1.87807;3;;;;;;;No;;;;;No toll objects found
+75;50.93984;1.87811;3;;;;;;;No;;;;;No toll objects found
+76;50.93984;1.87811;0;;;;;;;No;;;;;No toll objects found
+77;50.93987;1.87819;6;;;;;;;No;;;;;No toll objects found
+78;50.93988;1.87824;3;;;;;;;No;;;;;No toll objects found
+79;50.93988;1.87828;2;;;;;;;No;;;;;No toll objects found
+80;50.93988;1.87832;2;;;;;;;No;;;;;No toll objects found
+81;50.93988;1.87834;1;;;;;;;No;;;;;No toll objects found
+82;50.93988;1.87837;2;;;;;;;No;;;;;No toll objects found
+83;50.93987;1.87844;5;;;;;;;No;;;;;No toll objects found
+84;50.93985;1.87851;5;;;;;;;No;;;;;No toll objects found
+85;50.93984;1.87857;4;;;;;;;No;;;;;No toll objects found
+86;50.93982;1.87863;4;;;;;;;No;;;;;No toll objects found
+87;50.93979;1.8787;5;;;;;;;No;;;;;No toll objects found
+88;50.93977;1.87877;5;;;;;;;No;;;;;No toll objects found
+89;50.93971;1.87889;10;;;;;;;No;;;;;No toll objects found
+90;50.93966;1.879;9;;;;;;;No;;;;;No toll objects found
+91;50.9395;1.87935;30;;;;;;;No;;;;;No toll objects found
+92;50.93946;1.87943;7;;;;;;;No;;;;;No toll objects found
+93;50.93931;1.87974;27;;;;;;;No;;;;;No toll objects found
+94;50.93923;1.87993;16;;;;;;;No;;;;;No toll objects found
+95;50.93918;1.88001;7;;;;;;;No;;;;;No toll objects found
+96;50.93913;1.88013;10;;;;;;;No;;;;;No toll objects found
+97;50.93911;1.88018;4;;;;;;;No;;;;;No toll objects found
+98;50.93889;1.88062;39;;;;;;;No;;;;;No toll objects found
+99;50.93886;1.88068;5;;;;;;;No;;;;;No toll objects found
+100;50.93884;1.88072;3;;;;;;;No;;;;;No toll objects found
+101;50.93879;1.88083;9;;;;;;;No;;;;;No toll objects found
+102;50.93871;1.88099;14;;;;;;;No;;;;;No toll objects found
+103;50.93862;1.88124;20;;;;;;;No;;;;;No toll objects found
+104;50.93855;1.88139;13;;;;;;;No;;;;;No toll objects found
+105;50.93833;1.88185;40;;;;;;;No;;;;;No toll objects found
+106;50.93789;1.88277;81;;;;;;;No;;;;;No toll objects found
+107;50.93786;1.88283;5;;;;;;;No;;;;;No toll objects found
+108;50.93783;1.88289;5;;;;;;;No;;;;;No toll objects found
+109;50.93764;1.88329;35;;;;;;;No;;;;;No toll objects found
+110;50.93757;1.88343;12;;;;;;;No;;;;;No toll objects found
+111;50.93753;1.88351;7;;;;;;;No;;;;;No toll objects found
+112;50.9375;1.88359;6;;;;;;;No;;;;;No toll objects found
+113;50.93678;1.8851;132;;;;;;;No;;;;;No toll objects found
+114;50.93665;1.88534;22;;;;;;;No;;;;;No toll objects found
+115;50.93653;1.88555;19;;;;;;;No;;;;;No toll objects found
+116;50.9365;1.88561;5;;;;;;;No;;;;;No toll objects found
+117;50.93633;1.88597;31;;;;;;;No;;;;;No toll objects found
+118;50.93631;1.88601;3;;;;;;;No;;;;;No toll objects found
+119;50.93626;1.88611;8;;;;;;;No;;;;;No toll objects found
+120;50.9362;1.88624;11;;;;;;;No;;;;;No toll objects found
+121;50.93618;1.88629;4;;;;;;;No;;;;;No toll objects found
+122;50.93615;1.88638;7;;;;;;;No;;;;;No toll objects found
+123;50.93612;1.88644;5;;;;;;;No;;;;;No toll objects found
+124;50.93597;1.8868;30;;;;;;;No;;;;;No toll objects found
+125;50.93587;1.88701;18;;;;;;;No;;;;;No toll objects found
+126;50.93509;1.88863;143;;;;;;;No;;;;;No toll objects found
+127;50.93503;1.88877;11;;;;;;;No;;;;;No toll objects found
+128;50.93499;1.88885;7;;;;;;;No;;;;;No toll objects found
+129;50.93466;1.88953;60;;;;;;;No;;;;;No toll objects found
+130;50.9345;1.88978;25;;;;;;;No;;;;;No toll objects found
+131;50.9344;1.88996;16;;;;;;;No;;;;;No toll objects found
+132;50.93433;1.89005;10;;;;;;;No;;;;;No toll objects found
+133;50.93426;1.89013;9;;;;;;;No;;;;;No toll objects found
+134;50.93422;1.89016;4;;;;;;;No;;;;;No toll objects found
+135;50.93419;1.89018;3;;;;;;;No;;;;;No toll objects found
+136;50.93416;1.89018;3;;;;;;;No;;;;;No toll objects found
+137;50.93412;1.89017;4;;;;;;;No;;;;;No toll objects found
+138;50.93412;1.89017;0;;;;;;;No;;;;;No toll objects found
+139;50.93408;1.89015;4;;;;;;;No;;;;;No toll objects found
+140;50.93404;1.89013;4;;;;;;;No;;;;;No toll objects found
+141;50.934;1.89011;4;;;;;;;No;;;;;No toll objects found
+142;50.93395;1.8901;5;;;;;;;No;;;;;No toll objects found
+143;50.93391;1.8901;4;;;;;;;No;;;;;No toll objects found
+144;50.93386;1.8901;5;;;;;;;No;;;;;No toll objects found
+145;50.93382;1.89011;4;;;;;;;No;;;;;No toll objects found
+146;50.93378;1.89013;4;;;;;;;No;;;;;No toll objects found
+147;50.93373;1.89015;5;;;;;;;No;;;;;No toll objects found
+148;50.93369;1.89017;4;;;;;;;No;;;;;No toll objects found
+149;50.93365;1.89021;5;;;;;;;No;;;;;No toll objects found
+150;50.93361;1.89024;4;;;;;;;No;;;;;No toll objects found
+151;50.93358;1.89029;4;;;;;;;No;;;;;No toll objects found
+152;50.93355;1.89033;4;;;;;;;No;;;;;No toll objects found
+153;50.93351;1.89038;5;;;;;;;No;;;;;No toll objects found
+154;50.93349;1.89044;4;;;;;;;No;;;;;No toll objects found
+155;50.93346;1.8905;5;;;;;;;No;;;;;No toll objects found
+156;50.93344;1.89056;4;;;;;;;No;;;;;No toll objects found
+157;50.93342;1.89062;4;;;;;;;No;;;;;No toll objects found
+158;50.9334;1.89069;5;;;;;;;No;;;;;No toll objects found
+159;50.93339;1.89075;4;;;;;;;No;;;;;No toll objects found
+160;50.93339;1.89082;4;;;;;;;No;;;;;No toll objects found
+161;50.93338;1.89089;5;;;;;;;No;;;;;No toll objects found
+162;50.93338;1.89097;5;;;;;;;No;;;;;No toll objects found
+163;50.93338;1.89104;4;;;;;;;No;;;;;No toll objects found
+164;50.93339;1.89111;5;;;;;;;No;;;;;No toll objects found
+165;50.9334;1.89117;4;;;;;;;No;;;;;No toll objects found
+166;50.93341;1.89124;5;;;;;;;No;;;;;No toll objects found
+167;50.93343;1.89131;5;;;;;;;No;;;;;No toll objects found
+168;50.93345;1.89137;4;;;;;;;No;;;;;No toll objects found
+169;50.93348;1.89143;5;;;;;;;No;;;;;No toll objects found
+170;50.9335;1.89148;4;;;;;;;No;;;;;No toll objects found
+171;50.93353;1.89154;5;;;;;;;No;;;;;No toll objects found
+172;50.93357;1.89158;5;;;;;;;No;;;;;No toll objects found
+173;50.9336;1.89163;4;;;;;;;No;;;;;No toll objects found
+174;50.93364;1.89167;5;;;;;;;No;;;;;No toll objects found
+175;50.93368;1.8917;4;;;;;;;No;;;;;No toll objects found
+176;50.93368;1.8917;0;;;;;;;No;;;;;No toll objects found
+177;50.93371;1.89178;6;;;;;;;No;;;;;No toll objects found
+178;50.93373;1.89183;4;;;;;;;No;;;;;No toll objects found
+179;50.93375;1.89191;6;;;;;;;No;;;;;No toll objects found
+180;50.93376;1.89199;5;;;;;;;No;;;;;No toll objects found
+181;50.93379;1.8923;22;;;;;;;No;;;;;No toll objects found
+182;50.93381;1.89247;12;;;;;;;No;;;;;No toll objects found
+183;50.93383;1.89256;6;;;;;;;No;;;;;No toll objects found
+184;50.93385;1.89264;6;;;;;;;No;;;;;No toll objects found
+185;50.93391;1.89286;16;;;;;;;No;;;;;No toll objects found
+186;50.93411;1.89341;44;;;;;;;No;;;;;No toll objects found
+187;50.93422;1.89374;26;;;;;;;No;;;;;No toll objects found
+188;50.93428;1.89393;14;;;;;;;No;;;;;No toll objects found
+189;50.93432;1.8941;12;;;;;;;No;;;;;No toll objects found
+190;50.93438;1.89434;18;;;;;;;No;;;;;No toll objects found
+191;50.93446;1.89469;26;;;;;;;No;;;;;No toll objects found
+192;50.93492;1.89682;158;;;;;;;No;;;;;No toll objects found
+193;50.93492;1.89682;0;;;;;;;No;;;;;No toll objects found
+194;50.93504;1.8975;49;;;;;;;No;;;;;No toll objects found
+195;50.93519;1.89846;69;;;;;;;No;;;;;No toll objects found
+196;50.93528;1.89915;49;4133387;motorway_link;na;na;na;DIRN;yes;5016807971;50.9352805;1.8991466;0;
+197;50.93528;1.89915;0;4133387;motorway_link;na;na;na;DIRN;yes;5016807971;50.9352805;1.8991466;0;
+198;50.93541;1.90035;85;4133387;motorway_link;na;na;na;DIRN;yes;7083263286;50.9354139;1.9003515;0;
+199;50.93547;1.90088;37;4133387;motorway_link;na;na;na;DIRN;yes;7083263287;50.9354697;1.9008824;0;
+200;50.93551;1.90126;27;4133387;motorway_link;na;na;na;DIRN;yes;7083263288;50.9355078;1.9012632;0;
+201;50.93554;1.90159;23;4133387;motorway_link;na;na;na;DIRN;yes;1468535017;50.9355374;1.9015904;0;
+202;50.93556;1.90191;22;4133387;motorway_link;na;na;na;DIRN;yes;7083263289;50.9355604;1.9019049;0;
+203;50.93558;1.90223;22;4133387;motorway_link;na;na;na;DIRN;yes;301880649;50.9355817;1.9022301;0;
+204;50.9356;1.90258;24;4133387;motorway_link;na;na;na;DIRN;yes;1468535038;50.9356019;1.9025808;0;
+205;50.93562;1.90292;24;4133387;motorway_link;na;na;na;DIRN;yes;301880531;50.9356175;1.9029181;0;
+206;50.93562;1.90317;17;4133387;motorway_link;na;na;na;DIRN;yes;1468535043;50.9356226;1.9031706;0;
+207;50.93562;1.90343;18;4133387;motorway_link;na;na;na;DIRN;yes;5016807960;50.9356241;1.9034339;0;
+208;50.93562;1.90369;18;4133387;motorway_link;na;na;na;DIRN;yes;7083263290;50.9356175;1.9036861;0;
+209;50.9356;1.90395;18;4133387;motorway_link;na;na;na;DIRN;yes;1468535041;50.9356024;1.9039543;0;
+210;50.93558;1.90423;19;4133387;motorway_link;na;na;na;DIRN;yes;301875613;50.935581;1.9042252;0;
+211;50.93555;1.90449;18;4133387;motorway_link;na;na;na;DIRN;yes;5016807943;50.9355518;1.9044888;0;
+212;50.93552;1.90475;18;4133387;motorway_link;na;na;na;DIRN;yes;1468535051;50.935516;1.9047458;0;
+213;50.93548;1.90497;16;4133387;motorway_link;na;na;na;DIRN;yes;7083263291;50.9354771;1.9049718;0;
+214;50.93543;1.90519;16;4133387;motorway_link;na;na;na;DIRN;yes;22960831;50.9354331;1.9051897;0;
+215;50.93537;1.90547;20;4133387;motorway_link;na;na;na;DIRN;yes;1468534998;50.9353683;1.9054731;0;
+216;50.93531;1.9057;17;4133387;motorway_link;na;na;na;DIRN;yes;7083263292;50.93531;1.9057041;0;
+217;50.93525;1.90592;16;4133387;motorway_link;na;na;na;DIRN;yes;7083263293;50.935247;1.9059189;0;
+218;50.93519;1.90611;14;4133387;motorway_link;na;na;na;DIRN;yes;1468535010;50.9351858;1.9061122;0;
+219;50.93511;1.90633;17;4133387;motorway_link;na;na;na;DIRN;yes;301875927;50.9351073;1.9063285;0;
+220;50.935;1.90662;23;4133387;motorway_link;na;na;na;DIRN;yes;1468535036;50.9349964;1.9066203;0;
+221;50.9349;1.90684;19;4133387;motorway_link;na;na;na;DIRN;yes;7083263294;50.9349037;1.9068349;0;
+222;50.93481;1.90702;16;4133387;motorway_link;na;na;na;DIRN;yes;22960828;50.9348126;1.9070227;0;
+223;50.93471;1.90722;17;4133387;motorway_link;na;na;na;DIRN;yes;7083263295;50.9347056;1.9072242;0;
+224;50.93462;1.90739;15;4133387;motorway_link;na;na;na;DIRN;yes;1468535002;50.9346156;1.907388;0;
+225;50.93451;1.90756;17;4133387;motorway_link;na;na;na;DIRN;yes;7083263296;50.9345137;1.9075594;0;
+226;50.93441;1.90772;15;4133387;motorway_link;na;na;na;DIRN;yes;1468535040;50.9344051;1.9077226;0;
+227;50.93427;1.90791;20;4133387;motorway_link;na;na;na;DIRN;yes;22960825;50.9342731;1.9079112;0;
+228;50.93415;1.90807;17;4133387;motorway_link;na;na;na;DIRN;yes;7083263297;50.9341455;1.9080709;0;
+229;50.93404;1.90819;14;4133387;motorway_link;na;na;na;DIRN;yes;1468534978;50.9340398;1.9081931;0;
+230;50.93393;1.90831;14;4133387;motorway_link;na;na;na;DIRN;yes;1468535056;50.9339304;1.9083123;0;
+231;50.93381;1.90843;15;4133387;motorway_link;na;na;na;DIRN;yes;1468629125;50.933812;1.9084337;0;
+232;50.93371;1.90853;13;4133387;motorway_link;na;na;na;DIRN;yes;7083263298;50.9337051;1.9085319;0;
+233;50.93359;1.90863;15;4133387;motorway_link;na;na;na;DIRN;yes;22960823;50.9335864;1.9086329;0;
+234;50.93343;1.90876;20;4133387;motorway_link;na;na;na;DIRN;yes;1468629115;50.9334284;1.9087555;0;
+235;50.93329;1.90885;16;4133387;motorway_link;na;na;na;DIRN;yes;7083263299;50.9332918;1.9088493;0;
+236;50.93316;1.90894;15;4133387;motorway_link;na;na;na;DIRN;yes;1468629174;50.9331569;1.9089404;0;
+237;50.93293;1.90908;27;4133387;motorway_link;na;na;na;DIRN;yes;1468629157;50.9329313;1.9090837;0;
+238;50.93253;1.90931;47;4133387;motorway_link;na;na;na;DIRN;yes;1468629184;50.9325328;1.9093118;0;
+239;50.93227;1.90945;30;4133387;motorway_link;na;na;na;DIRN;yes;1468629149;50.9322662;1.9094459;0;
+240;50.93227;1.90945;0;4133387;motorway_link;na;na;na;DIRN;yes;1468629149;50.9322662;1.9094459;0;
+241;50.93191;1.90966;42;30837561;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1468629128;50.9319083;1.9096621;0;
+242;50.93163;1.90983;33;30837561;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22960820;50.9316265;1.9098342;0;
+243;50.93139;1.90998;28;30837561;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;301878068;50.9313895;1.9099834;0;
+244;50.93124;1.91008;18;30837561;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22960817;50.9312442;1.9100747;0;
+245;50.93113;1.91015;13;30837561;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5382561076;50.9311342;1.9101462;0;
+246;50.93099;1.91024;16;30837561;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7141089988;50.9309875;1.9102428;0;
+247;50.93077;1.91039;26;30837561;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1468629147;50.930767;1.910388;0;
+248;50.93055;1.91054;26;30837561;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1468629113;50.9305448;1.9105393;0;
+249;50.93011;1.91085;53;30837561;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7141089987;50.9301075;1.9108445;0;
+250;50.92971;1.91113;48;30837561;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22956669;50.9297124;1.9111283;0;
+251;50.92944;1.91133;33;30837561;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1468629145;50.9294346;1.9113324;0;
+252;50.9289;1.91174;66;30837561;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1468629169;50.9288988;1.911738;0;
+253;50.9285;1.91205;49;30837561;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7141089986;50.9285023;1.9120499;0;
+254;50.92808;1.91241;53;30837561;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1468629101;50.928077;1.9124047;0;
+255;50.92783;1.91262;31;30837561;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7141089985;50.9278252;1.912618;0;
+256;50.9276;1.91282;29;30837561;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22960834;50.927597;1.9128152;0;
+257;50.92734;1.91305;33;30837561;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7141079884;50.9273404;1.9130458;0;
+258;50.92708;1.91329;33;30837561;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7141079883;50.927077;1.9132872;0;
+259;50.92666;1.91368;54;30837561;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1468629093;50.926655;1.9136786;0;
+260;50.92629;1.91403;47;30837561;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7141079882;50.9262875;1.9140288;0;
+261;50.92599;1.91433;39;30837561;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1468629131;50.9259905;1.9143249;0;
+262;50.92561;1.91472;50;30837561;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1468629130;50.9256094;1.9147177;0;
+263;50.92499;1.91535;81;30837561;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1468629160;50.9249938;1.915354;0;
+264;50.92468;1.91571;42;30837561;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22956799;50.9246807;1.9157095;0;
+265;50.92436;1.91608;44;108715026;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1246526513;50.924355;1.9160748;0;
+266;50.92406;1.91642;41;108715026;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5382577041;50.9240601;1.9164196;0;
+267;50.9237;1.91686;50;108715026;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1468629104;50.9237022;1.9168585;0;
+268;50.92303;1.91766;93;108715026;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1468629121;50.9230322;1.9176641;0;
+269;50.92215;1.91884;128;108715026;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22960849;50.922151;1.9188405;0;
+270;50.92164;1.91954;75;108715026;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1468629155;50.9216413;1.9195391;0;
+271;50.92127;1.92011;57;108715026;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5382576916;50.9212653;1.9201049;0;
+272;50.9209;1.92067;56;108715026;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1468629172;50.9208946;1.9206709;0;
+273;50.92067;1.921;34;108715026;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1468629159;50.9206671;1.9209995;0;
+274;50.92003;1.92205;102;108715026;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1468629126;50.9200295;1.9220508;0;
+275;50.91966;1.92267;59;108715026;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22960843;50.9196603;1.9226708;0;
+276;50.91896;1.92389;115;108715026;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1468644148;50.9189591;1.9238911;0;
+277;50.91846;1.92484;86;108715026;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1468644154;50.9184567;1.9248425;0;
+278;50.91809;1.92558;66;108563468;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1245323577;50.9180884;1.9255788;0;
+279;50.91773;1.92633;66;108563465;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1245323871;50.9177259;1.9263305;0;
+280;50.91742;1.92699;57;108563465;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22960855;50.9174152;1.9269848;0;
+281;50.91687;1.92817;103;108563465;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1468644100;50.916872;1.9281687;0;
+282;50.91634;1.92938;103;108563465;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1468644084;50.9163353;1.9293821;0;
+283;50.91589;1.9304;87;108563465;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1468643992;50.9158915;1.930404;0;
+284;50.91562;1.93103;53;108563465;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1468643997;50.9156197;1.9310314;0;
+285;50.91512;1.93217;97;108563465;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1468644006;50.9151197;1.9321736;0;
+286;50.91446;1.93369;129;108563465;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1468644036;50.9144642;1.9336889;0;
+287;50.91418;1.93437;57;108563465;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7141924728;50.9141745;1.9343703;0;
+288;50.91392;1.93495;50;108563465;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7141924727;50.9139234;1.9349542;0;
+289;50.91341;1.93614;101;108563465;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7141924726;50.913407;1.9361444;0;
+290;50.91242;1.93842;194;108563465;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7141924725;50.9124166;1.938419;0;
+291;50.91141;1.94072;196;108563465;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22956867;50.911413;1.9407174;0;
+292;50.91122;1.94115;36;108724322;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1246609765;50.9112229;1.9411521;0;
+293;50.91029;1.94331;183;108724337;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;6943313482;50.9102854;1.9433087;0;
+294;50.90933;1.9455;187;108724337;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;6943358385;50.9093267;1.9455019;0;
+295;50.90901;1.94623;62;108724337;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;6943358320;50.9090083;1.9462276;0;
+296;50.90828;1.9479;142;108724337;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;6943358317;50.9082824;1.9478991;0;
+297;50.90778;1.94907;99;108724337;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;6943358314;50.9077755;1.9490681;0;
+298;50.90721;1.95037;111;108724337;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1246603429;50.9072139;1.9503662;0;
+299;50.90693;1.95104;56;108724337;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7141924787;50.9069302;1.9510426;0;
+300;50.90665;1.95174;58;108723413;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1246603391;50.906649;1.9517348;0;
+301;50.90611;1.95308;111;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1246603431;50.9061104;1.9530761;0;
+302;50.90569;1.95419;90;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22960863;50.9056917;1.9541852;0;
+303;50.90549;1.95474;44;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7141924789;50.9054942;1.9547429;0;
+304;50.90503;1.95608;107;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7141924896;50.9050287;1.9560837;0;
+305;50.90486;1.95661;41;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1246603395;50.9048546;1.9566114;0;
+306;50.90477;1.95687;20;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1738005406;50.9047697;1.9568715;0;
+307;50.90459;1.95742;43;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7309056848;50.9045933;1.9574211;0;
+308;50.90448;1.95779;28;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22960877;50.9044779;1.9577927;0;
+309;50.90433;1.9583;39;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7309056849;50.9043251;1.9582952;0;
+310;50.90412;1.959;54;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7309056850;50.9041185;1.9589952;0;
+311;50.90402;1.95935;27;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7309056851;50.9040184;1.9593461;0;
+312;50.90391;1.95972;28;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7309056852;50.9039133;1.9597189;0;
+313;50.90373;1.96037;49;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7309056853;50.9037324;1.9603723;0;
+314;50.90354;1.96111;56;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7309056854;50.9035373;1.9611072;0;
+315;50.90335;1.96182;54;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7309056855;50.9033533;1.9618224;0;
+316;50.90322;1.96235;39;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22960870;50.9032216;1.9623525;0;
+317;50.90313;1.96275;29;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7309056856;50.9031282;1.9627452;0;
+318;50.90304;1.96313;28;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7309056857;50.9030387;1.9631326;0;
+319;50.90292;1.96364;38;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7309056858;50.9029226;1.9636375;0;
+320;50.90279;1.96422;43;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7309056859;50.902793;1.9642223;0;
+321;50.90268;1.96473;37;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7309056860;50.9026831;1.9647245;0;
+322;50.90256;1.96532;43;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7309056861;50.9025577;1.9653202;0;
+323;50.90243;1.96594;45;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7309056862;50.9024286;1.9659369;0;
+324;50.90223;1.96691;71;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1684715746;50.9022312;1.9669078;0;
+325;50.90204;1.96785;69;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;6958640593;50.9020427;1.9678467;0;
+326;50.90165;1.96984;146;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7309056863;50.9016475;1.969841;0;
+327;50.9014;1.97111;93;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1684715743;50.9013952;1.9711113;0;
+328;50.90096;1.97334;164;108723409;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7309056864;50.9009554;1.9733444;0;
+329;50.90031;1.97658;239;108558847;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1245285823;50.9003113;1.9765802;0;
+330;50.90015;1.97741;61;108558847;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1245285946;50.900145;1.9774105;0;
+331;50.89955;1.98042;222;108558916;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1246603407;50.8995542;1.9804147;0;
+332;50.89926;1.98187;106;108558916;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;6924951377;50.8992573;1.9818735;0;
+333;50.89909;1.9826;54;108558916;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;6924945966;50.8990881;1.9825977;0;
+334;50.89896;1.98313;39;108558916;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22960911;50.8989546;1.9831249;0;
+335;50.89866;1.98423;84;108558916;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;6924951382;50.8986618;1.9842339;0;
+336;50.89828;1.98545;95;108558916;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22960913;50.8982775;1.9854482;0;
+337;50.89794;1.98643;78;108558916;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;6924962193;50.8979412;1.9864333;0;
+338;50.89744;1.98771;105;108558916;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1684715730;50.8974442;1.9877127;0;
+339;50.89712;1.98844;62;108558916;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;6924962213;50.8971164;1.9884404;0;
+340;50.89647;1.9898;119;108558916;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22960918;50.8964732;1.9897982;0;
+341;50.89585;1.9909;103;108558916;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;6924962211;50.8958502;1.9909018;0;
+342;50.89549;1.99149;57;108558916;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;6924962208;50.8954915;1.9914919;0;
+343;50.89484;1.99249;100;108558916;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22960898;50.894841;1.9924863;0;
+344;50.89387;1.99369;137;108558916;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22960923;50.8938689;1.9936901;0;
+345;50.89204;1.99568;247;108558916;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22960891;50.8920349;1.9956797;0;
+346;50.89142;1.99624;79;108558916;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;6922808314;50.8914244;1.9962394;0;
+347;50.89081;1.99673;76;108558916;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1246603421;50.8908107;1.9967285;0;
+348;50.89017;1.99716;77;108558916;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;6922808313;50.8901656;1.9971621;0;
+349;50.88965;1.99743;60;108558916;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22960942;50.889652;1.9974339;0;
+350;50.88759;1.99873;246;108558916;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22960947;50.887585;1.9987246;0;
+351;50.88568;2.00016;235;108723407;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22960932;50.8856828;2.0001553;0;
+352;50.88385;2.00195;239;108723410;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22960927;50.8838469;2.0019485;0;
+353;50.88341;2.00248;61;108723410;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5541287701;50.8834124;2.0024782;0;
+354;50.88296;2.00295;60;108723410;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5541287702;50.8829572;2.0029503;0;
+355;50.88204;2.00388;121;108723410;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5541287710;50.8820367;2.0038783;0;
+356;50.88108;2.00487;127;108723410;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5541287695;50.8810788;2.0048654;0;
+357;50.88019;2.00571;115;108723410;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1250290930;50.8801906;2.0057095;0;
+358;50.87871;2.00711;191;108723410;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22960959;50.8787047;2.0071133;0;
+359;50.87796;2.00779;96;108723410;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5538568928;50.8779548;2.007789;0;
+360;50.87708;2.00845;108;108723410;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1250290891;50.8770831;2.008448;0;
+361;50.87682;2.00864;31;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1250290902;50.8768197;2.0086422;0;
+362;50.87582;2.00936;122;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5541287621;50.8758189;2.0093608;0;
+363;50.87479;2.01;123;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22960972;50.8747864;2.0100005;0;
+364;50.87372;2.0107;128;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5541286519;50.8737236;2.0106965;0;
+365;50.87261;2.01134;131;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1250290897;50.8726128;2.0113443;0;
+366;50.87198;2.01183;78;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5541287692;50.8719768;2.0118284;0;
+367;50.87127;2.01229;85;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22960963;50.8712659;2.0122914;0;
+368;50.87002;2.01328;155;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22961005;50.8700214;2.0132749;0;
+369;50.86944;2.01384;75;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1250385564;50.8694419;2.0138396;0;
+370;50.86862;2.01468;108;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22960981;50.8686244;2.0146758;0;
+371;50.86704;2.01652;218;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1250290917;50.867041;2.0165196;0;
+372;50.86643;2.01723;84;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5541066981;50.8664247;2.017225;0;
+373;50.86564;2.01804;104;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22960979;50.8656354;2.018038;0;
+374;50.86508;2.01857;72;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5541067007;50.8650805;2.0185715;0;
+375;50.86444;2.01909;80;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1250290932;50.8644348;2.0190905;0;
+376;50.86422;2.01926;27;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5541067012;50.8642172;2.0192635;0;
+377;50.86398;2.01944;29;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5541067018;50.8639751;2.0194378;0;
+378;50.86345;2.01981;64;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22961017;50.8634509;2.0198135;0;
+379;50.8629;2.02016;65;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5541003907;50.8628967;2.0201594;0;
+380;50.86235;2.02047;64;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5541003908;50.8623482;2.0204651;0;
+381;50.86179;2.02074;65;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5541003902;50.8617861;2.0207387;0;
+382;50.86131;2.02096;55;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1684715727;50.861308;2.0209638;0;
+383;50.86082;2.02115;56;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5541003903;50.8608211;2.0211518;0;
+384;50.86045;2.02129;42;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5541003904;50.8604452;2.0212913;0;
+385;50.85996;2.02143;55;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5541003891;50.8599576;2.021428;0;
+386;50.85955;2.02154;46;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1684715720;50.8595504;2.0215366;0;
+387;50.85879;2.02174;85;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5541003888;50.8587894;2.0217365;0;
+388;50.85808;2.02194;80;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5541003889;50.8580783;2.021935;0;
+389;50.85732;2.02218;86;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5541003887;50.8573164;2.0221764;0;
+390;50.85659;2.02243;83;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22961036;50.8565943;2.0224309;0;
+391;50.85578;2.0228;93;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5540976872;50.855779;2.0227987;0;
+392;50.85531;2.02308;55;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5540976876;50.8553066;2.0230749;0;
+393;50.85455;2.02354;90;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22961041;50.8545486;2.0235376;0;
+394;50.85396;2.02392;70;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5540976885;50.8539638;2.0239225;0;
+395;50.85359;2.02422;46;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5540976880;50.853593;2.0242149;0;
+396;50.85334;2.02443;31;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22961029;50.8533366;2.0244249;0;
+397;50.85228;2.02533;133;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1250290899;50.852283;2.0253309;0;
+398;50.8512;2.02645;143;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22961023;50.8512019;2.0264499;0;
+399;50.85078;2.02701;61;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5540977094;50.8507778;2.0270102;0;
+400;50.84954;2.02864;179;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1268988436;50.8495433;2.0286411;0;
+401;50.849;2.02956;88;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5538577146;50.8489955;2.0295632;0;
+402;50.84853;2.03037;77;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5538577159;50.8485315;2.0303732;0;
+403;50.84804;2.03129;84;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5538577157;50.848037;2.0312852;0;
+404;50.84757;2.03221;83;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22961063;50.8475708;2.0322092;0;
+405;50.84668;2.03408;164;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5538577187;50.8466754;2.0340827;0;
+406;50.84571;2.03603;174;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1268988137;50.8457118;2.036029;0;
+407;50.8454;2.03663;54;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22961059;50.8453991;2.0366289;0;
+408;50.84466;2.03806;130;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5387851646;50.8446566;2.0380551;0;
+409;50.84381;2.0395;138;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1250290879;50.8438091;2.0394978;0;
+410;50.84255;2.04155;201;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22961048;50.8425449;2.0415524;0;
+411;50.84088;2.04397;252;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1250290885;50.8408783;2.0439685;0;
+412;50.83888;2.04656;287;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22961078;50.8388844;2.0465617;0;
+413;50.83813;2.04741;102;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5387851641;50.838129;2.0474052;0;
+414;50.83734;2.04827;106;109142831;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1268988199;50.8373369;2.0482688;0;
+415;50.83712;2.04849;28;111378123;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1268988194;50.8371244;2.0484864;0;
+416;50.83652;2.04912;80;425643794;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5387851637;50.8365164;2.0491165;0;
+417;50.83623;2.04939;37;425643794;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5387851634;50.8362302;2.0493847;0;
+418;50.8353;2.05025;119;425643794;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22961072;50.835296;2.0502497;0;
+419;50.83315;2.0519;265;425643794;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22961139;50.8331457;2.0518993;0;
+420;50.83277;2.05231;51;425643794;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5387856938;50.8327693;2.0523137;0;
+421;50.83223;2.05271;66;425643794;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5387856948;50.8322272;2.0527053;0;
+422;50.83188;2.053;43;425643794;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5387856941;50.8318817;2.053003;0;
+423;50.83134;2.05339;66;425643794;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5387856956;50.8313394;2.0533941;0;
+424;50.83083;2.05374;61;425643794;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5387856949;50.8308296;2.0537406;0;
+425;50.83042;2.05402;49;425643794;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5387856957;50.8304196;2.0540164;0;
+426;50.82844;2.0554;240;425643794;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22961084;50.8284373;2.0553963;0;
+427;50.82666;2.05669;217;425643794;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797629112;50.8266583;2.0566891;0;
+428;50.82649;2.05682;21;425643792;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4249346782;50.8264935;2.0568171;0;
+429;50.82636;2.05692;16;425643792;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4249346780;50.826356;2.0569238;0;
+430;50.82559;2.05752;95;680281638;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797629115;50.8255875;2.0575206;0;
+431;50.82488;2.05812;89;680281638;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1746568226;50.8248815;2.0581185;0;
+432;50.82418;2.05871;88;680281638;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22961243;50.8241812;2.0587115;0;
+433;50.8238;2.05908;49;680281638;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1746568359;50.823799;2.0590753;0;
+434;50.82272;2.06014;141;680281638;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797627468;50.8227172;2.0601384;0;
+435;50.822;2.06088;95;680281637;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797627470;50.822004;2.0608776;0;
+436;50.82055;2.06247;196;680281637;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328070295;50.8205464;2.0624705;0;
+437;50.82016;2.06293;54;680281637;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328070294;50.8201606;2.0629299;0;
+438;50.81982;2.06334;47;680281637;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22961145;50.8198231;2.063341;0;
+439;50.81857;2.06494;179;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797626253;50.8185658;2.0649369;0;
+440;50.818;2.06576;85;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22961486;50.8179964;2.0657603;0;
+441;50.81785;2.06597;22;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1727479405;50.817854;2.0659727;0;
+442;50.81772;2.06617;20;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1727479437;50.8177217;2.06617;0;
+443;50.81743;2.06658;43;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5333426947;50.8174323;2.066583;0;
+444;50.81732;2.06674;16;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328070288;50.8173171;2.0667413;0;
+445;50.81694;2.06733;59;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797633144;50.8169424;2.0673321;0;
+446;50.81641;2.06816;83;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328070272;50.8164088;2.0681548;0;
+447;50.81585;2.06904;87;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22961447;50.8158476;2.0690434;0;
+448;50.8154;2.06983;74;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328070275;50.8154021;2.0698285;0;
+449;50.81501;2.07055;66;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797625290;50.8150071;2.0705507;0;
+450;50.81457;2.07133;73;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328069828;50.814565;2.0713252;0;
+451;50.81419;2.07205;66;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797624512;50.8141936;2.0720474;0;
+452;50.81365;2.07311;95;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328069830;50.8136464;2.0731115;0;
+453;50.81303;2.07438;112;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22961402;50.8130311;2.0743756;0;
+454;50.81265;2.07526;75;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328069832;50.8126465;2.0752546;0;
+455;50.8123;2.07601;65;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328069833;50.8123008;2.0760137;0;
+456;50.81166;2.07754;129;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797633478;50.8116582;2.0775352;0;
+457;50.81114;2.07888;110;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328069840;50.8111433;2.0788783;0;
+458;50.81066;2.08017;105;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22961517;50.8106617;2.0801691;0;
+459;50.81015;2.08166;119;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328069848;50.8101484;2.0816624;0;
+460;50.80969;2.08304;109;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797633957;50.8096855;2.0830391;0;
+461;50.80925;2.08437;105;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328069867;50.8092535;2.0843714;0;
+462;50.80879;2.08573;108;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;22956893;50.8087939;2.085732;0;
+463;50.80846;2.08684;86;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328069865;50.8084569;2.0868391;0;
+464;50.80819;2.08763;63;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328069869;50.8081857;2.0876276;0;
+465;50.80785;2.0888;90;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328069856;50.8078467;2.0888025;0;
+466;50.80751;2.08981;80;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797634073;50.8075058;2.089809;0;
+467;50.80727;2.09054;57;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328069855;50.807267;2.0905405;0;
+468;50.80716;2.09084;24;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7397190170;50.8071619;2.0908356;0;
+469;50.80707;2.09109;20;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797634233;50.8070685;2.0910911;0;
+470;50.80649;2.09264;126;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23047664;50.8064922;2.092636;0;
+471;50.80618;2.09334;60;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328069854;50.8061822;2.0933381;0;
+472;50.80588;2.094;57;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797634242;50.8058786;2.0939986;0;
+473;50.80556;2.09466;58;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328069872;50.805555;2.094655;0;
+474;50.80513;2.09551;76;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23047711;50.805126;2.0955061;0;
+475;50.80489;2.09593;39;111378132;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;2440054994;50.8048885;2.0959267;0;
+476;50.80455;2.09652;56;235921544;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797634245;50.8045457;2.0965214;0;
+477;50.80416;2.09715;62;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5333400108;50.8041617;2.0971495;0;
+478;50.80369;2.09787;72;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23047678;50.8036919;2.0978717;0;
+479;50.80284;2.09913;129;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797634306;50.8028376;2.0991324;0;
+480;50.80234;2.09968;67;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797634819;50.8023392;2.0996796;0;
+481;50.80192;2.10015;57;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4937885494;50.801924;2.1001491;0;
+482;50.80154;2.1006;52;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23047671;50.8015358;2.1006022;0;
+483;50.80084;2.10131;92;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797634825;50.8008373;2.1013103;0;
+484;50.80042;2.10171;54;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5333400812;50.8004188;2.1017092;0;
+485;50.79984;2.10221;73;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797636172;50.7998439;2.1022062;0;
+486;50.79929;2.10264;68;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5333400811;50.7992864;2.1026373;0;
+487;50.79876;2.10307;66;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23047683;50.7987623;2.1030698;0;
+488;50.79788;2.1036;104;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4937951524;50.7978774;2.103602;0;
+489;50.79743;2.10387;53;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797636896;50.7974281;2.1038718;0;
+490;50.79705;2.10407;44;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4937946318;50.7970503;2.1040669;0;
+491;50.79667;2.10426;44;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4937951521;50.7966739;2.1042547;0;
+492;50.79627;2.10443;46;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4937946320;50.7962738;2.1044344;0;
+493;50.79604;2.10453;26;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4937946315;50.7960432;2.1045336;0;
+494;50.79578;2.10464;29;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23047706;50.7957785;2.1046416;0;
+495;50.79514;2.10489;73;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4937946311;50.795143;2.104885;0;
+496;50.79444;2.10512;79;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4937946314;50.7944377;2.105121;0;
+497;50.79412;2.10522;36;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5333400831;50.7941189;2.1052176;0;
+498;50.79337;2.10545;84;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4937946310;50.7933678;2.1054456;0;
+499;50.79303;2.10556;38;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23047700;50.7930252;2.1055643;0;
+500;50.79194;2.10589;123;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5331894906;50.7919386;2.1058935;0;
+501;50.79093;2.10622;114;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4937946308;50.7909299;2.1062192;0;
+502;50.78851;2.10696;274;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4937946306;50.7885067;2.106964;0;
+503;50.78752;2.10727;112;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1277046913;50.7875165;2.1072709;0;
+504;50.78594;2.10777;179;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4937946303;50.785938;2.1077661;0;
+505;50.78524;2.10799;79;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4937946300;50.7852441;2.1079937;0;
+506;50.78461;2.10823;72;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23047691;50.7846046;2.1082304;0;
+507;50.78375;2.10854;98;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4937946298;50.783745;2.1085381;0;
+508;50.78286;2.10891;102;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797637881;50.7828545;2.1089117;0;
+509;50.782;2.10925;98;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4937946296;50.7819983;2.1092516;0;
+510;50.7812;2.10963;92;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23047686;50.7811993;2.1096305;0;
+511;50.78076;2.10984;51;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4937946294;50.7807582;2.1098352;0;
+512;50.77952;2.11047;144;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797641480;50.7795169;2.1104727;0;
+513;50.77841;2.11107;130;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4937946290;50.778413;2.1110657;0;
+514;50.77737;2.11165;122;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4937946283;50.7773683;2.1116495;0;
+515;50.77655;2.11215;97;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23047723;50.7765489;2.1121464;0;
+516;50.77588;2.11254;79;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797640830;50.7758772;2.112538;0;
+517;50.77493;2.1131;112;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328060305;50.7749268;2.1131006;0;
+518;50.77436;2.11343;67;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7397268710;50.7743594;2.1134278;0;
+519;50.77388;2.11371;56;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328060306;50.7738828;2.1137067;0;
+520;50.77273;2.11438;136;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7397268728;50.7727311;2.1143827;0;
+521;50.77154;2.11508;141;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797638558;50.7715383;2.1150807;0;
+522;50.77092;2.11545;73;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328061230;50.7709161;2.1154448;0;
+523;50.77055;2.11564;43;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328061227;50.770548;2.1156393;0;
+524;50.7701;2.1159;53;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23047718;50.7700965;2.1159015;0;
+525;50.7693;2.11631;93;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328061225;50.7692995;2.1163139;0;
+526;50.7688;2.11656;58;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328061224;50.7688008;2.1165606;0;
+527;50.76841;2.11674;45;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797641813;50.7684138;2.1167437;0;
+528;50.76773;2.11706;78;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328061233;50.7677269;2.1170622;0;
+529;50.76675;2.11747;112;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23047714;50.7667513;2.1174706;0;
+530;50.76631;2.11764;50;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328061236;50.7663121;2.1176362;0;
+531;50.76592;2.11779;44;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328061238;50.7659151;2.1177918;0;
+532;50.76552;2.11793;45;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328061237;50.7655148;2.1179259;0;
+533;50.76501;2.1181;57;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23047604;50.7650141;2.1180956;0;
+534;50.76433;2.11833;77;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5333665021;50.7643329;2.1183324;0;
+535;50.76357;2.11857;86;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5330007187;50.7635687;2.1185708;0;
+536;50.76073;2.1195;322;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328040710;50.7607315;2.1194945;0;
+537;50.75994;2.11977;89;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328040708;50.7599392;2.1197691;0;
+538;50.75959;2.1199;40;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328040706;50.7595937;2.119896;0;
+539;50.75945;2.11995;15;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059797;50.7594476;2.1199516;0;
+540;50.75916;2.12008;33;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328040705;50.7591576;2.120077;0;
+541;50.75886;2.12018;34;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1276837064;50.7588563;2.1201829;0;
+542;50.75818;2.12047;78;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797642498;50.7581767;2.120472;0;
+543;50.75723;2.12089;109;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328040699;50.7572318;2.120887;0;
+544;50.75632;2.12136;106;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059790;50.7563204;2.1213625;0;
+545;50.75557;2.12176;88;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328040698;50.7555723;2.1217614;0;
+546;50.75479;2.12223;92;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;797642650;50.7547864;2.1222262;0;
+547;50.75429;2.12252;59;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328040695;50.7542912;2.1225205;0;
+548;50.75376;2.12287;63;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328040696;50.7537634;2.1228719;0;
+549;50.75329;2.12318;56;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328040690;50.7532883;2.123183;0;
+550;50.75272;2.12358;69;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328040688;50.7527215;2.12358;0;
+551;50.75176;2.12431;118;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059821;50.7517591;2.1243076;0;
+552;50.75094;2.12497;102;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328040686;50.7509363;2.1249694;0;
+553;50.75007;2.1257;109;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059813;50.7500689;2.1257023;0;
+554;50.74903;2.12667;134;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328040683;50.7490288;2.1266699;0;
+555;50.74855;2.12713;62;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328040682;50.7485502;2.1271312;0;
+556;50.74793;2.12778;82;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1274113792;50.7479266;2.1277765;0;
+557;50.74744;2.12829;65;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328040680;50.7474403;2.1282899;0;
+558;50.74698;2.12878;61;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1274113742;50.7469769;2.1287802;0;
+559;50.74644;2.12939;73;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328040676;50.7464424;2.129387;0;
+560;50.74589;2.13004;76;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328040679;50.7458922;2.1300375;0;
+561;50.74547;2.13048;56;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059808;50.7454653;2.1304834;0;
+562;50.74445;2.13185;149;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328040675;50.7444541;2.1318506;0;
+563;50.74389;2.13262;82;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328040673;50.7438864;2.1326217;0;
+564;50.74362;2.133;40;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328040672;50.7436165;2.1329999;0;
+565;50.74337;2.13335;37;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059834;50.7433733;2.1333496;0;
+566;50.74237;2.13488;155;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5328040669;50.7423656;2.1348774;0;
+567;50.74142;2.1364;150;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059828;50.7414207;2.1363966;0;
+568;50.74086;2.13736;92;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5309211978;50.7408583;2.1373558;0;
+569;50.74028;2.13842;98;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5309211990;50.7402794;2.1384159;0;
+570;50.73958;2.13974;121;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5309211999;50.7395785;2.1397376;0;
+571;50.73783;2.14307;305;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059845;50.7378334;2.1430715;0;
+572;50.73753;2.14376;59;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5309207965;50.7375257;2.1437618;0;
+573;50.73684;2.14512;122;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5309207963;50.7368405;2.1451181;0;
+574;50.73646;2.14587;67;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5309207959;50.7364585;2.1458665;0;
+575;50.73612;2.14649;57;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1710105045;50.7361243;2.1464919;0;
+576;50.7357;2.14736;77;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5309208004;50.7356946;2.1473551;0;
+577;50.73522;2.14821;80;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059458;50.7352182;2.1482128;0;
+578;50.73504;2.14865;36;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5309193733;50.735036;2.1486506;0;
+579;50.73481;2.14909;40;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5309193740;50.7348119;2.1490851;0;
+580;50.73436;2.14994;78;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5309193737;50.7343586;2.1499434;0;
+581;50.73386;2.15088;86;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1274113790;50.7338549;2.1508773;0;
+582;50.73336;2.15172;81;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5309193748;50.7333587;2.1517217;0;
+583;50.73275;2.15278;101;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5220456900;50.7327459;2.1527813;0;
+584;50.73242;2.15331;52;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5309193753;50.7324199;2.1533096;0;
+585;50.73214;2.15378;45;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059851;50.7321407;2.1537746;0;
+586;50.73154;2.15471;93;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5220456903;50.7315422;2.1547097;0;
+587;50.73087;2.15573;103;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5220456911;50.7308682;2.1557289;0;
+588;50.73018;2.15672;103;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5220456905;50.7301823;2.1567214;0;
+589;50.72951;2.15763;98;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5220434410;50.7295072;2.1576323;0;
+590;50.72886;2.15852;95;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5220434409;50.7288597;2.1585238;0;
+591;50.7283;2.15934;85;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059854;50.728298;2.1593348;0;
+592;50.72669;2.16149;234;235921546;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1241259638;50.7266869;2.1614871;0;
+593;50.72513;2.16362;229;724553877;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5220399394;50.7251329;2.1636169;0;
+594;50.72403;2.16512;161;724553877;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5220399391;50.7240275;2.165122;0;
+595;50.72333;2.16606;102;680281634;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;6795108823;50.7233245;2.1660635;0;
+596;50.7228;2.16679;78;680281634;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059865;50.7227977;2.1667877;0;
+597;50.72268;2.16695;17;680281634;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1522724399;50.722684;2.1669459;0;
+598;50.72225;2.16755;63;680281634;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;537757237;50.7222512;2.1675483;0;
+599;50.72213;2.16772;17;680281634;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1522724368;50.7221267;2.1677216;0;
+600;50.72198;2.16792;21;680281634;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1522724360;50.7219826;2.1679222;0;
+601;50.72144;2.16873;82;27368296;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;300448199;50.7214415;2.16873;0;
+602;50.72119;2.16915;40;27368296;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;300448417;50.7211861;2.1691453;0;
+603;50.71973;2.17136;225;27368298;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059872;50.7197276;2.1713625;0;
+604;50.71902;2.17251;113;4136680;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059466;50.7190211;2.1725126;0;
+605;50.71876;2.173;45;4136680;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1241259641;50.71876;2.1729956;0;
+606;50.71857;2.17338;34;4136680;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1280166452;50.7185675;2.1733768;0;
+607;50.71842;2.17369;27;4136680;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;6173444685;50.7184153;2.1736917;0;
+608;50.71826;2.17404;30;4136680;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059875;50.7182549;2.1740404;0;
+609;50.71808;2.1744;32;4136680;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1280166451;50.7180805;2.174401;0;
+610;50.71761;2.17538;86;4136680;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;300448498;50.7176095;2.1753783;0;
+611;50.71702;2.17664;110;4136680;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;300448491;50.7170213;2.1766411;0;
+612;50.71659;2.17761;83;4136680;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1280172800;50.7165879;2.1776128;0;
+613;50.71627;2.17833;62;4136680;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1282886487;50.7162682;2.1783296;0;
+614;50.71574;2.17952;102;4136680;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059896;50.7157388;2.1795164;0;
+615;50.71398;2.18374;356;4136680;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059888;50.713978;2.1837393;0;
+616;50.70906;2.19564;1003;4136680;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4947556821;50.7090569;2.1956359;0;
+617;50.70819;2.19771;175;4136680;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4935738914;50.7081868;2.1977119;0;
+618;50.70758;2.19912;120;4136680;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5502670436;50.7075785;2.1991188;0;
+619;50.70751;2.19928;13;4136680;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4947556219;50.70751;2.1992773;0;
+620;50.70685;2.20078;128;4136680;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059904;50.7068471;2.2007767;0;
+621;50.70626;2.2021;114;4136680;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4947556218;50.7062616;2.2021018;0;
+622;50.70584;2.20305;81;4136680;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5243459217;50.7058385;2.2030485;0;
+623;50.70537;2.20408;89;4136680;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4947556215;50.7053731;2.2040838;0;
+624;50.70494;2.20506;84;4136680;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1283645151;50.7049381;2.2050565;0;
+625;50.70459;2.20585;68;113106912;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1283645257;50.7045863;2.2058494;0;
+626;50.7044;2.20629;37;113106920;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4947556213;50.704398;2.2062859;0;
+627;50.70418;2.20678;42;113106920;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4867875684;50.7041755;2.2067821;0;
+628;50.70396;2.20729;43;113106920;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4947556207;50.7039564;2.2072864;0;
+629;50.70372;2.20782;45;113106920;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;2211489849;50.7037182;2.2078169;0;
+630;50.70351;2.20827;39;211141889;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;2211489842;50.7035071;2.2082744;0;
+631;50.70299;2.20945;101;211141891;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4867875682;50.7029938;2.2094539;0;
+632;50.70087;2.21422;411;211141891;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059911;50.7008731;2.214221;0;
+633;50.70065;2.21471;42;211141891;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4947473201;50.7006506;2.2147053;0;
+634;50.70037;2.21533;53;211141891;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4947465556;50.7003685;2.215333;0;
+635;50.69981;2.21653;105;211141891;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;3079757243;50.6998071;2.2165286;0;
+636;50.69945;2.21726;65;211141891;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4947473204;50.6994461;2.2172642;0;
+637;50.69919;2.2178;47;211141891;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4947465564;50.6991895;2.2177953;0;
+638;50.69856;2.21903;111;211141891;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059924;50.6985629;2.2190318;0;
+639;50.69773;2.22053;140;211141891;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;3468043848;50.6977307;2.2205328;0;
+640;50.69675;2.22225;163;112670755;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1280179485;50.6967472;2.2222515;0;
+641;50.69667;2.22238;12;112670755;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7503804041;50.6966645;2.2223836;0;
+642;50.69635;2.22288;50;112670755;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059917;50.6963537;2.2228802;0;
+643;50.69589;2.22373;78;112670755;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7503804040;50.6958848;2.2237277;0;
+644;50.69579;2.22391;16;112670755;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1280179504;50.6957859;2.2239064;0;
+645;50.69495;2.2253;135;112670760;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4842459895;50.6949499;2.2253007;0;
+646;50.69398;2.2268;151;112670760;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1283645062;50.693983;2.226796;0;
+647;50.6927;2.22872;196;112670760;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059937;50.6927039;2.2287173;0;
+648;50.69196;2.22971;108;112670760;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4842431221;50.6919625;2.229707;0;
+649;50.69127;2.23065;101;112670760;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4842431229;50.6912655;2.2306469;0;
+650;50.6905;2.23159;108;112670760;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4842431228;50.6904995;2.2315905;0;
+651;50.68977;2.23253;104;112670760;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059932;50.6897727;2.2325276;0;
+652;50.68879;2.23373;138;112670760;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4842431261;50.6887891;2.2337262;0;
+653;50.68801;2.23458;105;112670760;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7644061946;50.6880123;2.2345804;0;
+654;50.68744;2.23521;77;112670760;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1746505353;50.6874393;2.2352105;0;
+655;50.68602;2.23673;191;112670760;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059944;50.6860179;2.2367306;0;
+656;50.68347;2.23935;338;112670760;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4842431270;50.6834656;2.2393476;0;
+657;50.67908;2.24354;571;112670760;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4842431331;50.6790751;2.2435381;0;
+658;50.67761;2.24492;190;112670760;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4842431329;50.6776097;2.2449229;0;
+659;50.67671;2.24578;117;112670760;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4842431284;50.6767083;2.245779;0;
+660;50.67584;2.24661;113;112670760;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1277515860;50.6758373;2.2466058;0;
+661;50.67529;2.24711;70;112670760;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;3079853290;50.6752853;2.2471058;0;
+662;50.67468;2.24767;78;112670760;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1277515917;50.6746772;2.2476668;0;
+663;50.67342;2.24885;163;680281629;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;3079853554;50.6734168;2.2488453;0;
+664;50.67284;2.24935;73;680281629;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1277515833;50.67284;2.2493493;0;
+665;50.67214;2.24999;90;680281629;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4491322487;50.6721388;2.2499871;0;
+666;50.67146;2.25064;88;680281629;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;242826097;50.6714572;2.2506349;0;
+667;50.67113;2.25089;40;680281629;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4491322488;50.6711257;2.2508937;0;
+668;50.67083;2.25116;38;680281629;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1277515923;50.67083;2.2511585;0;
+669;50.67055;2.25141;35;680281629;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4491322484;50.6705477;2.2514141;0;
+670;50.67026;2.25169;37;680281628;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4491322485;50.6702553;2.2516912;0;
+671;50.6701;2.25183;20;680281628;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;3079853579;50.6700965;2.2518339;0;
+672;50.66954;2.25232;71;680281628;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4491322483;50.6695379;2.2523153;0;
+673;50.66898;2.25282;71;680281628;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059951;50.6689786;2.252816;0;
+674;50.66856;2.25321;54;680281628;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;3079853310;50.6685616;2.2532065;0;
+675;50.66844;2.2533;14;680281628;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;3079853285;50.6684347;2.2532993;0;
+676;50.66802;2.25366;53;680281628;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4491322482;50.6680164;2.2536564;0;
+677;50.66761;2.25404;52;680281628;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;3079853599;50.6676086;2.2540359;0;
+678;50.66684;2.25469;97;303592652;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;3079853304;50.6668407;2.254686;0;
+679;50.66667;2.25483;21;303592652;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;3079853601;50.6666728;2.2548336;0;
+680;50.66642;2.25506;32;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1283645081;50.6664151;2.2550636;0;
+681;50.66528;2.25603;144;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;3079918838;50.6652839;2.2560272;0;
+682;50.6649;2.25634;47;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4818702380;50.6649002;2.2563386;0;
+683;50.66444;2.2567;57;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059958;50.6644429;2.2567013;0;
+684;50.66367;2.25728;94;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4818702385;50.6636744;2.2572828;0;
+685;50.66347;2.25744;24;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4818702398;50.6634721;2.2574383;0;
+686;50.66279;2.25793;83;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4818702400;50.662792;2.2579318;0;
+687;50.66155;2.25879;150;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;3079918836;50.6615536;2.2587846;0;
+688;50.66053;2.25945;122;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059965;50.6605338;2.2594469;0;
+689;50.66005;2.25974;57;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4818691210;50.6600529;2.2597397;0;
+690;50.6596;2.26;53;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4818692639;50.6596023;2.2600025;0;
+691;50.65878;2.26047;97;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1283645048;50.6587787;2.2604682;0;
+692;50.65775;2.26102;120;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4818692643;50.6577455;2.2610164;0;
+693;50.65673;2.26152;118;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059973;50.6567341;2.2615196;0;
+694;50.65626;2.26175;54;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4818692664;50.6562625;2.2617502;0;
+695;50.65548;2.26214;91;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4818692661;50.6554781;2.2621356;0;
+696;50.65516;2.26228;36;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4818692655;50.6551625;2.2622824;0;
+697;50.6546;2.26257;65;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4818692656;50.6545992;2.2625676;0;
+698;50.65386;2.26295;86;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4818692650;50.6538582;2.2629529;0;
+699;50.65347;2.26315;45;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4818691214;50.6534714;2.2631487;0;
+700;50.65312;2.26334;41;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059970;50.6531206;2.2633419;0;
+701;50.65045;2.26491;317;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059979;50.6504452;2.2649072;0;
+702;50.64805;2.26681;298;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059484;50.648053;2.2668046;0;
+703;50.6455;2.26905;324;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1283645094;50.6455035;2.2690475;0;
+704;50.6438;2.27083;227;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059994;50.6438006;2.2708279;0;
+705;50.64314;2.27156;89;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1283645198;50.6431349;2.2715548;0;
+706;50.64219;2.27273;134;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1283645143;50.6421868;2.2727248;0;
+707;50.64098;2.27433;175;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059987;50.6409838;2.2743304;0;
+708;50.63903;2.27719;296;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23060009;50.6390294;2.2771891;0;
+709;50.63726;2.2803;295;303592661;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23060006;50.6372572;2.2803015;0;
+710;50.63662;2.28163;117;230749596;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;2392025168;50.6366179;2.2816262;0;
+711;50.6361;2.28271;95;230749596;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;2392025135;50.636096;2.2827074;0;
+712;50.63534;2.28419;134;230749597;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4825869959;50.6353358;2.2841907;0;
+713;50.63454;2.28587;148;113106922;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1283645190;50.6345423;2.2858692;0;
+714;50.63419;2.28663;66;113106908;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1283645253;50.634193;2.2866272;0;
+715;50.63367;2.28772;96;113106908;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23060028;50.6336726;2.2877211;0;
+716;50.63305;2.28906;117;113106908;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4818662021;50.6330494;2.2890562;0;
+717;50.63271;2.28975;61;113106908;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4818661716;50.6327057;2.2897536;0;
+718;50.63228;2.29058;75;113106908;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1283645164;50.6322804;2.2905797;0;
+719;50.63162;2.29187;117;113106908;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4818661714;50.6316237;2.2918672;0;
+720;50.63125;2.29258;64;113106908;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4818661713;50.6312528;2.2925753;0;
+721;50.63111;2.29284;24;113106908;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1280201646;50.6311133;2.2928419;0;
+722;50.63062;2.29375;84;113106908;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4818661707;50.6306199;2.2937447;0;
+723;50.63001;2.29482;101;113106908;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4818661708;50.6300142;2.2948175;0;
+724;50.62881;2.29682;194;113106908;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064300;50.6288096;2.2968239;0;
+725;50.62829;2.29768;83;113106908;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5220390789;50.6282891;2.2976774;0;
+726;50.6277;2.29863;93;113106908;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5220390784;50.6276968;2.2986263;0;
+727;50.62711;2.29952;90;113106908;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5220390787;50.6271126;2.299523;0;
+728;50.62625;2.30082;132;113106908;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064302;50.6262478;2.300815;0;
+729;50.62489;2.30279;205;113106908;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5220390779;50.6248872;2.3027847;0;
+730;50.62441;2.30344;70;113106908;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5220390777;50.6244045;2.3034354;0;
+731;50.62375;2.30436;98;113106908;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5220390775;50.6237492;2.3043555;0;
+732;50.62318;2.30517;85;113106908;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5220390773;50.6231809;2.3051709;0;
+733;50.62274;2.30576;64;113106908;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064310;50.6227346;2.3057569;0;
+734;50.62174;2.30718;149;113106908;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4816491790;50.621743;2.3071825;0;
+735;50.62108;2.30809;97;113106908;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4816491789;50.6210844;2.3080891;0;
+736;50.62077;2.30853;46;39478472;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;472812631;50.6207678;2.308534;0;
+737;50.6206;2.30877;25;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;472812632;50.6205997;2.3087733;0;
+738;50.61986;2.30985;112;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4816491781;50.6198592;2.309854;0;
+739;50.61913;2.31095;112;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4816491784;50.6191274;2.3109484;0;
+740;50.61838;2.31209;116;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4816491780;50.6183786;2.3120856;0;
+741;50.61801;2.31266;57;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4816491776;50.6180144;2.3126596;0;
+742;50.61764;2.31325;58;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059493;50.617641;2.3132494;0;
+743;50.61715;2.31404;78;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1722566645;50.6171486;2.3140431;0;
+744;50.61682;2.31458;52;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4816491775;50.6168197;2.3145747;0;
+745;50.61653;2.31507;47;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1288659681;50.6165314;2.3150657;0;
+746;50.61619;2.31564;55;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4816491774;50.6161866;2.3156369;0;
+747;50.61588;2.31615;49;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4816445213;50.6158802;2.3161519;0;
+748;50.61532;2.31715;94;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4816448338;50.6153186;2.3171497;0;
+749;50.61503;2.31764;47;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4816491805;50.6150327;2.3176378;0;
+750;50.61477;2.31809;43;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4816448337;50.614774;2.3180884;0;
+751;50.61441;2.31878;63;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4816448335;50.6144132;2.3187804;0;
+752;50.61399;2.31949;68;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064314;50.6139853;2.3194915;0;
+753;50.61361;2.32018;64;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4816445209;50.6136065;2.3201805;0;
+754;50.61323;2.32099;71;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4816445210;50.6132252;2.3209879;0;
+755;50.61246;2.32249;136;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064334;50.6124555;2.3224864;0;
+756;50.61132;2.32479;206;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064330;50.6113199;2.3247915;0;
+757;50.61048;2.32661;159;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4816445202;50.6104781;2.3266071;0;
+758;50.61008;2.32748;75;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4816445198;50.6100815;2.3274842;0;
+759;50.60969;2.32837;76;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1711465874;50.6096898;2.3283744;0;
+760;50.60908;2.32979;121;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4816445194;50.6090773;2.3297935;0;
+761;50.60843;2.33131;129;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4813990293;50.6084253;2.3313117;0;
+762;50.60781;2.33276;123;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4813990291;50.6078057;2.3327601;0;
+763;50.60724;2.33405;111;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064321;50.6072359;2.3340543;0;
+764;50.60642;2.33593;161;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4813990286;50.6064214;2.3359285;0;
+765;50.60493;2.33936;293;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4813990282;50.6049323;2.3393583;0;
+766;50.60418;2.34111;149;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4813990279;50.6041765;2.3411098;0;
+767;50.60337;2.34291;156;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;2231157822;50.6033703;2.3429083;0;
+768;50.6028;2.3441;105;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064320;50.6028017;2.3441011;0;
+769;50.60242;2.34491;71;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4813977383;50.6024163;2.3449051;0;
+770;50.60188;2.34595;95;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4813977384;50.6018783;2.3459458;0;
+771;50.60078;2.34795;187;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064351;50.6007767;2.3479536;0;
+772;50.60046;2.34854;54;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4813955983;50.6004619;2.3485422;0;
+773;50.60007;2.34919;63;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4813955984;50.600072;2.349194;0;
+774;50.59984;2.34957;37;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4813977329;50.5998422;2.3495668;0;
+775;50.59957;2.35001;43;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4813955980;50.5995664;2.350012;0;
+776;50.59929;2.35044;43;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4813977327;50.5992923;2.3504359;0;
+777;50.59914;2.3507;24;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064346;50.5991418;2.3506972;0;
+778;50.59861;2.35151;82;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4813944255;50.5986107;2.3515076;0;
+779;50.59808;2.35228;80;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4813944252;50.5980758;2.3522777;0;
+780;50.59753;2.35305;81;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4813944247;50.5975279;2.353046;0;
+781;50.59733;2.35333;29;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4813944250;50.5973261;2.3533291;0;
+782;50.59711;2.35363;32;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4813944244;50.5971045;2.3536291;0;
+783;50.59691;2.3539;29;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4813944245;50.596906;2.3539044;0;
+784;50.59634;2.35466;83;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4813944242;50.5963401;2.3546631;0;
+785;50.59602;2.3551;47;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4868364576;50.5960182;2.3551002;0;
+786;50.59561;2.3556;57;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4813944239;50.5956062;2.3555964;0;
+787;50.59497;2.35638;90;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064341;50.5949734;2.3563748;0;
+788;50.59467;2.35675;42;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4868364619;50.5946663;2.3567498;0;
+789;50.59442;2.35703;34;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4785000123;50.5944212;2.3570287;0;
+790;50.59387;2.35765;75;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4785000124;50.5938729;2.357651;0;
+791;50.59254;2.35906;178;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1655177066;50.5925374;2.3590601;0;
+792;50.59082;2.36067;222;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064366;50.5908227;2.360674;0;
+793;50.59039;2.36108;55;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4784990866;50.5903873;2.3610842;0;
+794;50.58991;2.36152;61;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4784990867;50.5899071;2.361516;0;
+795;50.58894;2.36233;122;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4784990878;50.5889365;2.3623342;0;
+796;50.58697;2.36391;246;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059512;50.58697;2.3639089;0;
+797;50.58552;2.36513;182;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1280209007;50.5855239;2.3651321;0;
+798;50.5821;2.36795;429;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1655177058;50.5820972;2.3679457;0;
+799;50.58145;2.36851;82;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4784990939;50.5814449;2.3685085;0;
+800;50.58068;2.36916;97;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064389;50.5806842;2.3691634;0;
+801;50.57937;2.37036;168;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4664317284;50.5793685;2.3703606;0;
+802;50.57876;2.37093;78;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4664317265;50.5787641;2.3709253;0;
+803;50.5782;2.3715;74;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4664317267;50.5781984;2.3714951;0;
+804;50.57751;2.37222;92;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4664273993;50.577508;2.3722192;0;
+805;50.57705;2.37272;62;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064380;50.5770515;2.3727168;0;
+806;50.57655;2.37328;68;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4664273994;50.5765532;2.3732789;0;
+807;50.57602;2.37391;73;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4664273989;50.5760193;2.3739092;0;
+808;50.57551;2.37452;71;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1711419902;50.5755142;2.3745198;0;
+809;50.57516;2.37497;50;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4664273477;50.5751599;2.37497;0;
+810;50.57458;2.37572;83;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064385;50.5745794;2.3757219;0;
+811;50.57402;2.37648;82;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7278750317;50.5740212;2.3764841;0;
+812;50.57347;2.37726;82;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4664273475;50.5734735;2.3772579;0;
+813;50.57298;2.37799;75;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4664273471;50.5729761;2.3779875;0;
+814;50.57245;2.3788;82;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064374;50.5724455;2.3788019;0;
+815;50.57176;2.3799;109;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7278750318;50.5717602;2.3798959;0;
+816;50.5711;2.38101;107;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7278750319;50.5710963;2.3810077;0;
+817;50.57035;2.3823;123;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064369;50.5703486;2.3822963;0;
+818;50.56979;2.38329;93;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4664299641;50.5697923;2.3832902;0;
+819;50.56905;2.38463;125;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4664299642;50.5690469;2.3846326;0;
+820;50.56853;2.38558;88;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1711419853;50.5685314;2.3855814;0;
+821;50.56776;2.38708;136;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4664299664;50.5677581;2.3870748;0;
+822;50.56729;2.38804;85;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4664299675;50.5672913;2.388035;0;
+823;50.56684;2.38899;83;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4664299670;50.5668398;2.3889845;0;
+824;50.5663;2.39018;103;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064405;50.5662997;2.390178;0;
+825;50.56494;2.39338;272;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;2075893062;50.5649353;2.3933788;0;
+826;50.56378;2.39651;256;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064399;50.5637797;2.3965082;0;
+827;50.56232;2.40149;388;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064421;50.562323;2.4014889;0;
+828;50.56203;2.40262;86;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4868458311;50.562025;2.4026182;0;
+829;50.56173;2.4038;90;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4868458313;50.5617268;2.4038038;0;
+830;50.5612;2.40608;171;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064416;50.5612007;2.406077;0;
+831;50.56066;2.40875;198;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4868410209;50.5606619;2.4087471;0;
+832;50.56023;2.41128;185;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064426;50.5602343;2.4112821;0;
+833;50.55997;2.41314;134;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4868421597;50.5599701;2.4131352;0;
+834;50.55975;2.41485;123;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;2837627886;50.5597486;2.4148483;0;
+835;50.55954;2.41665;129;39478471;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059570;50.559542;2.416654;0;
+836;50.5595;2.4171;32;197336093;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1660506205;50.5594996;2.4171011;0;
+837;50.55939;2.41829;85;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;2837627887;50.559393;2.418288;0;
+838;50.55917;2.42144;224;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064448;50.5591702;2.421441;0;
+839;50.55898;2.42543;283;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4868411036;50.558975;2.4254304;0;
+840;50.55886;2.42744;143;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4868489394;50.5588574;2.4274421;0;
+841;50.55873;2.4294;139;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064444;50.5587302;2.4294016;0;
+842;50.55864;2.43068;91;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4868489383;50.5586359;2.4306822;0;
+843;50.55852;2.43191;88;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;2075893060;50.558522;2.4319095;0;
+844;50.55836;2.43341;107;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4868489368;50.5583582;2.4334073;0;
+845;50.55817;2.43478;99;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064438;50.5581741;2.4347788;0;
+846;50.55763;2.43842;264;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;2075893058;50.557634;2.4384204;0;
+847;50.55742;2.4395;80;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4337438781;50.5574178;2.4394975;0;
+848;50.55726;2.44039;65;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4868510426;50.5572574;2.4403864;0;
+849;50.55708;2.44119;60;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064433;50.5570773;2.4411935;0;
+850;50.55673;2.44282;121;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4868510422;50.5567257;2.4428219;0;
+851;50.55635;2.44437;117;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4868510423;50.5563474;2.4443668;0;
+852;50.55613;2.44518;62;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4868509019;50.5561327;2.4451768;0;
+853;50.55586;2.44616;75;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4868510421;50.5558601;2.4461585;0;
+854;50.5554;2.44773;122;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064464;50.5553959;2.4477273;0;
+855;50.55489;2.44933;126;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4868502432;50.5548887;2.4493343;0;
+856;50.55443;2.45066;107;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4868502438;50.5544336;2.450662;0;
+857;50.55394;2.45201;110;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064460;50.5539416;2.4520143;0;
+858;50.55347;2.45324;101;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4868502436;50.5534726;2.4532422;0;
+859;50.553;2.45431;92;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4868502439;50.5530022;2.4543097;0;
+860;50.55242;2.45566;115;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4917636672;50.5524225;2.4556579;0;
+861;50.55177;2.45717;129;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064454;50.5517685;2.4571662;0;
+862;50.55129;2.45826;93;680281624;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4911999429;50.5512918;2.4582556;0;
+863;50.55053;2.45995;146;680281623;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064472;50.5505313;2.4599488;0;
+864;50.54901;2.4635;303;680281623;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;2251079166;50.5490098;2.4635032;0;
+865;50.5479;2.46642;240;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1170245215;50.5478985;2.4664166;0;
+866;50.54709;2.46867;183;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064466;50.5470888;2.46867;0;
+867;50.54618;2.47172;238;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;2251079164;50.5461771;2.4717188;0;
+868;50.54573;2.47329;122;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4912021981;50.5457329;2.4732853;0;
+869;50.54532;2.47493;124;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064476;50.5453204;2.4749286;0;
+870;50.54485;2.4769;149;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4912021968;50.5448515;2.4768975;0;
+871;50.54463;2.47788;73;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4912021966;50.5446323;2.4778768;0;
+872;50.5444;2.47893;78;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064482;50.5444008;2.4789268;0;
+873;50.54424;2.47984;66;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4912022211;50.5442413;2.4798346;0;
+874;50.54394;2.48139;114;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5747728654;50.5439403;2.4813867;0;
+875;50.54388;2.48179;29;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4917652698;50.5438764;2.4817877;0;
+876;50.5438;2.48225;33;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4917652687;50.5437973;2.4822495;0;
+877;50.54357;2.48381;113;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059578;50.5435649;2.4838116;0;
+878;50.54336;2.48524;104;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5747705547;50.5433607;2.4852383;0;
+879;50.54315;2.48687;117;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064502;50.5431468;2.4868735;0;
+880;50.54292;2.48906;157;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4917657225;50.5429215;2.4890601;0;
+881;50.54273;2.49113;148;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064497;50.5427288;2.4911251;0;
+882;50.54261;2.49303;135;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4917652672;50.5426045;2.4930277;0;
+883;50.54253;2.4948;125;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;2251079158;50.5425337;2.4947954;0;
+884;50.54249;2.49627;104;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5618230844;50.5424846;2.4962676;0;
+885;50.54247;2.49788;114;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064492;50.542469;2.4978775;0;
+886;50.54246;2.49921;94;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5618230849;50.5424641;2.4992126;0;
+887;50.54247;2.50056;95;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5618230851;50.5424744;2.5005618;0;
+888;50.54251;2.50186;92;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5618230853;50.5425101;2.5018573;0;
+889;50.54259;2.50445;183;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4917666687;50.5425937;2.504448;0;
+890;50.54265;2.50704;183;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4917666685;50.5426496;2.5070427;0;
+891;50.54271;2.50953;176;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4917666689;50.5427106;2.5095312;0;
+892;50.54274;2.51075;86;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4917666217;50.5427415;2.5107509;0;
+893;50.54277;2.51186;78;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4917666621;50.5427687;2.511856;0;
+894;50.5428;2.513;80;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4917666219;50.5427981;2.5130012;0;
+895;50.54283;2.51409;77;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4917666623;50.5428296;2.5140914;0;
+896;50.54287;2.5159;128;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4917666625;50.54287;2.5159001;0;
+897;50.54291;2.51739;105;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4917666630;50.5429072;2.5173883;0;
+898;50.54292;2.51807;48;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4917666216;50.5429205;2.5180732;0;
+899;50.54292;2.51867;42;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4917666629;50.5429227;2.5186659;0;
+900;50.54292;2.52;94;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064489;50.5429219;2.5200025;0;
+901;50.5429;2.52102;72;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;6352942923;50.5428994;2.5210185;0;
+902;50.54286;2.52218;82;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;2251079161;50.542864;2.5221826;0;
+903;50.5428;2.52335;83;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4917666215;50.5428028;2.5233538;0;
+904;50.54273;2.52453;84;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064587;50.5427256;2.5245249;0;
+905;50.54263;2.52558;75;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4917666213;50.5426336;2.5255842;0;
+906;50.54255;2.5264;58;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;2251079157;50.5425451;2.5263985;0;
+907;50.54247;2.52713;52;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4917666208;50.5424658;2.5271296;0;
+908;50.5424;2.5277;41;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4917666209;50.5423987;2.5276984;0;
+909;50.54225;2.5287;72;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064582;50.5422516;2.5286964;0;
+910;50.54212;2.52965;68;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4917666206;50.5421149;2.5296542;0;
+911;50.54197;2.53046;59;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4829582344;50.5419732;2.5304604;0;
+912;50.54188;2.53099;38;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4829582341;50.5418794;2.5309941;0;
+913;50.5418;2.53141;31;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4829582343;50.5418027;2.5314045;0;
+914;50.54167;2.53205;47;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4829582340;50.5416698;2.5320455;0;
+915;50.54162;2.53233;20;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4829582338;50.5416153;2.5323272;0;
+916;50.5415;2.53287;40;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4829582337;50.5414994;2.532869;0;
+917;50.54135;2.53354;50;59538330;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064593;50.5413506;2.5335375;0;
+918;50.54109;2.5346;80;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4829582334;50.5410936;2.5345963;0;
+919;50.54093;2.53528;51;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;4831472877;50.5409249;2.5352776;0;
+920;50.54075;2.53593;50;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1684715704;50.5407482;2.5359344;0;
+921;50.54047;2.53688;74;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1170520771;50.5404716;2.5368767;0;
+922;50.53986;2.53885;155;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1684715691;50.5398547;2.5388482;0;
+923;50.53943;2.54009;100;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1684715668;50.5394298;2.5400857;0;
+924;50.53894;2.54146;111;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1684715665;50.5389352;2.5414606;0;
+925;50.53864;2.54218;60;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161635825;50.5386406;2.5421816;0;
+926;50.53837;2.54283;55;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1684715664;50.5383676;2.5428317;0;
+927;50.53792;2.54388;89;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1684715663;50.5379172;2.5438831;0;
+928;50.53755;2.54467;69;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161635828;50.5375513;2.5446707;0;
+929;50.53722;2.54532;58;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1170520778;50.5372158;2.5453212;0;
+930;50.53695;2.54587;49;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161635841;50.5369478;2.545867;0;
+931;50.53644;2.54683;88;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1684715661;50.5364394;2.5468296;0;
+932;50.53583;2.54791;102;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161635854;50.5358261;2.5479135;0;
+933;50.5355;2.54849;55;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161635843;50.5354954;2.5484902;0;
+934;50.53524;2.54893;42;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161635853;50.5352362;2.54893;0;
+935;50.53505;2.54926;31;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161635849;50.535047;2.5492573;0;
+936;50.53479;2.54967;41;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064600;50.5347864;2.5496671;0;
+937;50.53388;2.55116;146;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161624026;50.5338819;2.5511557;0;
+938;50.53274;2.55301;182;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23059584;50.5327408;2.553013;0;
+939;50.53232;2.55374;69;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161624028;50.5323205;2.5537391;0;
+940;50.53123;2.55551;174;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161635857;50.5312331;2.5555122;0;
+941;50.53075;2.55633;78;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5501286005;50.5307455;2.5563329;0;
+942;50.5302;2.55724;88;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161624042;50.5302006;2.5572354;0;
+943;50.52978;2.55794;68;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;2705636453;50.5297764;2.5579406;0;
+944;50.52942;2.55852;57;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161624040;50.5294156;2.5585163;0;
+945;50.52911;2.559;48;59538331;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064631;50.5291083;2.5589982;0;
+946;50.52798;2.56083;180;51687177;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;659821450;50.5279808;2.5608288;0;
+947;50.52763;2.56145;58;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;659821451;50.5276264;2.5614501;0;
+948;50.5261;2.56422;259;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064625;50.5261032;2.5642193;0;
+949;50.52566;2.56507;77;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161588964;50.5256545;2.5650681;0;
+950;50.52539;2.5656;48;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1264484985;50.5253914;2.5656001;0;
+951;50.525;2.56638;70;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161588959;50.5250019;2.5663795;0;
+952;50.52454;2.56737;86;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161605014;50.5245356;2.5673702;0;
+953;50.52408;2.56837;87;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1170264985;50.524082;2.5683656;0;
+954;50.52352;2.56972;114;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161611121;50.5235158;2.5697225;0;
+955;50.52296;2.57105;113;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064620;50.5229557;2.5710487;0;
+956;50.52252;2.57211;89;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161610519;50.5225207;2.572105;0;
+957;50.52138;2.57488;233;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161610517;50.5213774;2.5748831;0;
+958;50.52016;2.57785;250;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064614;50.5201562;2.5778457;0;
+959;50.51817;2.58304;429;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064610;50.5181688;2.5830352;0;
+960;50.51713;2.58601;240;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1373104374;50.5171277;2.5860114;0;
+961;50.51668;2.58732;105;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161736058;50.5166778;2.5873178;0;
+962;50.51615;2.58893;128;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161736054;50.5161486;2.5889325;0;
+963;50.51566;2.59045;120;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;659821448;50.5156546;2.5904493;0;
+964;50.51531;2.59151;84;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161736051;50.5153129;2.5915128;0;
+965;50.51513;2.59211;47;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161736050;50.5151262;2.5921074;0;
+966;50.51491;2.59281;55;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;659821430;50.5149116;2.5928071;0;
+967;50.51473;2.59341;47;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161736047;50.5147273;2.5934104;0;
+968;50.5143;2.5949;116;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161736045;50.514296;2.5949043;0;
+969;50.51404;2.59576;67;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161736043;50.5140422;2.5957561;0;
+970;50.51389;2.59635;45;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1684715658;50.5138857;2.5963509;0;
+971;50.51359;2.5974;81;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161736039;50.5135939;2.597395;0;
+972;50.51332;2.59842;78;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161736035;50.5133242;2.5984222;0;
+973;50.51309;2.59933;69;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064637;50.5130911;2.5993344;0;
+974;50.51281;2.6005;88;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;7468361843;50.5128057;2.6005036;0;
+975;50.51249;2.60174;94;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;1684715623;50.512494;2.6017413;0;
+976;50.5122;2.60304;97;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161736031;50.5122019;2.6030356;0;
+977;50.51193;2.60433;96;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;23064653;50.5119312;2.6043255;0;
+978;50.51176;2.60516;61;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161736026;50.5117601;2.6051599;0;
+979;50.51164;2.60574;43;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161736029;50.5116433;2.6057372;0;
+980;50.5113;2.60741;124;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161736024;50.5112972;2.6074134;0;
+981;50.5113;2.60741;0;51687165;motorway;E 15;A 26;Autoroute des Anglais;SANEF;yes;5161736024;50.5112972;2.6074134;0;
+982;50.51113;2.60807;50;52047511;motorway_link;na;na;na;SANEF;yes;2195115682;50.5111303;2.608066;0;
+983;50.51067;2.61031;166;52047511;motorway_link;na;na;na;SANEF;yes;663452126;50.5106705;2.6103086;0;
+984;50.51059;2.61065;25;52047511;motorway_link;na;na;na;SANEF;yes;5161696717;50.5105883;2.610653;0;
+985;50.51051;2.61091;20;52047511;motorway_link;na;na;na;SANEF;yes;5161696719;50.5105064;2.6109052;0;
+986;50.51039;2.61111;19;52047511;motorway_link;na;na;na;SANEF;yes;2041909427;50.5103851;2.6111139;0;
+987;50.51022;2.61131;23;52047511;motorway_link;na;na;na;SANEF;yes;663452127;50.5102159;2.6113085;0;
+988;50.51008;2.61144;18;52047511;motorway_link;na;na;na;SANEF;yes;2041909423;50.5100787;2.611438;0;
+989;50.5099;2.61155;21;52047511;motorway_link;na;na;na;SANEF;yes;663452128;50.5099007;2.6115488;0;
+990;50.5096;2.61166;34;52047511;motorway_link;na;na;na;SANEF;yes;2041909420;50.5095996;2.6116597;0;
+991;50.50932;2.61186;34;52047511;motorway_link;na;na;na;SANEF;yes;663452112;50.5093212;2.6118556;0;
+992;50.50921;2.61206;18;52047511;motorway_link;na;na;na;SANEF;yes;2041909411;50.5092094;2.6120612;0;
+993;50.50914;2.61224;14;52047511;motorway_link;na;na;na;SANEF;yes;663452113;50.5091425;2.6122434;0;
+994;50.5091;2.61252;20;;;;;;;No data;;;;;error, HTTPSConnectionPool(host='overpass-api.de', port=443): Read timed out. (read timeout=25)
+995;50.50911;2.61279;19;52047511;motorway_link;na;na;na;SANEF;yes;663452114;50.5091083;2.6127933;0;
+996;50.50922;2.61314;27;52047511;motorway_link;na;na;na;SANEF;yes;2041909412;50.5092164;2.6131383;0;
+997;50.50931;2.6133;15;52047511;motorway_link;na;na;na;SANEF;yes;663452115;50.5093086;2.6132965;0;
+998;50.5094;2.61344;14;52047511;motorway_link;na;na;na;SANEF;yes;2041909417;50.5094042;2.613439;0;
+999;50.50958;2.61358;22;52047511;motorway_link;na;na;na;SANEF;yes;663452116;50.5095768;2.6135817;0;
+1000;50.51002;2.61377;50;52047511;motorway_link;na;na;na;SANEF;yes;663452117;50.5100156;2.6137702;0;
+1001;50.5107;2.61398;77;52047517;motorway_link;na;na;na;SANEF;yes;663452129;50.5106957;2.6139768;0;
+1002;50.51111;2.61416;47;123019525;motorway_link;na;na;na;SANEF;yes;663452130;50.5111091;2.6141572;0;
+1003;50.51146;2.61439;42;123019525;motorway_link;na;na;na;SANEF;yes;1684715600;50.511464;2.6143854;0;
+1004;50.51171;2.61465;33;123019525;motorway_link;na;na;na;SANEF;yes;1684715615;50.5117143;2.6146541;0;
+1005;50.51188;2.6149;25;123019525;motorway_link;na;na;na;SANEF;yes;344323172;50.5118839;2.6149002;0;
+1006;50.51223;2.61538;51;30964707;motorway_link;na;na;na;SANEF;yes;344323916;50.5122261;2.6153806;0;
+1007;50.51279;2.61611;81;30964706;motorway_link;na;na;na;SANEF;yes;344323917;50.512789;2.6161061;0;
+1008;50.51373;2.61738;138;30964706;motorway_link;na;na;na;SANEF;yes;1685633110;50.5137261;2.6173828;0;
+1009;50.51397;2.61772;35;30964706;motorway_link;na;na;na;SANEF;yes;7077835279;50.5139721;2.617721;0;
+1010;50.514;2.61776;4;757867408;motorway_link;na;na;na;na;yes;481373537;50.5140032;2.6177636;0;
+1011;50.51407;2.61785;10;;;;;;;No;;;;;No toll objects found
+1012;50.51429;2.61815;32;;;;;;;No;;;;;No toll objects found
+1013;50.51429;2.61815;0;;;;;;;No;;;;;No toll objects found
+1014;50.51431;2.61819;3;;;;;;;No;;;;;No toll objects found
+1015;50.51514;2.61932;122;;;;;;;No;;;;;No toll objects found
+1016;50.51521;2.61944;11;;;;;;;No;;;;;No toll objects found
+1017;50.5153;2.61962;16;;;;;;;No;;;;;No toll objects found
+1018;50.51541;2.6199;23;;;;;;;No;;;;;No toll objects found
+1019;50.51545;2.62008;13;;;;;;;No;;;;;No toll objects found
+1020;50.51547;2.62025;12;;;;;;;No;;;;;No toll objects found
+1021;50.51547;2.62039;9;;;;;;;No;;;;;No toll objects found
+1022;50.51547;2.62039;0;;;;;;;No;;;;;No toll objects found
+1023;50.51543;2.6205;8;;;;;;;No;;;;;No toll objects found
+1024;50.51543;2.6205;0;;;;;;;No;;;;;No toll objects found
+1025;50.51531;2.62065;17;;;;;;;No;;;;;No toll objects found
+1026;50.51516;2.6207;17;;;;;;;No;;;;;No toll objects found
+1027;50.51476;2.62068;44;;;;;;;No;;;;;No toll objects found
+1028;50.51399;2.62055;86;;;;;;;No;;;;;No toll objects found
+1029;50.51325;2.62034;83;;;;;;;No;;;;;No toll objects found
+1030;50.51248;2.62;88;;;;;;;No;;;;;No toll objects found
+1031;50.51205;2.61979;50;;;;;;;No;;;;;No toll objects found
+1032;50.51178;2.61962;32;;;;;;;No;;;;;No toll objects found
+1033;50.51164;2.6194;22;;;;;;;No;;;;;No toll objects found
+1034;50.51164;2.6194;0;;;;;;;No;;;;;No toll objects found
+1035;50.51161;2.61924;11;;;;;;;No;;;;;No toll objects found
+1036;50.51156;2.61909;12;;;;;;;No;;;;;No toll objects found
+1037;50.5115;2.61899;9;;;;;;;No;;;;;No toll objects found
+1038;50.51142;2.61891;10;;;;;;;No;;;;;No toll objects found
+1039;50.51134;2.61886;9;;;;;;;No;;;;;No toll objects found
+1040;50.51119;2.61884;16;;;;;;;No;;;;;No toll objects found
+1041;50.51104;2.61891;17;;;;;;;No;;;;;No toll objects found
+1042;50.51092;2.61906;17;;;;;;;No;;;;;No toll objects found
+1043;50.51087;2.61917;9;;;;;;;No;;;;;No toll objects found
+1044;50.51084;2.6193;9;;;;;;;No;;;;;No toll objects found
+1045;50.51082;2.61943;9;;;;;;;No;;;;;No toll objects found
+1046;50.51082;2.61957;9;;;;;;;No;;;;;No toll objects found
+1047;50.51084;2.6197;9;;;;;;;No;;;;;No toll objects found
+1048;50.51088;2.61982;9;;;;;;;No;;;;;No toll objects found
+1049;50.51093;2.61993;9;;;;;;;No;;;;;No toll objects found
+1050;50.51093;2.61993;0;;;;;;;No;;;;;No toll objects found
+1051;50.51092;2.62006;9;;;;;;;No;;;;;No toll objects found
+1052;50.51087;2.62023;13;;;;;;;No;;;;;No toll objects found
+1053;50.51074;2.62058;28;;;;;;;No;;;;;No toll objects found
+1054;50.5105;2.62132;58;;;;;;;No;;;;;No toll objects found
+1055;50.5103;2.62203;55;;;;;;;No;;;;;No toll objects found
+1056;50.51016;2.62275;53;;;;;;;No;;;;;No toll objects found
+1057;50.50994;2.62415;102;;;;;;;No;;;;;No toll objects found
+1058;50.50979;2.62702;204;;;;;;;No;;;;;No toll objects found
+1059;50.50962;2.62814;81;;;;;;;No;;;;;No toll objects found
+1060;50.50914;2.62974;125;;;;;;;No;;;;;No toll objects found
+1061;50.50859;2.63189;164;;;;;;;No;;;;;No toll objects found
+1062;50.50824;2.63436;179;;;;;;;No;;;;;No toll objects found
+1063;50.50803;2.63713;197;;;;;;;No;;;;;No toll objects found
+1064;50.50801;2.63944;163;;;;;;;No;;;;;No toll objects found
+1065;50.50815;2.64167;158;;;;;;;No;;;;;No toll objects found
+1066;50.50823;2.64231;46;;;;;;;No;;;;;No toll objects found
+1067;50.50823;2.6425;13;;;;;;;No;;;;;No toll objects found
+1068;50.50821;2.6426;7;;;;;;;No;;;;;No toll objects found
+1069;50.50821;2.6426;0;;;;;;;No;;;;;No toll objects found
+1070;50.50817;2.64267;6;;;;;;;No;;;;;No toll objects found
+1071;50.50815;2.64279;8;;;;;;;No;;;;;No toll objects found
+1072;50.50815;2.64293;9;;;;;;;No;;;;;No toll objects found
+1073;50.50821;2.64307;11;;;;;;;No;;;;;No toll objects found
+1074;50.50825;2.64311;5;;;;;;;No;;;;;No toll objects found
+1075;50.50829;2.64313;4;;;;;;;No;;;;;No toll objects found
+1076;50.50829;2.64313;0;;;;;;;No;;;;;No toll objects found
+1077;50.50834;2.64328;12;;;;;;;No;;;;;No toll objects found
+1078;50.5084;2.64359;22;;;;;;;No;;;;;No toll objects found
+1079;50.50844;2.64384;18;;;;;;;No;;;;;No toll objects found
+1080;50.50856;2.6447;62;;;;;;;No;;;;;No toll objects found
+1081;50.50892;2.64657;138;;;;;;;No;;;;;No toll objects found
+1082;50.50912;2.64767;81;;;;;;;No;;;;;No toll objects found
+1083;50.50927;2.6486;68;;;;;;;No;;;;;No toll objects found
+1084;50.50933;2.64914;38;;;;;;;No;;;;;No toll objects found
+1085;50.50934;2.64947;23;;;;;;;No;;;;;No toll objects found
+1086;50.50934;2.64955;5;;;;;;;No;;;;;No toll objects found
+1087;50.50933;2.64965;7;;;;;;;No;;;;;No toll objects found
+1088;50.50933;2.64965;0;;;;;;;No;;;;;No toll objects found
+1089;50.50931;2.6497;4;;;;;;;No;;;;;No toll objects found
+1090;50.50929;2.64976;4;;;;;;;No;;;;;No toll objects found
+1091;50.50927;2.64983;5;;;;;;;No;;;;;No toll objects found
+1092;50.50926;2.64987;3;;;;;;;No;;;;;No toll objects found
+1093;50.50927;2.64993;4;;;;;;;No;;;;;No toll objects found
+1094;50.50927;2.65;4;;;;;;;No;;;;;No toll objects found
+1095;50.50929;2.65009;6;;;;;;;No;;;;;No toll objects found
+1096;50.50933;2.65016;6;;;;;;;No;;;;;No toll objects found
+1097;50.50937;2.65022;6;;;;;;;No;;;;;No toll objects found
+1098;50.50942;2.65026;6;;;;;;;No;;;;;No toll objects found
+1099;50.50942;2.65026;0;;;;;;;No;;;;;No toll objects found
+1100;50.50946;2.65034;7;;;;;;;No;;;;;No toll objects found
+1101;50.5095;2.65046;9;;;;;;;No;;;;;No toll objects found
+1102;50.50953;2.65063;12;;;;;;;No;;;;;No toll objects found
+1103;50.50959;2.65091;20;;;;;;;No;;;;;No toll objects found
+1104;50.51031;2.65465;277;;;;;;;No;;;;;No toll objects found
+1105;50.5104;2.65504;29;;;;;;;No;;;;;No toll objects found
+1106;50.5105;2.65553;36;;;;;;;No;;;;;No toll objects found
+1107;50.51103;2.65767;162;;;;;;;No;;;;;No toll objects found
+1108;50.51123;2.65856;66;;;;;;;No;;;;;No toll objects found
+1109;50.5114;2.65945;65;;;;;;;No;;;;;No toll objects found
+1110;50.51145;2.65972;19;;;;;;;No;;;;;No toll objects found
+1111;50.51148;2.65994;15;;;;;;;No;;;;;No toll objects found
+1112;50.51148;2.66007;9;;;;;;;No;;;;;No toll objects found
+1113;50.51146;2.66015;6;;;;;;;No;;;;;No toll objects found
+1114;50.51146;2.66015;0;;;;;;;No;;;;;No toll objects found
+1115;50.51142;2.66022;6;;;;;;;No;;;;;No toll objects found
+1116;50.51139;2.66029;5;;;;;;;No;;;;;No toll objects found
+1117;50.51137;2.6604;8;;;;;;;No;;;;;No toll objects found
+1118;50.51137;2.66052;8;;;;;;;No;;;;;No toll objects found
+1119;50.51139;2.66063;8;;;;;;;No;;;;;No toll objects found
+1120;50.51142;2.66071;6;;;;;;;No;;;;;No toll objects found
+1121;50.51147;2.66078;7;;;;;;;No;;;;;No toll objects found
+1122;50.51152;2.66083;6;;;;;;;No;;;;;No toll objects found
+1123;50.51152;2.66083;0;;;;;;;No;;;;;No toll objects found
+1124;50.5116;2.66092;10;;;;;;;No;;;;;No toll objects found
+1125;50.51165;2.66101;8;;;;;;;No;;;;;No toll objects found
+1126;50.5117;2.66129;20;;;;;;;No;;;;;No toll objects found
+1127;50.51177;2.66188;42;;;;;;;No;;;;;No toll objects found
+1128;50.51191;2.66305;84;;;;;;;No;;;;;No toll objects found
+1129;50.5121;2.6649;132;;;;;;;No;;;;;No toll objects found
+1130;50.51228;2.66678;134;;;;;;;No;;;;;No toll objects found
+1131;50.51248;2.66872;139;;;;;;;No;;;;;No toll objects found
+1132;50.51284;2.6726;278;;;;;;;No;;;;;No toll objects found
+1133;50.51284;2.67276;11;;;;;;;No;;;;;No toll objects found
+1134;50.51284;2.67283;4;;;;;;;No;;;;;No toll objects found
+1135;50.51278;2.67297;11;;;;;;;No;;;;;No toll objects found
+1136;50.51278;2.67297;0;;;;;;;No;;;;;No toll objects found
+1137;50.5127;2.67307;11;;;;;;;No;;;;;No toll objects found
+1138;50.51265;2.6732;10;;;;;;;No;;;;;No toll objects found
+1139;50.51263;2.67336;11;;;;;;;No;;;;;No toll objects found
+1140;50.51264;2.67351;10;;;;;;;No;;;;;No toll objects found
+1141;50.51268;2.67365;10;;;;;;;No;;;;;No toll objects found
+1142;50.51274;2.67377;10;;;;;;;No;;;;;No toll objects found
+1143;50.51283;2.67385;11;;;;;;;No;;;;;No toll objects found
+1144;50.51283;2.67385;0;;;;;;;No;;;;;No toll objects found
+1145;50.51287;2.67392;6;;;;;;;No;;;;;No toll objects found
+1146;50.51291;2.67403;8;;;;;;;No;;;;;No toll objects found
+1147;50.51294;2.67433;21;;;;;;;No;;;;;No toll objects found
+1148;50.51294;2.67479;32;;;;;;;No;;;;;No toll objects found
+1149;50.51292;2.67557;55;;;;;;;No;;;;;No toll objects found
+1150;50.51291;2.67599;29;;;;;;;No;;;;;No toll objects found
+1151;50.5129;2.67628;20;;;;;;;No;;;;;No toll objects found
+1152;50.51292;2.67667;27;;;;;;;No;;;;;No toll objects found
+1153;50.51294;2.67738;50;;;;;;;No;;;;;No toll objects found
+1154;50.51298;2.67829;64;;;;;;;No;;;;;No toll objects found
+1155;50.51305;2.6791;57;;;;;;;No;;;;;No toll objects found
+1156;50.51311;2.68005;67;;;;;;;No;;;;;No toll objects found
+1157;50.51321;2.68172;118;;;;;;;No;;;;;No toll objects found
+1158;50.51321;2.68179;4;;;;;;;No;;;;;No toll objects found
+1159;50.51319;2.68187;6;;;;;;;No;;;;;No toll objects found
+1160;50.51319;2.68187;0;;;;;;;No;;;;;No toll objects found
+1161;50.51312;2.68193;8;;;;;;;No;;;;;No toll objects found
+1162;50.51307;2.68202;8;;;;;;;No;;;;;No toll objects found
+1163;50.51304;2.68212;7;;;;;;;No;;;;;No toll objects found
+1164;50.51302;2.6822;6;;;;;;;No;;;;;No toll objects found
+1165;50.51302;2.68228;5;;;;;;;No;;;;;No toll objects found
+1166;50.51302;2.68236;5;;;;;;;No;;;;;No toll objects found
+1167;50.51304;2.68244;6;;;;;;;No;;;;;No toll objects found
+1168;50.51309;2.68255;9;;;;;;;No;;;;;No toll objects found
+1169;50.51315;2.68264;9;;;;;;;No;;;;;No toll objects found
+1170;50.51323;2.68269;9;;;;;;;No;;;;;No toll objects found
+1171;50.51323;2.68269;0;;;;;;;No;;;;;No toll objects found
+1172;50.51325;2.68275;4;;;;;;;No;;;;;No toll objects found
+1173;50.51326;2.68282;5;;;;;;;No;;;;;No toll objects found
+1174;50.51329;2.68342;42;;;;;;;No;;;;;No toll objects found
+1175;50.51335;2.68467;88;;;;;;;No;;;;;No toll objects found
+1176;50.51338;2.68719;178;;;;;;;No;;;;;No toll objects found
+1177;50.51346;2.68955;167;;;;;;;No;;;;;No toll objects found
+1178;50.51357;2.69192;168;;;;;;;No;;;;;No toll objects found
+1179;50.51361;2.69227;25;;;;;;;No;;;;;No toll objects found
+1180;50.51368;2.69257;22;;;;;;;No;;;;;No toll objects found
+1181;50.5137;2.6928;16;;;;;;;No;;;;;No toll objects found
+1182;50.5137;2.6928;0;;;;;;;No;;;;;No toll objects found
+1183;50.51366;2.69292;9;;;;;;;No;;;;;No toll objects found
+1184;50.51365;2.69307;10;;;;;;;No;;;;;No toll objects found
+1185;50.51368;2.69321;10;;;;;;;No;;;;;No toll objects found
+1186;50.51373;2.69332;9;;;;;;;No;;;;;No toll objects found
+1187;50.51376;2.69335;3;;;;;;;No;;;;;No toll objects found
+1188;50.51376;2.69335;0;;;;;;;No;;;;;No toll objects found
+1189;50.51383;2.69368;24;;;;;;;No;;;;;No toll objects found
+1190;50.51382;2.6939;15;;;;;;;No;;;;;No toll objects found
+1191;50.51381;2.69422;22;;;;;;;No;;;;;No toll objects found
+1192;50.51377;2.69476;38;;;;;;;No;;;;;No toll objects found
+1193;50.51374;2.69527;36;;;;;;;No;;;;;No toll objects found
+1194;50.51363;2.69584;42;;;;;;;No;;;;;No toll objects found
+1195;50.51336;2.69739;113;;;;;;;No;;;;;No toll objects found
+1196;50.51322;2.69817;57;;;;;;;No;;;;;No toll objects found
+1197;50.51271;2.70121;222;;;;;;;No;;;;;No toll objects found
+1198;50.51264;2.70161;29;;;;;;;No;;;;;No toll objects found
+1199;50.51251;2.70243;59;;;;;;;No;;;;;No toll objects found
+1200;50.51189;2.70584;251;;;;;;;No;;;;;No toll objects found
+1201;50.51172;2.70688;76;;;;;;;No;;;;;No toll objects found
+1202;50.51138;2.70886;145;;;;;;;No;;;;;No toll objects found
+1203;50.51113;2.71032;107;;;;;;;No;;;;;No toll objects found
+1204;50.51009;2.71626;436;;;;;;;No;;;;;No toll objects found
+1205;50.50995;2.71709;60;;;;;;;No;;;;;No toll objects found
+1206;50.50988;2.71749;29;;;;;;;No;;;;;No toll objects found
+1207;50.50988;2.71749;0;;;;;;;No;;;;;No toll objects found
+1208;50.50898;2.72278;388;;;;;;;No;;;;;No toll objects found
+1209;50.50894;2.72331;37;;;;;;;No;;;;;No toll objects found
+1210;50.50895;2.72353;15;;;;;;;No;;;;;No toll objects found
+1211;50.50897;2.72385;22;;;;;;;No;;;;;No toll objects found
+1212;50.5092;2.72546;117;;;;;;;No;;;;;No toll objects found
+1213;50.50944;2.72697;110;;;;;;;No;;;;;No toll objects found
+1214;50.50948;2.72728;22;;;;;;;No;;;;;No toll objects found
+1215;50.50956;2.72777;35;;;;;;;No;;;;;No toll objects found
+1216;50.50961;2.72807;21;;;;;;;No;;;;;No toll objects found
+1217;50.50964;2.72827;14;;;;;;;No;;;;;No toll objects found
+1218;50.50966;2.7284;9;;;;;;;No;;;;;No toll objects found
+1219;50.51005;2.73082;177;;;;;;;No;;;;;No toll objects found
+1220;50.5101;2.7311;20;;;;;;;No;;;;;No toll objects found
+1221;50.5101;2.7311;0;;;;;;;No;;;;;No toll objects found
+1222;50.51036;2.73276;121;;;;;;;No;;;;;No toll objects found
+1223;50.51078;2.73542;194;;;;;;;No;;;;;No toll objects found
+1224;50.51103;2.73699;114;;;;;;;No;;;;;No toll objects found
+1225;50.5113;2.73871;125;;;;;;;No;;;;;No toll objects found
+1226;50.51153;2.7402;108;;;;;;;No;;;;;No toll objects found
+1227;50.51158;2.74047;19;;;;;;;No;;;;;No toll objects found
+1228;50.5116;2.74062;10;;;;;;;No;;;;;No toll objects found
+1229;50.51181;2.74195;97;;;;;;;No;;;;;No toll objects found
+1230;50.51185;2.74224;21;;;;;;;No;;;;;No toll objects found
+1231;50.51188;2.7424;11;;;;;;;No;;;;;No toll objects found
+1232;50.512;2.74326;62;;;;;;;No;;;;;No toll objects found
+1233;50.51224;2.74472;106;;;;;;;No;;;;;No toll objects found
+1234;50.5126;2.74696;163;;;;;;;No;;;;;No toll objects found
+1235;50.51259;2.74709;9;;;;;;;No;;;;;No toll objects found
+1236;50.5126;2.7472;7;;;;;;;No;;;;;No toll objects found
+1237;50.5126;2.74728;5;;;;;;;No;;;;;No toll objects found
+1238;50.5126;2.74728;0;;;;;;;No;;;;;No toll objects found
+1239;50.51259;2.74733;3;;;;;;;No;;;;;No toll objects found
+1240;50.5126;2.74739;4;;;;;;;No;;;;;No toll objects found
+1241;50.51262;2.74745;4;;;;;;;No;;;;;No toll objects found
+1242;50.51264;2.74746;2;;;;;;;No;;;;;No toll objects found
+1243;50.51266;2.74754;6;;;;;;;No;;;;;No toll objects found
+1244;50.51268;2.74764;7;;;;;;;No;;;;;No toll objects found
+1245;50.51273;2.74786;16;;;;;;;No;;;;;No toll objects found
+1246;50.51332;2.75167;278;;;;;;;No;;;;;No toll objects found
+1247;50.51335;2.75187;14;;;;;;;No;;;;;No toll objects found
+1248;50.5134;2.75216;21;;;;;;;No;;;;;No toll objects found
+1249;50.51345;2.75246;21;;;;;;;No;;;;;No toll objects found
+1250;50.5142;2.75733;355;;;;;;;No;;;;;No toll objects found
+1251;50.51431;2.75798;47;;;;;;;No;;;;;No toll objects found
+1252;50.51447;2.75901;75;;;;;;;No;;;;;No toll objects found
+1253;50.51456;2.75952;37;;;;;;;No;;;;;No toll objects found
+1254;50.51468;2.76038;62;;;;;;;No;;;;;No toll objects found
+1255;50.51499;2.76244;150;;;;;;;No;;;;;No toll objects found
+1256;50.51602;2.76898;477;;;;;;;No;;;;;No toll objects found
+1257;50.51604;2.76912;10;;;;;;;No;;;;;No toll objects found
+1258;50.51652;2.7722;224;;;;;;;No;;;;;No toll objects found
+1259;50.51656;2.77248;20;;;;;;;No;;;;;No toll objects found
+1260;50.51666;2.7731;45;;;;;;;No;;;;;No toll objects found
+1261;50.5168;2.77396;62;;;;;;;No;;;;;No toll objects found
+1262;50.51687;2.77438;30;;;;;;;No;;;;;No toll objects found
+1263;50.51692;2.77474;26;;;;;;;No;;;;;No toll objects found
+1264;50.51711;2.77592;86;;;;;;;No;;;;;No toll objects found
+1265;50.51732;2.77733;102;;;;;;;No;;;;;No toll objects found
+1266;50.51737;2.77766;24;;;;;;;No;;;;;No toll objects found
+1267;50.51741;2.77796;21;;;;;;;No;;;;;No toll objects found
+1268;50.51754;2.77881;61;;;;;;;No;;;;;No toll objects found
+1269;50.51757;2.77899;13;;;;;;;No;;;;;No toll objects found
+1270;50.5176;2.77919;14;;;;;;;No;;;;;No toll objects found
+1271;50.51762;2.77931;8;;;;;;;No;;;;;No toll objects found
+1272;50.51764;2.77941;7;;;;;;;No;;;;;No toll objects found
+1273;50.51772;2.77996;40;;;;;;;No;;;;;No toll objects found
+1274;50.51785;2.78071;55;;;;;;;No;;;;;No toll objects found
+1275;50.5179;2.78106;25;;;;;;;No;;;;;No toll objects found
+1276;50.51798;2.78153;34;;;;;;;No;;;;;No toll objects found
+1277;50.51832;2.78367;156;;;;;;;No;;;;;No toll objects found
+1278;50.51837;2.784;24;;;;;;;No;;;;;No toll objects found
+1279;50.51853;2.78495;69;;;;;;;No;;;;;No toll objects found
+1280;50.51858;2.78523;20;;;;;;;No;;;;;No toll objects found
+1281;50.51865;2.78572;35;;;;;;;No;;;;;No toll objects found
+1282;50.51897;2.78782;153;;;;;;;No;;;;;No toll objects found
+1283;50.5191;2.78867;61;;;;;;;No;;;;;No toll objects found
+1284;50.51915;2.78894;19;;;;;;;No;;;;;No toll objects found
+1285;50.51931;2.78957;48;;;;;;;No;;;;;No toll objects found
+1286;50.51939;2.78979;17;;;;;;;No;;;;;No toll objects found
+1287;50.51951;2.79012;26;;;;;;;No;;;;;No toll objects found
+1288;50.52027;2.79181;146;;;;;;;No;;;;;No toll objects found
+1289;50.52031;2.79201;14;;;;;;;No;;;;;No toll objects found
+1290;50.52066;2.79315;89;;;;;;;No;;;;;No toll objects found
+1291;50.52069;2.79334;13;;;;;;;No;;;;;No toll objects found
+1292;50.52068;2.79348;9;;;;;;;No;;;;;No toll objects found
+1293;50.5207;2.79365;12;;;;;;;No;;;;;No toll objects found
+1294;50.52076;2.79376;10;;;;;;;No;;;;;No toll objects found
+1295;50.52076;2.79376;0;;;;;;;No;;;;;No toll objects found
+1296;50.52083;2.79388;11;;;;;;;No;;;;;No toll objects found
+1297;50.52088;2.79403;12;;;;;;;No;;;;;No toll objects found
+1298;50.52096;2.79436;25;;;;;;;No;;;;;No toll objects found
+1299;50.52121;2.79584;108;;;;;;;No;;;;;No toll objects found
+1300;50.52143;2.79745;116;;;;;;;No;;;;;No toll objects found
+1301;50.52179;2.80052;221;;;;;;;No;;;;;No toll objects found
+1302;50.52185;2.80092;29;;;;;;;No;;;;;No toll objects found
+1303;50.52188;2.80115;16;;;;;;;No;;;;;No toll objects found
+1304;50.5219;2.80132;12;;;;;;;No;;;;;No toll objects found
+1305;50.52192;2.80165;23;;;;;;;No;;;;;No toll objects found
+1306;50.52193;2.80189;17;;;;;;;No;;;;;No toll objects found
+1307;50.52193;2.80198;6;;;;;;;No;;;;;No toll objects found
+1308;50.52191;2.80207;6;;;;;;;No;;;;;No toll objects found
+1309;50.52191;2.80207;0;;;;;;;No;;;;;No toll objects found
+1310;50.52187;2.80216;7;;;;;;;No;;;;;No toll objects found
+1311;50.52185;2.80226;7;;;;;;;No;;;;;No toll objects found
+1312;50.52185;2.80234;5;;;;;;;No;;;;;No toll objects found
+1313;50.52187;2.80242;6;;;;;;;No;;;;;No toll objects found
+1314;50.5219;2.80248;5;;;;;;;No;;;;;No toll objects found
+1315;50.52193;2.80253;4;;;;;;;No;;;;;No toll objects found
+1316;50.52197;2.80257;5;;;;;;;No;;;;;No toll objects found
+1317;50.52201;2.80259;4;;;;;;;No;;;;;No toll objects found
+1318;50.52206;2.8026;5;;;;;;;No;;;;;No toll objects found
+1319;50.52211;2.80258;5;;;;;;;No;;;;;No toll objects found
+1320;50.52216;2.80254;6;;;;;;;No;;;;;No toll objects found
+1321;50.52221;2.80247;7;;;;;;;No;;;;;No toll objects found
+1322;50.52224;2.80237;7;;;;;;;No;;;;;No toll objects found
+1323;50.52224;2.80237;0;;;;;;;No;;;;;No toll objects found
+1324;50.52233;2.80229;11;;;;;;;No;;;;;No toll objects found
+1325;50.52235;2.80229;2;;;;;;;No;;;;;No toll objects found
+1326;50.52248;2.80225;14;;;;;;;No;;;;;No toll objects found
+1327;50.5227;2.80223;24;;;;;;;No;;;;;No toll objects found
+1328;50.52278;2.80222;8;;;;;;;No;;;;;No toll objects found
+1329;50.52288;2.80222;11;;;;;;;No;;;;;No toll objects found
+1330;50.523;2.80219;13;;;;;;;No;;;;;No toll objects found
+1331;50.52319;2.80223;21;;;;;;;No;;;;;No toll objects found
+1332;50.52383;2.80237;71;;;;;;;No;;;;;No toll objects found
+1333;50.52427;2.80245;49;;;;;;;No;;;;;No toll objects found
+1334;50.5247;2.80267;50;;;;;;;No;;;;;No toll objects found
+1335;50.52511;2.80292;48;;;;;;;No;;;;;No toll objects found
+1336;50.52569;2.80333;70;;;;;;;No;;;;;No toll objects found
+1337;50.52578;2.80339;10;;;;;;;No;;;;;No toll objects found
+1338;50.52593;2.8035;18;;;;;;;No;;;;;No toll objects found
+1339;50.52612;2.80364;23;;;;;;;No;;;;;No toll objects found
+1340;50.52635;2.80372;26;;;;;;;No;;;;;No toll objects found
+1341;50.52669;2.80376;37;;;;;;;No;;;;;No toll objects found
+1342;50.52696;2.80368;30;;;;;;;No;;;;;No toll objects found
+1343;50.52712;2.80364;18;;;;;;;No;;;;;No toll objects found
+1344;50.52743;2.80347;36;;;;;;;No;;;;;No toll objects found
+1345;50.52754;2.80344;12;;;;;;;No;;;;;No toll objects found
+1346;50.52757;2.80344;3;;;;;;;No;;;;;No toll objects found
+1347;50.52759;2.80344;2;;;;;;;No;;;;;No toll objects found
+1348;50.52762;2.80346;3;;;;;;;No;;;;;No toll objects found
+1349;50.52764;2.80348;2;;;;;;;No;;;;;No toll objects found
+1350;50.52765;2.80351;2;;;;;;;No;;;;;No toll objects found
+1351;50.52765;2.80351;0;;;;;;;No;;;;;No toll objects found
+1352;50.52766;2.80353;1;;;;;;;No;;;;;No toll objects found
+1353;50.52767;2.80355;1;;;;;;;No;;;;;No toll objects found
+1354;50.52768;2.80356;1;;;;;;;No;;;;;No toll objects found
+1355;50.52769;2.80357;1;;;;;;;No;;;;;No toll objects found
+1356;50.52771;2.80358;2;;;;;;;No;;;;;No toll objects found
+1357;50.52772;2.80358;1;;;;;;;No;;;;;No toll objects found
+1358;50.52773;2.80358;1;;;;;;;No;;;;;No toll objects found
+1359;50.52775;2.80358;2;;;;;;;No;;;;;No toll objects found
+1360;50.52776;2.80358;1;;;;;;;No;;;;;No toll objects found
+1361;50.52776;2.80358;0;;;;;;;No;;;;;No toll objects found
+1362;50.5278;2.80357;4;;;;;;;No;;;;;No toll objects found
+1363;50.52782;2.80358;2;;;;;;;No;;;;;No toll objects found
+1364;50.52784;2.80359;2;;;;;;;No;;;;;No toll objects found
+1365;50.52786;2.80362;3;;;;;;;No;;;;;No toll objects found
+1366;50.52788;2.80366;3;;;;;;;No;;;;;No toll objects found
+1367;50.5279;2.80371;4;;;;;;;No;;;;;No toll objects found
+1368;50.52793;2.80381;7;;;;;;;No;;;;;No toll objects found
+1369;50.52797;2.80396;11;;;;;;;No;;;;;No toll objects found
+1370;50.52804;2.80423;20;;;;;;;No;;;;;No toll objects found
+1371;50.5281;2.80443;15;;;;;;;No;;;;;No toll objects found
+1372;50.52814;2.80455;9;;;;;;;No;;;;;No toll objects found
+1373;50.52816;2.80465;7;;;;;;;No;;;;;No toll objects found
+1374;50.52818;2.8047;4;;;;;;;No;;;;;No toll objects found
+1375;50.5282;2.80475;4;;;;;;;No;;;;;No toll objects found
+1376;50.52822;2.80478;3;;;;;;;No;;;;;No toll objects found
+1377;50.52824;2.80481;3;;;;;;;No;;;;;No toll objects found
+1378;50.52826;2.80481;2;;;;;;;No;;;;;No toll objects found
+1379;50.52829;2.80483;3;;;;;;;No;;;;;No toll objects found
+1380;50.52833;2.80483;4;;;;;;;No;;;;;No toll objects found
+1381;50.52837;2.80482;4;;;;;;;No;;;;;No toll objects found
+1382;50.52878;2.80472;46;;;;;;;No;;;;;No toll objects found
+1383;50.52883;2.80472;5;;;;;;;No;;;;;No toll objects found
+1384;50.52888;2.80471;5;;;;;;;No;;;;;No toll objects found
+1385;50.52897;2.8047;10;;;;;;;No;;;;;No toll objects found
+1386;50.52926;2.80462;32;;;;;;;No;;;;;No toll objects found
+1387;50.52991;2.80446;73;;;;;;;No;;;;;No toll objects found
+1388;50.52996;2.80445;5;;;;;;;No;;;;;No toll objects found
+1389;50.5301;2.80441;15;;;;;;;No;;;;;No toll objects found
+1390;50.53018;2.80439;9;;;;;;;No;;;;;No toll objects found
+1391;50.53072;2.80426;60;;;;;;;No;;;;;No toll objects found
+1392;50.53076;2.80425;4;;;;;;;No;;;;;No toll objects found
+1393;50.53088;2.80423;13;;;;;;;No;;;;;No toll objects found
+1394;50.53088;2.80423;0;;;;;;;No;;;;;No toll objects found
+1395;50.53104;2.80424;17;;;;;;;No;;;;;No toll objects found
+1396;50.53119;2.80423;16;;;;;;;No;;;;;No toll objects found
+1397;50.53122;2.80423;3;;;;;;;No;;;;;No toll objects found
+1398;50.53127;2.80424;5;;;;;;;No;;;;;No toll objects found
+1399;50.5313;2.80425;3;;;;;;;No;;;;;No toll objects found
+1400;50.53134;2.80428;4;;;;;;;No;;;;;No toll objects found
+1401;50.53134;2.80428;0;;;;;;;No;;;;;No toll objects found
+1402;50.53135;2.80431;2;;;;;;;No;;;;;No toll objects found
+1403;50.53137;2.80436;4;;;;;;;No;;;;;No toll objects found
+1404;50.53138;2.80441;3;;;;;;;No;;;;;No toll objects found
+1405;50.5314;2.80453;8;;;;;;;No;;;;;No toll objects found
+1406;50.53143;2.80485;22;;;;;;;No;;;;;No toll objects found
+1407;50.53148;2.80532;33;;;;;;;No;;;;;No toll objects found
+1408;50.53157;2.80613;58;;;;;;;No;;;;;No toll objects found
+1409;50.53158;2.80626;9;;;;;;;No;;;;;No toll objects found
+1410;50.53161;2.80651;18;;;;;;;No;;;;;No toll objects found
+1411;50.53163;2.80667;11;;;;;;;No;;;;;No toll objects found
+1412;50.53164;2.80679;8;;;;;;;No;;;;;No toll objects found
+1413;50.53175;2.80766;62;;;;;;;No;;;;;No toll objects found
+1414;50.53178;2.80793;19;;;;;;;No;;;;;No toll objects found
+1415;50.53179;2.80805;8;;;;;;;No;;;;;No toll objects found
+1416;50.5318;2.80809;3;;;;;;;No;;;;;No toll objects found
+1417;50.53182;2.80824;10;;;;;;;No;;;;;No toll objects found
+1418;50.53185;2.80839;11;;;;;;;No;;;;;No toll objects found
+1419;50.53191;2.80869;22;;;;;;;No;;;;;No toll objects found
+1420;50.53197;2.80897;20;;;;;;;No;;;;;No toll objects found
+1421;50.53197;2.80899;1;;;;;;;No;;;;;No toll objects found
+1422;50.532;2.80909;7;;;;;;;No;;;;;No toll objects found
+1423;50.53204;2.80924;11;;;;;;;No;;;;;No toll objects found
+1424;50.53206;2.80932;6;;;;;;;No;;;;;No toll objects found
+1425;50.53208;2.8094;6;;;;;;;No;;;;;No toll objects found
+1426;50.53215;2.80967;20;;;;;;;No;;;;;No toll objects found
+1427;50.53222;2.80992;19;;;;;;;No;;;;;No toll objects found
+1428;50.53222;2.80992;0;;;;;;;No;;;;;No toll objects found
+1429;50.53229;2.81015;18;;;;;;;No;;;;;No toll objects found
+1430;50.53233;2.81031;12;;;;;;;No;;;;;No toll objects found
+1431;50.5324;2.81051;16;;;;;;;No;;;;;No toll objects found
+1432;50.53243;2.81059;6;;;;;;;No;;;;;No toll objects found
+1433;50.53245;2.81064;4;;;;;;;No;;;;;No toll objects found
+1434;50.53247;2.81068;3;;;;;;;No;;;;;No toll objects found
+1435;50.53248;2.81069;1;;;;;;;No;;;;;No toll objects found
+1436;50.53254;2.81077;8;;;;;;;No;;;;;No toll objects found
+1437;50.53262;2.81087;11;;;;;;;No;;;;;No toll objects found
+1438;50.53266;2.81092;5;;;;;;;No;;;;;No toll objects found
+1439;50.53275;2.81102;12;;;;;;;No;;;;;No toll objects found
+1440;50.5328;2.81108;7;;;;;;;No;;;;;No toll objects found
+1441;50.5328;2.81108;0;;;;;;;No;;;;;No toll objects found
+1442;50.53285;2.81113;6;;;;;;;No;;;;;No toll objects found
+1443;50.53295;2.81126;14;;;;;;;No;;;;;No toll objects found
+1444;50.53307;2.81142;17;;;;;;;No;;;;;No toll objects found
+1445;50.53322;2.81164;22;;;;;;;No;;;;;No toll objects found
+1446;50.53326;2.8117;6;;;;;;;No;;;;;No toll objects found
+1447;50.53339;2.8119;20;;;;;;;No;;;;;No toll objects found
+1448;50.53355;2.81214;24;;;;;;;No;;;;;No toll objects found
+1449;50.53362;2.81225;11;;;;;;;No;;;;;No toll objects found
+1450;50.53387;2.81261;37;;;;;;;No;;;;;No toll objects found
+1451;50.5339;2.81266;4;;;;;;;No;;;;;No toll objects found
+1452;50.53435;2.81333;69;;;;;;;No;;;;;No toll objects found
+1453;50.5345;2.81357;23;;;;;;;No;;;;;No toll objects found
+1454;50.53457;2.81367;10;;;;;;;No;;;;;No toll objects found
+1455;50.53462;2.81373;7;;;;;;;No;;;;;No toll objects found
+1456;50.5347;2.81383;11;;;;;;;No;;;;;No toll objects found
+1457;50.53477;2.81391;9;;;;;;;No;;;;;No toll objects found
+1458;50.53488;2.81403;14;;;;;;;No;;;;;No toll objects found
+1459;50.53495;2.81411;9;;;;;;;No;;;;;No toll objects found
+1460;50.53497;2.81413;2;;;;;;;No;;;;;No toll objects found
+1461;50.53523;2.81435;32;;;;;;;No;;;;;No toll objects found
+1462;50.53578;2.81483;70;;;;;;;No;;;;;No toll objects found
+1463;50.53604;2.81505;32;;;;;;;No;;;;;No toll objects found
+1464;50.53606;2.81507;2;;;;;;;No;;;;;No toll objects found
+1465;50.53611;2.81511;6;;;;;;;No;;;;;No toll objects found
+1466;50.53617;2.81516;7;;;;;;;No;;;;;No toll objects found
+1467;50.53634;2.81531;21;;;;;;;No;;;;;No toll objects found
+1468;50.53653;2.81548;24;;;;;;;No;;;;;No toll objects found
+1469;50.53681;2.81572;35;;;;;;;No;;;;;No toll objects found
+1470;50.53717;2.81604;46;;;;;;;No;;;;;No toll objects found
+1471;50.53722;2.81608;6;;;;;;;No;;;;;No toll objects found
+1472;50.5375;2.81632;35;;;;;;;No;;;;;No toll objects found
+1473;50.53799;2.81675;62;;;;;;;No;;;;;No toll objects found
+1474;50.53804;2.81679;6;;;;;;;No;;;;;No toll objects found
+1475;50.53808;2.81683;5;;;;;;;No;;;;;No toll objects found
+1476;50.53835;2.81706;34;;;;;;;No;;;;;No toll objects found
+1477;50.5385;2.81718;18;;;;;;;No;;;;;No toll objects found
+1478;50.53852;2.8172;2;;;;;;;No;;;;;No toll objects found
+1479;50.5386;2.81727;10;;;;;;;No;;;;;No toll objects found
+1480;50.53869;2.81735;11;;;;;;;No;;;;;No toll objects found
+1481;50.53876;2.81741;8;;;;;;;No;;;;;No toll objects found
+1482;50.53914;2.81774;48;;;;;;;No;;;;;No toll objects found
+1483;50.53939;2.81795;31;;;;;;;No;;;;;No toll objects found
+1484;50.53939;2.81795;0;;;;;;;No;;;;;No toll objects found
+1485;50.53945;2.818;7;;;;;;;No;;;;;No toll objects found
+1486;50.53951;2.81804;7;;;;;;;No;;;;;No toll objects found
+1487;50.53979;2.81829;35;;;;;;;No;;;;;No toll objects found
+1488;50.53983;2.81833;5;;;;;;;No;;;;;No toll objects found
+1489;50.54001;2.81848;22;;;;;;;No;;;;;No toll objects found
+1490;50.54005;2.81852;5;;;;;;;No;;;;;No toll objects found
+1491;50.54042;2.81883;46;;;;;;;No;;;;;No toll objects found
+1492;50.54053;2.81893;14;;;;;;;No;;;;;No toll objects found
+1493;50.54094;2.81926;51;;;;;;;No;;;;;No toll objects found
+1494;50.54106;2.81935;14;;;;;;;No;;;;;No toll objects found
+1495;50.54125;2.81949;23;;;;;;;No;;;;;No toll objects found
+1496;50.54142;2.8196;20;;;;;;;No;;;;;No toll objects found
+1497;50.54165;2.81975;27;;;;;;;No;;;;;No toll objects found
+1498;50.54177;2.81983;14;;;;;;;No;;;;;No toll objects found
+1499;50.54188;2.81991;13;;;;;;;No;;;;;No toll objects found
+1500;50.54193;2.81995;6;;;;;;;No;;;;;No toll objects found
+1501;50.54196;2.81999;4;;;;;;;No;;;;;No toll objects found
+1502;50.54198;2.82002;3;;;;;;;No;;;;;No toll objects found
+1503;50.542;2.82007;4;;;;;;;No;;;;;No toll objects found
+1504;50.542;2.82007;0;;;;;;;No;;;;;No toll objects found
+1505;50.54201;2.82011;3;;;;;;;No;;;;;No toll objects found
+1506;50.54203;2.82015;3;;;;;;;No;;;;;No toll objects found
+1507;50.54205;2.82019;3;;;;;;;No;;;;;No toll objects found
+1508;50.54207;2.82023;3;;;;;;;No;;;;;No toll objects found
+1509;50.54209;2.82026;3;;;;;;;No;;;;;No toll objects found
+1510;50.54212;2.82028;3;;;;;;;No;;;;;No toll objects found
+1511;50.54215;2.8203;3;;;;;;;No;;;;;No toll objects found
+1512;50.54218;2.82031;3;;;;;;;No;;;;;No toll objects found
+1513;50.54221;2.82031;3;;;;;;;No;;;;;No toll objects found
+1514;50.54224;2.82031;3;;;;;;;No;;;;;No toll objects found
+1515;50.54227;2.8203;3;;;;;;;No;;;;;No toll objects found
+1516;50.5423;2.82028;3;;;;;;;No;;;;;No toll objects found
+1517;50.54232;2.82026;2;;;;;;;No;;;;;No toll objects found
+1518;50.54232;2.82026;0;;;;;;;No;;;;;No toll objects found
+1519;50.54238;2.82024;6;;;;;;;No;;;;;No toll objects found
+1520;50.54242;2.82024;4;;;;;;;No;;;;;No toll objects found
+1521;50.54246;2.82025;4;;;;;;;No;;;;;No toll objects found
+1522;50.54252;2.82028;7;;;;;;;No;;;;;No toll objects found
+1523;50.54269;2.8204;20;;;;;;;No;;;;;No toll objects found
+1524;50.54287;2.82053;22;;;;;;;No;;;;;No toll objects found
+1525;50.54309;2.82068;26;;;;;;;No;;;;;No toll objects found
+1526;50.54339;2.82089;36;;;;;;;No;;;;;No toll objects found
+1527;50.54356;2.82102;21;;;;;;;No;;;;;No toll objects found
+1528;50.54377;2.82118;25;;;;;;;No;;;;;No toll objects found
+1529;50.54402;2.82138;31;;;;;;;No;;;;;No toll objects found
+1530;50.54423;2.82155;26;;;;;;;No;;;;;No toll objects found
+1531;50.54471;2.82195;60;;;;;;;No;;;;;No toll objects found
+1532;50.54486;2.82209;19;;;;;;;No;;;;;No toll objects found
+1533;50.54505;2.82225;23;;;;;;;No;;;;;No toll objects found
+1534;50.54521;2.82239;20;;;;;;;No;;;;;No toll objects found
+1535;50.5454;2.82254;23;;;;;;;No;;;;;No toll objects found
+1536;50.54561;2.82275;27;;;;;;;No;;;;;No toll objects found
+1537;50.54579;2.82292;23;;;;;;;No;;;;;No toll objects found
+1538;50.54598;2.82309;24;;;;;;;No;;;;;No toll objects found
+1539;50.54613;2.82323;19;;;;;;;No;;;;;No toll objects found
+1540;50.54635;2.82344;28;;;;;;;No;;;;;No toll objects found
+1541;50.54649;2.82356;17;;;;;;;No;;;;;No toll objects found
+1542;50.54659;2.82364;12;;;;;;;No;;;;;No toll objects found
+1543;50.5467;2.82372;13;;;;;;;No;;;;;No toll objects found
+1544;50.54679;2.82378;10;;;;;;;No;;;;;No toll objects found
+1545;50.54687;2.82383;9;;;;;;;No;;;;;No toll objects found
+1546;50.54701;2.8239;16;;;;;;;No;;;;;No toll objects found
+1547;50.54714;2.82397;15;;;;;;;No;;;;;No toll objects found
+1548;50.5472;2.82399;6;;;;;;;No;;;;;No toll objects found
+1549;50.54726;2.82404;7;;;;;;;No;;;;;No toll objects found
+1550;50.54732;2.82408;7;;;;;;;No;;;;;No toll objects found
+1551;50.54738;2.82415;8;;;;;;;No;;;;;No toll objects found
+1552;50.54745;2.82422;9;;;;;;;No;;;;;No toll objects found
+1553;50.54748;2.82425;3;;;;;;;No;;;;;No toll objects found
+1554;50.54749;2.82428;2;;;;;;;No;;;;;No toll objects found
+1555;50.54751;2.82431;3;;;;;;;No;;;;;No toll objects found
+1556;50.54752;2.82437;4;;;;;;;No;;;;;No toll objects found
+1557;50.54752;2.82437;0;;;;;;;No;;;;;No toll objects found
+1558;50.54753;2.82442;3;;;;;;;No;;;;;No toll objects found
+1559;50.54754;2.82448;4;;;;;;;No;;;;;No toll objects found
+1560;50.54756;2.82453;4;;;;;;;No;;;;;No toll objects found
+1561;50.54758;2.82457;3;;;;;;;No;;;;;No toll objects found
+1562;50.5476;2.82461;3;;;;;;;No;;;;;No toll objects found
+1563;50.54763;2.82465;4;;;;;;;No;;;;;No toll objects found
+1564;50.54767;2.82468;4;;;;;;;No;;;;;No toll objects found
+1565;50.5477;2.8247;3;;;;;;;No;;;;;No toll objects found
+1566;50.54773;2.82471;3;;;;;;;No;;;;;No toll objects found
+1567;50.54777;2.82472;4;;;;;;;No;;;;;No toll objects found
+1568;50.54781;2.82471;4;;;;;;;No;;;;;No toll objects found
+1569;50.54784;2.8247;3;;;;;;;No;;;;;No toll objects found
+1570;50.54788;2.82468;4;;;;;;;No;;;;;No toll objects found
+1571;50.54791;2.82466;3;;;;;;;No;;;;;No toll objects found
+1572;50.54791;2.82466;0;;;;;;;No;;;;;No toll objects found
+1573;50.54794;2.82464;3;;;;;;;No;;;;;No toll objects found
+1574;50.54797;2.82462;3;;;;;;;No;;;;;No toll objects found
+1575;50.54801;2.82462;4;;;;;;;No;;;;;No toll objects found
+1576;50.54805;2.82462;4;;;;;;;No;;;;;No toll objects found
+1577;50.54807;2.82463;2;;;;;;;No;;;;;No toll objects found
+1578;50.5481;2.82464;3;;;;;;;No;;;;;No toll objects found
+1579;50.54814;2.82465;4;;;;;;;No;;;;;No toll objects found
+1580;50.5482;2.82469;7;;;;;;;No;;;;;No toll objects found
+1581;50.54828;2.82475;9;;;;;;;No;;;;;No toll objects found
+1582;50.54845;2.82488;21;;;;;;;No;;;;;No toll objects found
+1583;50.54858;2.82499;16;;;;;;;No;;;;;No toll objects found
+1584;50.54875;2.82513;21;;;;;;;No;;;;;No toll objects found
+1585;50.54891;2.82527;20;;;;;;;No;;;;;No toll objects found
+1586;50.5491;2.82545;24;;;;;;;No;;;;;No toll objects found
+1587;50.54936;2.82568;33;;;;;;;No;;;;;No toll objects found
+1588;50.54998;2.82626;80;;;;;;;No;;;;;No toll objects found
+1589;50.55081;2.82702;106;;;;;;;No;;;;;No toll objects found
+1590;50.55149;2.82765;87;;;;;;;No;;;;;No toll objects found
+1591;50.55199;2.82811;64;;;;;;;No;;;;;No toll objects found
+1592;50.55241;2.82851;54;;;;;;;No;;;;;No toll objects found
+1593;50.5526;2.82869;24;;;;;;;No;;;;;No toll objects found
+1594;50.55279;2.82889;25;;;;;;;No;;;;;No toll objects found
+1595;50.55296;2.82908;23;;;;;;;No;;;;;No toll objects found
+1596;50.55311;2.82926;21;;;;;;;No;;;;;No toll objects found
+1597;50.55327;2.82945;22;;;;;;;No;;;;;No toll objects found
+1598;50.55345;2.8297;26;;;;;;;No;;;;;No toll objects found
+1599;50.55365;2.82997;29;;;;;;;No;;;;;No toll objects found
+1600;50.55378;2.83016;19;;;;;;;No;;;;;No toll objects found
+1601;50.5539;2.83034;18;;;;;;;No;;;;;No toll objects found
+1602;50.55402;2.83054;19;;;;;;;No;;;;;No toll objects found
+1603;50.55417;2.83078;23;;;;;;;No;;;;;No toll objects found
+1604;50.55433;2.83107;27;;;;;;;No;;;;;No toll objects found
+1605;50.55464;2.83161;51;;;;;;;No;;;;;No toll objects found
+1606;50.55485;2.83199;35;;;;;;;No;;;;;No toll objects found
+1607;50.55513;2.83247;46;;;;;;;No;;;;;No toll objects found
+1608;50.55596;2.83394;139;;;;;;;No;;;;;No toll objects found
+1609;50.55626;2.83447;50;;;;;;;No;;;;;No toll objects found
+1610;50.5565;2.8349;40;;;;;;;No;;;;;No toll objects found
+1611;50.55696;2.83572;77;;;;;;;No;;;;;No toll objects found
+1612;50.55712;2.83599;26;;;;;;;No;;;;;No toll objects found
+1613;50.5572;2.83613;13;;;;;;;No;;;;;No toll objects found
+1614;50.55728;2.83627;13;;;;;;;No;;;;;No toll objects found
+1615;50.55736;2.8364;12;;;;;;;No;;;;;No toll objects found
+1616;50.55743;2.83654;12;;;;;;;No;;;;;No toll objects found
+1617;50.55747;2.83662;7;;;;;;;No;;;;;No toll objects found
+1618;50.55751;2.83671;7;;;;;;;No;;;;;No toll objects found
+1619;50.55754;2.8368;7;;;;;;;No;;;;;No toll objects found
+1620;50.55757;2.83686;5;;;;;;;No;;;;;No toll objects found
+1621;50.55759;2.83693;5;;;;;;;No;;;;;No toll objects found
+1622;50.55761;2.837;5;;;;;;;No;;;;;No toll objects found
+1623;50.55762;2.83705;3;;;;;;;No;;;;;No toll objects found
+1624;50.55762;2.83714;6;;;;;;;No;;;;;No toll objects found
+1625;50.55762;2.83714;0;;;;;;;No;;;;;No toll objects found
+1626;50.55761;2.83719;3;;;;;;;No;;;;;No toll objects found
+1627;50.55761;2.83725;4;;;;;;;No;;;;;No toll objects found
+1628;50.55762;2.8373;3;;;;;;;No;;;;;No toll objects found
+1629;50.55763;2.83735;3;;;;;;;No;;;;;No toll objects found
+1630;50.55764;2.8374;3;;;;;;;No;;;;;No toll objects found
+1631;50.55766;2.83744;3;;;;;;;No;;;;;No toll objects found
+1632;50.55768;2.83749;4;;;;;;;No;;;;;No toll objects found
+1633;50.5577;2.83752;3;;;;;;;No;;;;;No toll objects found
+1634;50.55773;2.83755;3;;;;;;;No;;;;;No toll objects found
+1635;50.55776;2.83758;3;;;;;;;No;;;;;No toll objects found
+1636;50.55779;2.8376;3;;;;;;;No;;;;;No toll objects found
+1637;50.55783;2.83761;4;;;;;;;No;;;;;No toll objects found
+1638;50.55786;2.83762;3;;;;;;;No;;;;;No toll objects found
+1639;50.55789;2.83762;3;;;;;;;No;;;;;No toll objects found
+1640;50.55793;2.83761;4;;;;;;;No;;;;;No toll objects found
+1641;50.55793;2.83761;0;;;;;;;No;;;;;No toll objects found
+1642;50.55797;2.83763;4;;;;;;;No;;;;;No toll objects found
+1643;50.55802;2.83766;5;;;;;;;No;;;;;No toll objects found
+1644;50.55805;2.8377;4;;;;;;;No;;;;;No toll objects found
+1645;50.5581;2.83776;7;;;;;;;No;;;;;No toll objects found
+1646;50.55815;2.83784;7;;;;;;;No;;;;;No toll objects found
+1647;50.55825;2.83798;14;;;;;;;No;;;;;No toll objects found
+1648;50.55833;2.83812;13;;;;;;;No;;;;;No toll objects found
+1649;50.55844;2.83832;18;;;;;;;No;;;;;No toll objects found
+1650;50.55856;2.83853;19;;;;;;;No;;;;;No toll objects found
+1651;50.55872;2.83879;25;;;;;;;No;;;;;No toll objects found
+1652;50.55883;2.83897;17;;;;;;;No;;;;;No toll objects found
+1653;50.55895;2.83914;17;;;;;;;No;;;;;No toll objects found
+1654;50.55908;2.83933;19;;;;;;;No;;;;;No toll objects found
+1655;50.5592;2.83951;18;;;;;;;No;;;;;No toll objects found
+1656;50.55951;2.83993;45;;;;;;;No;;;;;No toll objects found
+1657;50.55973;2.84023;32;;;;;;;No;;;;;No toll objects found
+1658;50.55999;2.84057;37;;;;;;;No;;;;;No toll objects found
+1659;50.56051;2.84128;76;;;;;;;No;;;;;No toll objects found
+1660;50.56104;2.842;77;;;;;;;No;;;;;No toll objects found
+1661;50.56128;2.84232;35;;;;;;;No;;;;;No toll objects found
+1662;50.56141;2.84249;18;;;;;;;No;;;;;No toll objects found
+1663;50.56154;2.84267;19;;;;;;;No;;;;;No toll objects found
+1664;50.56166;2.84285;18;;;;;;;No;;;;;No toll objects found
+1665;50.5618;2.84305;21;;;;;;;No;;;;;No toll objects found
+1666;50.56189;2.84319;14;;;;;;;No;;;;;No toll objects found
+1667;50.56199;2.84335;15;;;;;;;No;;;;;No toll objects found
+1668;50.56207;2.84349;13;;;;;;;No;;;;;No toll objects found
+1669;50.56215;2.84363;13;;;;;;;No;;;;;No toll objects found
+1670;50.56225;2.8438;16;;;;;;;No;;;;;No toll objects found
+1671;50.56239;2.84406;24;;;;;;;No;;;;;No toll objects found
+1672;50.56254;2.84436;27;;;;;;;No;;;;;No toll objects found
+1673;50.56269;2.84466;27;;;;;;;No;;;;;No toll objects found
+1674;50.56296;2.84525;51;;;;;;;No;;;;;No toll objects found
+1675;50.56328;2.84595;61;;;;;;;No;;;;;No toll objects found
+1676;50.56382;2.84712;102;;;;;;;No;;;;;No toll objects found
+1677;50.56399;2.84749;32;;;;;;;No;;;;;No toll objects found
+1678;50.56412;2.84776;23;;;;;;;No;;;;;No toll objects found
+1679;50.56423;2.84798;19;;;;;;;No;;;;;No toll objects found
+1680;50.56439;2.84827;27;;;;;;;No;;;;;No toll objects found
+1681;50.56457;2.84857;29;;;;;;;No;;;;;No toll objects found
+1682;50.56476;2.84888;30;;;;;;;No;;;;;No toll objects found
+1683;50.56515;2.84948;60;;;;;;;No;;;;;No toll objects found
+1684;50.5655;2.85004;55;;;;;;;No;;;;;No toll objects found
+1685;50.56579;2.85048;44;;;;;;;No;;;;;No toll objects found
+1686;50.56596;2.85073;25;;;;;;;No;;;;;No toll objects found
+1687;50.56613;2.85098;25;;;;;;;No;;;;;No toll objects found
+1688;50.56633;2.85126;29;;;;;;;No;;;;;No toll objects found
+1689;50.56666;2.8517;48;;;;;;;No;;;;;No toll objects found
+1690;50.56703;2.85218;53;;;;;;;No;;;;;No toll objects found
+1691;50.56729;2.85254;38;;;;;;;No;;;;;No toll objects found
+1692;50.56747;2.85279;26;;;;;;;No;;;;;No toll objects found
+1693;50.56766;2.85303;27;;;;;;;No;;;;;No toll objects found
+1694;50.56782;2.85325;23;;;;;;;No;;;;;No toll objects found
+1695;50.56808;2.8536;38;;;;;;;No;;;;;No toll objects found
+1696;50.56821;2.85378;19;;;;;;;No;;;;;No toll objects found
+1697;50.56831;2.85393;15;;;;;;;No;;;;;No toll objects found
+1698;50.5684;2.85406;13;;;;;;;No;;;;;No toll objects found
+1699;50.56852;2.85424;18;;;;;;;No;;;;;No toll objects found
+1700;50.56859;2.85436;11;;;;;;;No;;;;;No toll objects found
+1701;50.56864;2.85445;8;;;;;;;No;;;;;No toll objects found
+1702;50.56868;2.85454;7;;;;;;;No;;;;;No toll objects found
+1703;50.56874;2.85468;11;;;;;;;No;;;;;No toll objects found
+1704;50.56877;2.85476;6;;;;;;;No;;;;;No toll objects found
+1705;50.56879;2.85481;4;;;;;;;No;;;;;No toll objects found
+1706;50.56881;2.85488;5;;;;;;;No;;;;;No toll objects found
+1707;50.56883;2.85495;5;;;;;;;No;;;;;No toll objects found
+1708;50.56884;2.85507;8;;;;;;;No;;;;;No toll objects found
+1709;50.56884;2.85507;0;;;;;;;No;;;;;No toll objects found
+1710;50.56884;2.85512;3;;;;;;;No;;;;;No toll objects found
+1711;50.56885;2.85517;3;;;;;;;No;;;;;No toll objects found
+1712;50.56886;2.85522;3;;;;;;;No;;;;;No toll objects found
+1713;50.56887;2.85527;3;;;;;;;No;;;;;No toll objects found
+1714;50.56889;2.85531;3;;;;;;;No;;;;;No toll objects found
+1715;50.56891;2.85535;3;;;;;;;No;;;;;No toll objects found
+1716;50.56893;2.85539;3;;;;;;;No;;;;;No toll objects found
+1717;50.56896;2.85542;3;;;;;;;No;;;;;No toll objects found
+1718;50.56899;2.85544;3;;;;;;;No;;;;;No toll objects found
+1719;50.56902;2.85546;3;;;;;;;No;;;;;No toll objects found
+1720;50.56905;2.85547;3;;;;;;;No;;;;;No toll objects found
+1721;50.56908;2.85547;3;;;;;;;No;;;;;No toll objects found
+1722;50.56912;2.85547;4;;;;;;;No;;;;;No toll objects found
+1723;50.56912;2.85547;0;;;;;;;No;;;;;No toll objects found
+1724;50.56919;2.8555;8;;;;;;;No;;;;;No toll objects found
+1725;50.56925;2.85553;7;;;;;;;No;;;;;No toll objects found
+1726;50.56931;2.85555;6;;;;;;;No;;;;;No toll objects found
+1727;50.56936;2.85559;6;;;;;;;No;;;;;No toll objects found
+1728;50.5694;2.85564;5;;;;;;;No;;;;;No toll objects found
+1729;50.56944;2.85568;5;;;;;;;No;;;;;No toll objects found
+1730;50.5695;2.85575;8;;;;;;;No;;;;;No toll objects found
+1731;50.56962;2.85592;17;;;;;;;No;;;;;No toll objects found
+1732;50.56976;2.85612;21;;;;;;;No;;;;;No toll objects found
+1733;50.56991;2.85634;22;;;;;;;No;;;;;No toll objects found
+1734;50.57004;2.85653;19;;;;;;;No;;;;;No toll objects found
+1735;50.57017;2.85673;20;;;;;;;No;;;;;No toll objects found
+1736;50.57027;2.85689;15;;;;;;;No;;;;;No toll objects found
+1737;50.57036;2.85704;14;;;;;;;No;;;;;No toll objects found
+1738;50.57051;2.85728;23;;;;;;;No;;;;;No toll objects found
+1739;50.57071;2.85768;36;;;;;;;No;;;;;No toll objects found
+1740;50.57088;2.85801;30;;;;;;;No;;;;;No toll objects found
+1741;50.57109;2.85845;38;;;;;;;No;;;;;No toll objects found
+1742;50.57123;2.85876;26;;;;;;;No;;;;;No toll objects found
+1743;50.57143;2.85919;37;;;;;;;No;;;;;No toll objects found
+1744;50.57164;2.85964;39;;;;;;;No;;;;;No toll objects found
+1745;50.57183;2.86003;34;;;;;;;No;;;;;No toll objects found
+1746;50.57208;2.8605;43;;;;;;;No;;;;;No toll objects found
+1747;50.57224;2.86078;26;;;;;;;No;;;;;No toll objects found
+1748;50.5724;2.86103;25;;;;;;;No;;;;;No toll objects found
+1749;50.57256;2.86129;25;;;;;;;No;;;;;No toll objects found
+1750;50.57282;2.86166;39;;;;;;;No;;;;;No toll objects found
+1751;50.573;2.86191;26;;;;;;;No;;;;;No toll objects found
+1752;50.57321;2.86221;31;;;;;;;No;;;;;No toll objects found
+1753;50.57342;2.86254;33;;;;;;;No;;;;;No toll objects found
+1754;50.57358;2.8628;25;;;;;;;No;;;;;No toll objects found
+1755;50.57382;2.86323;40;;;;;;;No;;;;;No toll objects found
+1756;50.57403;2.86365;37;;;;;;;No;;;;;No toll objects found
+1757;50.57425;2.8641;40;;;;;;;No;;;;;No toll objects found
+1758;50.57471;2.86517;91;;;;;;;No;;;;;No toll objects found
+1759;50.57691;2.87016;429;;;;;;;No;;;;;No toll objects found
+1760;50.57717;2.87077;51;;;;;;;No;;;;;No toll objects found
+1761;50.57737;2.8712;37;;;;;;;No;;;;;No toll objects found
+1762;50.57753;2.8715;27;;;;;;;No;;;;;No toll objects found
+1763;50.57761;2.87166;14;;;;;;;No;;;;;No toll objects found
+1764;50.5777;2.87182;15;;;;;;;No;;;;;No toll objects found
+1765;50.5778;2.87199;16;;;;;;;No;;;;;No toll objects found
+1766;50.57798;2.87231;30;;;;;;;No;;;;;No toll objects found
+1767;50.57819;2.87267;34;;;;;;;No;;;;;No toll objects found
+1768;50.57837;2.87296;28;;;;;;;No;;;;;No toll objects found
+1769;50.57843;2.87307;10;;;;;;;No;;;;;No toll objects found
+1770;50.57847;2.87315;7;;;;;;;No;;;;;No toll objects found
+1771;50.57853;2.87332;13;;;;;;;No;;;;;No toll objects found
+1772;50.57857;2.87341;7;;;;;;;No;;;;;No toll objects found
+1773;50.57859;2.87345;3;;;;;;;No;;;;;No toll objects found
+1774;50.57861;2.87353;6;;;;;;;No;;;;;No toll objects found
+1775;50.57862;2.87359;4;;;;;;;No;;;;;No toll objects found
+1776;50.57863;2.87366;5;;;;;;;No;;;;;No toll objects found
+1777;50.57863;2.87366;0;;;;;;;No;;;;;No toll objects found
+1778;50.57863;2.8737;2;;;;;;;No;;;;;No toll objects found
+1779;50.57862;2.87374;3;;;;;;;No;;;;;No toll objects found
+1780;50.57863;2.87377;2;;;;;;;No;;;;;No toll objects found
+1781;50.57863;2.87381;2;;;;;;;No;;;;;No toll objects found
+1782;50.57863;2.87384;2;;;;;;;No;;;;;No toll objects found
+1783;50.57864;2.87388;3;;;;;;;No;;;;;No toll objects found
+1784;50.57865;2.87391;2;;;;;;;No;;;;;No toll objects found
+1785;50.57866;2.87394;2;;;;;;;No;;;;;No toll objects found
+1786;50.57867;2.87397;2;;;;;;;No;;;;;No toll objects found
+1787;50.57868;2.874;2;;;;;;;No;;;;;No toll objects found
+1788;50.5787;2.87403;3;;;;;;;No;;;;;No toll objects found
+1789;50.57872;2.87405;2;;;;;;;No;;;;;No toll objects found
+1790;50.57874;2.87407;2;;;;;;;No;;;;;No toll objects found
+1791;50.57876;2.87409;2;;;;;;;No;;;;;No toll objects found
+1792;50.57878;2.87411;2;;;;;;;No;;;;;No toll objects found
+1793;50.5788;2.87412;2;;;;;;;No;;;;;No toll objects found
+1794;50.57882;2.87413;2;;;;;;;No;;;;;No toll objects found
+1795;50.57884;2.87413;2;;;;;;;No;;;;;No toll objects found
+1796;50.57886;2.87414;2;;;;;;;No;;;;;No toll objects found
+1797;50.57886;2.87414;0;;;;;;;No;;;;;No toll objects found
+1798;50.57893;2.87422;9;;;;;;;No;;;;;No toll objects found
+1799;50.57898;2.8743;7;;;;;;;No;;;;;No toll objects found
+1800;50.57903;2.8744;9;;;;;;;No;;;;;No toll objects found
+1801;50.5791;2.87456;13;;;;;;;No;;;;;No toll objects found
+1802;50.57913;2.87465;7;;;;;;;No;;;;;No toll objects found
+1803;50.57925;2.87502;29;;;;;;;No;;;;;No toll objects found
+1804;50.5795;2.87578;60;;;;;;;No;;;;;No toll objects found
+1805;50.57959;2.87605;21;;;;;;;No;;;;;No toll objects found
+1806;50.57967;2.87631;20;;;;;;;No;;;;;No toll objects found
+1807;50.57974;2.87656;19;;;;;;;No;;;;;No toll objects found
+1808;50.5798;2.87679;17;;;;;;;No;;;;;No toll objects found
+1809;50.57986;2.87699;15;;;;;;;No;;;;;No toll objects found
+1810;50.57991;2.8772;15;;;;;;;No;;;;;No toll objects found
+1811;50.57996;2.87743;17;;;;;;;No;;;;;No toll objects found
+1812;50.58001;2.8777;19;;;;;;;No;;;;;No toll objects found
+1813;50.58008;2.87802;23;;;;;;;No;;;;;No toll objects found
+1814;50.58013;2.87831;21;;;;;;;No;;;;;No toll objects found
+1815;50.58018;2.87865;24;;;;;;;No;;;;;No toll objects found
+1816;50.58022;2.8789;18;;;;;;;No;;;;;No toll objects found
+1817;50.58025;2.87917;19;;;;;;;No;;;;;No toll objects found
+1818;50.58029;2.87948;22;;;;;;;No;;;;;No toll objects found
+1819;50.58032;2.87981;23;;;;;;;No;;;;;No toll objects found
+1820;50.58036;2.88022;29;;;;;;;No;;;;;No toll objects found
+1821;50.58044;2.88113;65;;;;;;;No;;;;;No toll objects found
+1822;50.58067;2.88387;195;;;;;;;No;;;;;No toll objects found
+1823;50.58083;2.88561;124;;;;;;;No;;;;;No toll objects found
+1824;50.58105;2.88822;186;;;;;;;No;;;;;No toll objects found
+1825;50.58124;2.8904;155;;;;;;;No;;;;;No toll objects found
+1826;50.58134;2.89148;77;;;;;;;No;;;;;No toll objects found
+1827;50.58147;2.89285;98;;;;;;;No;;;;;No toll objects found
+1828;50.58155;2.89363;55;;;;;;;No;;;;;No toll objects found
+1829;50.58165;2.89448;61;;;;;;;No;;;;;No toll objects found
+1830;50.58183;2.89587;100;;;;;;;No;;;;;No toll objects found
+1831;50.58204;2.8973;103;;;;;;;No;;;;;No toll objects found
+1832;50.58217;2.89803;53;;;;;;;No;;;;;No toll objects found
+1833;50.58228;2.89865;45;;;;;;;No;;;;;No toll objects found
+1834;50.58239;2.89926;44;;;;;;;No;;;;;No toll objects found
+1835;50.58267;2.90068;105;;;;;;;No;;;;;No toll objects found
+1836;50.58291;2.90173;79;;;;;;;No;;;;;No toll objects found
+1837;50.58323;2.90306;100;;;;;;;No;;;;;No toll objects found
+1838;50.58343;2.90393;65;;;;;;;No;;;;;No toll objects found
+1839;50.58366;2.90487;71;;;;;;;No;;;;;No toll objects found
+1840;50.58385;2.90571;63;;;;;;;No;;;;;No toll objects found
+1841;50.58402;2.9064;52;;;;;;;No;;;;;No toll objects found
+1842;50.5841;2.90674;25;;;;;;;No;;;;;No toll objects found
+1843;50.58418;2.90707;25;;;;;;;No;;;;;No toll objects found
+1844;50.5842;2.90717;7;;;;;;;No;;;;;No toll objects found
+1845;50.58422;2.90728;8;;;;;;;No;;;;;No toll objects found
+1846;50.58424;2.90741;9;;;;;;;No;;;;;No toll objects found
+1847;50.58425;2.90755;9;;;;;;;No;;;;;No toll objects found
+1848;50.58426;2.90759;3;;;;;;;No;;;;;No toll objects found
+1849;50.58426;2.90766;4;;;;;;;No;;;;;No toll objects found
+1850;50.58426;2.90775;6;;;;;;;No;;;;;No toll objects found
+1851;50.58425;2.90782;5;;;;;;;No;;;;;No toll objects found
+1852;50.58424;2.90789;5;;;;;;;No;;;;;No toll objects found
+1853;50.58424;2.90789;0;;;;;;;No;;;;;No toll objects found
+1854;50.58423;2.90793;3;;;;;;;No;;;;;No toll objects found
+1855;50.58422;2.90797;3;;;;;;;No;;;;;No toll objects found
+1856;50.58422;2.908;2;;;;;;;No;;;;;No toll objects found
+1857;50.58421;2.90804;3;;;;;;;No;;;;;No toll objects found
+1858;50.58421;2.90808;2;;;;;;;No;;;;;No toll objects found
+1859;50.58421;2.90812;2;;;;;;;No;;;;;No toll objects found
+1860;50.58422;2.90816;3;;;;;;;No;;;;;No toll objects found
+1861;50.58422;2.90819;2;;;;;;;No;;;;;No toll objects found
+1862;50.58423;2.90823;3;;;;;;;No;;;;;No toll objects found
+1863;50.58424;2.90826;2;;;;;;;No;;;;;No toll objects found
+1864;50.58426;2.9083;3;;;;;;;No;;;;;No toll objects found
+1865;50.58427;2.90833;2;;;;;;;No;;;;;No toll objects found
+1866;50.58429;2.90835;2;;;;;;;No;;;;;No toll objects found
+1867;50.58431;2.90838;3;;;;;;;No;;;;;No toll objects found
+1868;50.58433;2.9084;2;;;;;;;No;;;;;No toll objects found
+1869;50.58435;2.90842;2;;;;;;;No;;;;;No toll objects found
+1870;50.58435;2.90842;0;;;;;;;No;;;;;No toll objects found
+1871;50.58442;2.90849;9;;;;;;;No;;;;;No toll objects found
+1872;50.58445;2.90853;4;;;;;;;No;;;;;No toll objects found
+1873;50.58448;2.90859;5;;;;;;;No;;;;;No toll objects found
+1874;50.58452;2.90866;6;;;;;;;No;;;;;No toll objects found
+1875;50.58455;2.90874;6;;;;;;;No;;;;;No toll objects found
+1876;50.58459;2.90883;7;;;;;;;No;;;;;No toll objects found
+1877;50.58464;2.90901;13;;;;;;;No;;;;;No toll objects found
+1878;50.58469;2.90925;17;;;;;;;No;;;;;No toll objects found
+1879;50.58474;2.90947;16;;;;;;;No;;;;;No toll objects found
+1880;50.5848;2.90979;23;;;;;;;No;;;;;No toll objects found
+1881;50.58488;2.91015;27;;;;;;;No;;;;;No toll objects found
+1882;50.58492;2.91038;16;;;;;;;No;;;;;No toll objects found
+1883;50.58502;2.91087;36;;;;;;;No;;;;;No toll objects found
+1884;50.58506;2.91107;14;;;;;;;No;;;;;No toll objects found
+1885;50.58511;2.91131;17;;;;;;;No;;;;;No toll objects found
+1886;50.58516;2.91151;15;;;;;;;No;;;;;No toll objects found
+1887;50.58521;2.91171;15;;;;;;;No;;;;;No toll objects found
+1888;50.58526;2.91189;13;;;;;;;No;;;;;No toll objects found
+1889;50.58531;2.91207;13;;;;;;;No;;;;;No toll objects found
+1890;50.58537;2.91228;16;;;;;;;No;;;;;No toll objects found
+1891;50.58545;2.91254;20;;;;;;;No;;;;;No toll objects found
+1892;50.58555;2.91284;23;;;;;;;No;;;;;No toll objects found
+1893;50.58565;2.91311;22;;;;;;;No;;;;;No toll objects found
+1894;50.58578;2.91344;27;;;;;;;No;;;;;No toll objects found
+1895;50.58587;2.91369;20;;;;;;;No;;;;;No toll objects found
+1896;50.58595;2.9139;17;;;;;;;No;;;;;No toll objects found
+1897;50.58601;2.91407;13;;;;;;;No;;;;;No toll objects found
+1898;50.58608;2.91429;17;;;;;;;No;;;;;No toll objects found
+1899;50.58616;2.91455;20;;;;;;;No;;;;;No toll objects found
+1900;50.58625;2.91485;23;;;;;;;No;;;;;No toll objects found
+1901;50.58632;2.9151;19;;;;;;;No;;;;;No toll objects found
+1902;50.58637;2.91534;17;;;;;;;No;;;;;No toll objects found
+1903;50.58644;2.91561;20;;;;;;;No;;;;;No toll objects found
+1904;50.58654;2.91606;33;;;;;;;No;;;;;No toll objects found
+1905;50.58741;2.92029;314;;;;;;;No;;;;;No toll objects found
+1906;50.58758;2.92113;62;;;;;;;No;;;;;No toll objects found
+1907;50.58775;2.92198;63;;;;;;;No;;;;;No toll objects found
+1908;50.58786;2.9225;38;;;;;;;No;;;;;No toll objects found
+1909;50.58794;2.92288;28;;;;;;;No;;;;;No toll objects found
+1910;50.58799;2.92308;15;;;;;;;No;;;;;No toll objects found
+1911;50.58804;2.92327;14;;;;;;;No;;;;;No toll objects found
+1912;50.5881;2.92352;18;;;;;;;No;;;;;No toll objects found
+1913;50.58818;2.92377;19;;;;;;;No;;;;;No toll objects found
+1914;50.58826;2.92403;20;;;;;;;No;;;;;No toll objects found
+1915;50.58833;2.92425;17;;;;;;;No;;;;;No toll objects found
+1916;50.5884;2.92444;15;;;;;;;No;;;;;No toll objects found
+1917;50.58851;2.92471;22;;;;;;;No;;;;;No toll objects found
+1918;50.5889;2.92563;78;;;;;;;No;;;;;No toll objects found
+1919;50.58927;2.92648;72;;;;;;;No;;;;;No toll objects found
+1920;50.58937;2.92671;19;;;;;;;No;;;;;No toll objects found
+1921;50.58945;2.92688;14;;;;;;;No;;;;;No toll objects found
+1922;50.58952;2.92704;13;;;;;;;No;;;;;No toll objects found
+1923;50.58964;2.92727;21;;;;;;;No;;;;;No toll objects found
+1924;50.58978;2.92754;24;;;;;;;No;;;;;No toll objects found
+1925;50.58991;2.92778;22;;;;;;;No;;;;;No toll objects found
+1926;50.59006;2.92801;23;;;;;;;No;;;;;No toll objects found
+1927;50.59021;2.92825;23;;;;;;;No;;;;;No toll objects found
+1928;50.59034;2.92846;20;;;;;;;No;;;;;No toll objects found
+1929;50.59049;2.92866;21;;;;;;;No;;;;;No toll objects found
+1930;50.59061;2.92883;17;;;;;;;No;;;;;No toll objects found
+1931;50.5907;2.92895;13;;;;;;;No;;;;;No toll objects found
+1932;50.5909;2.92919;27;;;;;;;No;;;;;No toll objects found
+1933;50.5911;2.92943;27;;;;;;;No;;;;;No toll objects found
+1934;50.59128;2.92962;24;;;;;;;No;;;;;No toll objects found
+1935;50.59151;2.92985;30;;;;;;;No;;;;;No toll objects found
+1936;50.5917;2.93002;24;;;;;;;No;;;;;No toll objects found
+1937;50.59188;2.93018;23;;;;;;;No;;;;;No toll objects found
+1938;50.59215;2.9304;33;;;;;;;No;;;;;No toll objects found
+1939;50.59243;2.93062;34;;;;;;;No;;;;;No toll objects found
+1940;50.59288;2.93095;55;;;;;;;No;;;;;No toll objects found
+1941;50.59317;2.93118;36;;;;;;;No;;;;;No toll objects found
+1942;50.59398;2.93179;99;;;;;;;No;;;;;No toll objects found
+1943;50.59422;2.93199;30;;;;;;;No;;;;;No toll objects found
+1944;50.59453;2.93224;38;;;;;;;No;;;;;No toll objects found
+1945;50.59482;2.93251;37;;;;;;;No;;;;;No toll objects found
+1946;50.595;2.9327;24;;;;;;;No;;;;;No toll objects found
+1947;50.59514;2.93284;18;;;;;;;No;;;;;No toll objects found
+1948;50.59531;2.93303;23;;;;;;;No;;;;;No toll objects found
+1949;50.5955;2.93326;26;;;;;;;No;;;;;No toll objects found
+1950;50.59564;2.93343;19;;;;;;;No;;;;;No toll objects found
+1951;50.59579;2.93361;20;;;;;;;No;;;;;No toll objects found
+1952;50.59594;2.93381;21;;;;;;;No;;;;;No toll objects found
+1953;50.5961;2.93404;24;;;;;;;No;;;;;No toll objects found
+1954;50.59627;2.93428;25;;;;;;;No;;;;;No toll objects found
+1955;50.59639;2.93447;18;;;;;;;No;;;;;No toll objects found
+1956;50.5965;2.93465;17;;;;;;;No;;;;;No toll objects found
+1957;50.59666;2.93492;26;;;;;;;No;;;;;No toll objects found
+1958;50.59682;2.93521;27;;;;;;;No;;;;;No toll objects found
+1959;50.59694;2.93543;20;;;;;;;No;;;;;No toll objects found
+1960;50.59708;2.9357;24;;;;;;;No;;;;;No toll objects found
+1961;50.59718;2.9359;18;;;;;;;No;;;;;No toll objects found
+1962;50.5973;2.93616;22;;;;;;;No;;;;;No toll objects found
+1963;50.59748;2.93656;34;;;;;;;No;;;;;No toll objects found
+1964;50.59787;2.93746;77;;;;;;;No;;;;;No toll objects found
+1965;50.59802;2.9378;29;;;;;;;No;;;;;No toll objects found
+1966;50.59815;2.93809;25;;;;;;;No;;;;;No toll objects found
+1967;50.59825;2.9383;18;;;;;;;No;;;;;No toll objects found
+1968;50.59836;2.9385;18;;;;;;;No;;;;;No toll objects found
+1969;50.59845;2.93866;15;;;;;;;No;;;;;No toll objects found
+1970;50.59856;2.93885;18;;;;;;;No;;;;;No toll objects found
+1971;50.59868;2.93903;18;;;;;;;No;;;;;No toll objects found
+1972;50.59878;2.93918;15;;;;;;;No;;;;;No toll objects found
+1973;50.5989;2.93935;17;;;;;;;No;;;;;No toll objects found
+1974;50.59902;2.9395;17;;;;;;;No;;;;;No toll objects found
+1975;50.59913;2.93963;15;;;;;;;No;;;;;No toll objects found
+1976;50.59923;2.93976;14;;;;;;;No;;;;;No toll objects found
+1977;50.59935;2.93988;15;;;;;;;No;;;;;No toll objects found
+1978;50.5995;2.94003;19;;;;;;;No;;;;;No toll objects found
+1979;50.59965;2.94018;19;;;;;;;No;;;;;No toll objects found
+1980;50.60014;2.94063;63;;;;;;;No;;;;;No toll objects found
+1981;50.60046;2.94094;41;;;;;;;No;;;;;No toll objects found
+1982;50.60059;2.94106;16;;;;;;;No;;;;;No toll objects found
+1983;50.60075;2.94122;21;;;;;;;No;;;;;No toll objects found
+1984;50.60091;2.94138;21;;;;;;;No;;;;;No toll objects found
+1985;50.60112;2.94161;28;;;;;;;No;;;;;No toll objects found
+1986;50.60127;2.94179;20;;;;;;;No;;;;;No toll objects found
+1987;50.60142;2.94198;21;;;;;;;No;;;;;No toll objects found
+1988;50.6016;2.94221;25;;;;;;;No;;;;;No toll objects found
+1989;50.60176;2.94243;23;;;;;;;No;;;;;No toll objects found
+1990;50.6019;2.94262;20;;;;;;;No;;;;;No toll objects found
+1991;50.60206;2.94286;24;;;;;;;No;;;;;No toll objects found
+1992;50.60229;2.94321;35;;;;;;;No;;;;;No toll objects found
+1993;50.60256;2.94362;41;;;;;;;No;;;;;No toll objects found
+1994;50.60356;2.94512;153;;;;;;;No;;;;;No toll objects found
+1995;50.6041;2.94594;83;;;;;;;No;;;;;No toll objects found
+1996;50.60464;2.94675;83;;;;;;;No;;;;;No toll objects found
+1997;50.60474;2.9469;15;;;;;;;No;;;;;No toll objects found
+1998;50.60493;2.94717;28;;;;;;;No;;;;;No toll objects found
+1999;50.6051;2.9474;24;;;;;;;No;;;;;No toll objects found
+2000;50.60538;2.94775;39;;;;;;;No;;;;;No toll objects found
+2001;50.60564;2.94809;37;;;;;;;No;;;;;No toll objects found
+2002;50.60586;2.94835;30;;;;;;;No;;;;;No toll objects found
+2003;50.60609;2.94862;31;;;;;;;No;;;;;No toll objects found
+2004;50.60631;2.94887;30;;;;;;;No;;;;;No toll objects found
+2005;50.60653;2.94912;30;;;;;;;No;;;;;No toll objects found
+2006;50.60685;2.94946;42;;;;;;;No;;;;;No toll objects found
+2007;50.60717;2.94979;42;;;;;;;No;;;;;No toll objects found
+2008;50.60737;2.94999;26;;;;;;;No;;;;;No toll objects found
+2009;50.60759;2.95019;28;;;;;;;No;;;;;No toll objects found
+2010;50.6078;2.95039;27;;;;;;;No;;;;;No toll objects found
+2011;50.60801;2.95057;26;;;;;;;No;;;;;No toll objects found
+2012;50.60824;2.95078;29;;;;;;;No;;;;;No toll objects found
+2013;50.60845;2.95095;26;;;;;;;No;;;;;No toll objects found
+2014;50.6087;2.95114;30;;;;;;;No;;;;;No toll objects found
+2015;50.60906;2.95142;44;;;;;;;No;;;;;No toll objects found
+2016;50.60923;2.95155;21;;;;;;;No;;;;;No toll objects found
+2017;50.60949;2.95174;31;;;;;;;No;;;;;No toll objects found
+2018;50.60969;2.95188;24;;;;;;;No;;;;;No toll objects found
+2019;50.61003;2.9521;40;;;;;;;No;;;;;No toll objects found
+2020;50.61023;2.95223;24;;;;;;;No;;;;;No toll objects found
+2021;50.61059;2.95244;42;;;;;;;No;;;;;No toll objects found
+2022;50.61083;2.95258;28;;;;;;;No;;;;;No toll objects found
+2023;50.61103;2.95269;23;;;;;;;No;;;;;No toll objects found
+2024;50.61117;2.95276;16;;;;;;;No;;;;;No toll objects found
+2025;50.61379;2.95406;305;;;;;;;No;;;;;No toll objects found
+2026;50.61492;2.95462;131;;;;;;;No;;;;;No toll objects found
+2027;50.61565;2.95498;85;;;;;;;No;;;;;No toll objects found
+2028;50.61613;2.95522;56;;;;;;;No;;;;;No toll objects found
+2029;50.61634;2.95532;24;;;;;;;No;;;;;No toll objects found
+2030;50.61665;2.9555;36;;;;;;;No;;;;;No toll objects found
+2031;50.61694;2.95569;34;;;;;;;No;;;;;No toll objects found
+2032;50.61726;2.95592;39;;;;;;;No;;;;;No toll objects found
+2033;50.61752;2.95613;32;;;;;;;No;;;;;No toll objects found
+2034;50.61787;2.95643;44;;;;;;;No;;;;;No toll objects found
+2035;50.61819;2.95675;42;;;;;;;No;;;;;No toll objects found
+2036;50.61845;2.95703;35;;;;;;;No;;;;;No toll objects found
+2037;50.61867;2.95729;30;;;;;;;No;;;;;No toll objects found
+2038;50.61903;2.95775;51;;;;;;;No;;;;;No toll objects found
+2039;50.61924;2.95804;31;;;;;;;No;;;;;No toll objects found
+2040;50.61941;2.9583;26;;;;;;;No;;;;;No toll objects found
+2041;50.61959;2.95857;27;;;;;;;No;;;;;No toll objects found
+2042;50.61979;2.9589;32;;;;;;;No;;;;;No toll objects found
+2043;50.62001;2.95926;35;;;;;;;No;;;;;No toll objects found
+2044;50.62054;2.96013;85;;;;;;;No;;;;;No toll objects found
+2045;50.62103;2.96095;79;;;;;;;No;;;;;No toll objects found
+2046;50.62157;2.96186;88;;;;;;;No;;;;;No toll objects found
+2047;50.62178;2.96224;35;;;;;;;No;;;;;No toll objects found
+2048;50.62191;2.96249;22;;;;;;;No;;;;;No toll objects found
+2049;50.622;2.96268;16;;;;;;;No;;;;;No toll objects found
+2050;50.62207;2.96285;14;;;;;;;No;;;;;No toll objects found
+2051;50.62216;2.96306;17;;;;;;;No;;;;;No toll objects found
+2052;50.62228;2.96338;26;;;;;;;No;;;;;No toll objects found
+2053;50.62238;2.96367;23;;;;;;;No;;;;;No toll objects found
+2054;50.62246;2.96402;26;;;;;;;No;;;;;No toll objects found
+2055;50.62253;2.96434;23;;;;;;;No;;;;;No toll objects found
+2056;50.62253;2.96434;0;;;;;;;No;;;;;No toll objects found
+2057;50.62257;2.96464;21;;;;;;;No;;;;;No toll objects found
+2058;50.62259;2.96489;17;;;;;;;No;;;;;No toll objects found
+2059;50.62261;2.96507;12;;;;;;;No;;;;;No toll objects found
+2060;50.62262;2.96526;13;;;;;;;No;;;;;No toll objects found
+2061;50.62262;2.96551;17;;;;;;;No;;;;;No toll objects found
+2062;50.62261;2.96579;19;;;;;;;No;;;;;No toll objects found
+2063;50.62259;2.96606;19;;;;;;;No;;;;;No toll objects found
+2064;50.62256;2.96636;21;;;;;;;No;;;;;No toll objects found
+2065;50.62252;2.96669;23;;;;;;;No;;;;;No toll objects found
+2066;50.62246;2.96698;21;;;;;;;No;;;;;No toll objects found
+2067;50.6224;2.96724;19;;;;;;;No;;;;;No toll objects found
+2068;50.62234;2.96746;16;;;;;;;No;;;;;No toll objects found
+2069;50.62221;2.96791;34;;;;;;;No;;;;;No toll objects found
+2070;50.6219;2.96893;79;;;;;;;No;;;;;No toll objects found
+2071;50.62175;2.96942;38;;;;;;;No;;;;;No toll objects found
+2072;50.62164;2.96975;26;;;;;;;No;;;;;No toll objects found
+2073;50.62155;2.97;20;;;;;;;No;;;;;No toll objects found
+2074;50.62141;2.9704;32;;;;;;;No;;;;;No toll objects found
+2075;50.62121;2.97093;43;;;;;;;No;;;;;No toll objects found
+2076;50.62104;2.97147;42;;;;;;;No;;;;;No toll objects found
+2077;50.62055;2.9725;91;;;;;;;No;;;;;No toll objects found
+2078;50.61979;2.97422;148;;;;;;;No;;;;;No toll objects found
+2079;50.61946;2.975;66;;;;;;;No;;;;;No toll objects found
+2080;50.6191;2.9759;75;;;;;;;No;;;;;No toll objects found
+2081;50.61861;2.97715;103;;;;;;;No;;;;;No toll objects found
+2082;50.61833;2.97788;60;;;;;;;No;;;;;No toll objects found
+2083;50.61772;2.97944;129;;;;;;;No;;;;;No toll objects found
+2084;50.61728;2.98062;96;;;;;;;No;;;;;No toll objects found
+2085;50.617;2.98148;68;;;;;;;No;;;;;No toll objects found
+2086;50.61676;2.98231;64;;;;;;;No;;;;;No toll objects found
+2087;50.61652;2.98332;76;;;;;;;No;;;;;No toll objects found
+2088;50.61634;2.98442;80;;;;;;;No;;;;;No toll objects found
+2089;50.61626;2.98501;42;;;;;;;No;;;;;No toll objects found
+2090;50.6162;2.98553;37;;;;;;;No;;;;;No toll objects found
+2091;50.61616;2.98603;35;;;;;;;No;;;;;No toll objects found
+2092;50.61613;2.98657;38;;;;;;;No;;;;;No toll objects found
+2093;50.61611;2.98697;28;;;;;;;No;;;;;No toll objects found
+2094;50.61611;2.9875;37;;;;;;;No;;;;;No toll objects found
+2095;50.61611;2.98809;41;;;;;;;No;;;;;No toll objects found
+2096;50.61613;2.9885;29;;;;;;;No;;;;;No toll objects found
+2097;50.61615;2.98895;31;;;;;;;No;;;;;No toll objects found
+2098;50.61621;2.98961;47;;;;;;;No;;;;;No toll objects found
+2099;50.61629;2.99035;53;;;;;;;No;;;;;No toll objects found
+2100;50.61637;2.9909;39;;;;;;;No;;;;;No toll objects found
+2101;50.61644;2.99138;34;;;;;;;No;;;;;No toll objects found
+2102;50.61653;2.99183;33;;;;;;;No;;;;;No toll objects found
+2103;50.61748;2.99634;336;;;;;;;No;;;;;No toll objects found
+2104;50.61843;3.00075;329;;;;;;;No;;;;;No toll objects found
+2105;50.61905;3.0037;219;;;;;;;No;;;;;No toll objects found
+2106;50.61926;3.00474;77;;;;;;;No;;;;;No toll objects found
+2107;50.61941;3.00558;61;;;;;;;No;;;;;No toll objects found
+2108;50.61957;3.00661;75;;;;;;;No;;;;;No toll objects found
+2109;50.61974;3.00801;100;;;;;;;No;;;;;No toll objects found
+2110;50.61983;3.00869;49;;;;;;;No;;;;;No toll objects found
+2111;50.61995;3.00973;74;;;;;;;No;;;;;No toll objects found
+2112;50.62001;3.01021;34;;;;;;;No;;;;;No toll objects found
+2113;50.62013;3.01115;67;;;;;;;No;;;;;No toll objects found
+2114;50.62029;3.01242;91;;;;;;;No;;;;;No toll objects found
+2115;50.62034;3.0128;27;;;;;;;No;;;;;No toll objects found
+2116;50.6204;3.01325;32;;;;;;;No;;;;;No toll objects found
+2117;50.62045;3.01361;26;;;;;;;No;;;;;No toll objects found
+2118;50.62053;3.01409;35;;;;;;;No;;;;;No toll objects found
+2119;50.62065;3.01489;58;;;;;;;No;;;;;No toll objects found
+2120;50.62077;3.01557;49;;;;;;;No;;;;;No toll objects found
+2121;50.62116;3.0178;163;;;;;;;No;;;;;No toll objects found
+2122;50.62151;3.01979;146;;;;;;;No;;;;;No toll objects found
+2123;50.62151;3.01979;0;;;;;;;No;;;;;No toll objects found
+2124;50.62168;3.02095;84;;;;;;;No;;;;;No toll objects found
+2125;50.62177;3.02153;42;;;;;;;No;;;;;No toll objects found
+2126;50.62183;3.02195;30;;;;;;;No;;;;;No toll objects found
+2127;50.62186;3.02221;18;;;;;;;No;;;;;No toll objects found
+2128;50.62188;3.02247;18;;;;;;;No;;;;;No toll objects found
+2129;50.62189;3.02273;18;;;;;;;No;;;;;No toll objects found
+2130;50.62189;3.02294;14;;;;;;;No;;;;;No toll objects found
+2131;50.62187;3.02318;17;;;;;;;No;;;;;No toll objects found
+2132;50.62185;3.02335;12;;;;;;;No;;;;;No toll objects found
+2133;50.62181;3.02358;16;;;;;;;No;;;;;No toll objects found
+2134;50.62174;3.02383;19;;;;;;;No;;;;;No toll objects found
+2135;50.62168;3.02404;16;;;;;;;No;;;;;No toll objects found
+2136;50.62146;3.02461;47;;;;;;;No;;;;;No toll objects found
+2137;50.62125;3.02515;44;;;;;;;No;;;;;No toll objects found
+2138;50.62104;3.02571;46;;;;;;;No;;;;;No toll objects found
+2139;50.62094;3.02601;23;;;;;;;No;;;;;No toll objects found
+2140;50.62089;3.02618;13;;;;;;;No;;;;;No toll objects found
+2141;50.62084;3.02641;17;;;;;;;No;;;;;No toll objects found
+2142;50.62081;3.02661;14;;;;;;;No;;;;;No toll objects found
+2143;50.6208;3.02681;14;;;;;;;No;;;;;No toll objects found
+2144;50.62081;3.02701;14;;;;;;;No;;;;;No toll objects found
+2145;50.62082;3.02719;12;;;;;;;No;;;;;No toll objects found
+2146;50.62085;3.02734;11;;;;;;;No;;;;;No toll objects found
+2147;50.62088;3.02748;10;;;;;;;No;;;;;No toll objects found
+2148;50.62093;3.02762;11;;;;;;;No;;;;;No toll objects found
+2149;50.621;3.0278;14;;;;;;;No;;;;;No toll objects found
+2150;50.6211;3.02798;16;;;;;;;No;;;;;No toll objects found
+2151;50.6212;3.02811;14;;;;;;;No;;;;;No toll objects found
+2152;50.6213;3.02821;13;;;;;;;No;;;;;No toll objects found
+2153;50.62141;3.02831;14;;;;;;;No;;;;;No toll objects found
+2154;50.62153;3.02838;14;;;;;;;No;;;;;No toll objects found
+2155;50.6217;3.02846;19;;;;;;;No;;;;;No toll objects found
+2156;50.62207;3.0286;42;;;;;;;No;;;;;No toll objects found
+2157;50.62235;3.02871;32;;;;;;;No;;;;;No toll objects found
+2158;50.62258;3.02884;27;;;;;;;No;;;;;No toll objects found
+2159;50.62266;3.02889;9;;;;;;;No;;;;;No toll objects found
+2160;50.62273;3.02895;8;;;;;;;No;;;;;No toll objects found
+2161;50.62273;3.02895;0;;;;;;;No;;;;;No toll objects found
+2162;50.62279;3.02902;8;;;;;;;No;;;;;No toll objects found
+2163;50.62289;3.02909;12;;;;;;;No;;;;;No toll objects found
+2164;50.62297;3.02913;9;;;;;;;No;;;;;No toll objects found
+2165;50.62306;3.02917;10;;;;;;;No;;;;;No toll objects found
+2166;50.62314;3.02918;8;;;;;;;No;;;;;No toll objects found
+2167;50.62323;3.02919;10;;;;;;;No;;;;;No toll objects found
+2168;50.62331;3.02918;8;;;;;;;No;;;;;No toll objects found
+2169;50.62339;3.02916;9;;;;;;;No;;;;;No toll objects found
+2170;50.62342;3.02915;3;;;;;;;No;;;;;No toll objects found
+2171;50.62347;3.02914;5;;;;;;;No;;;;;No toll objects found
+2172;50.62347;3.02914;0;;;;;;;No;;;;;No toll objects found
+2173;50.6238;3.02908;36;;;;;;;No;;;;;No toll objects found
+2174;50.62384;3.02907;4;;;;;;;No;;;;;No toll objects found
+2175;50.62397;3.02905;14;;;;;;;No;;;;;No toll objects found
+2176;50.62412;3.02903;16;;;;;;;No;;;;;No toll objects found
+2177;50.62423;3.02903;12;;;;;;;No;;;;;No toll objects found
+2178;50.6243;3.02903;7;;;;;;;No;;;;;No toll objects found
+2179;50.62441;3.02903;12;;;;;;;No;;;;;No toll objects found
+2180;50.62451;3.02906;11;;;;;;;No;;;;;No toll objects found
+2181;50.62462;3.02909;12;;;;;;;No;;;;;No toll objects found
+2182;50.62473;3.02914;12;;;;;;;No;;;;;No toll objects found
+2183;50.62487;3.02922;16;;;;;;;No;;;;;No toll objects found
+2184;50.62508;3.02937;25;;;;;;;No;;;;;No toll objects found
+2185;50.62539;3.02965;39;;;;;;;No;;;;;No toll objects found
+2186;50.62626;3.03046;112;;;;;;;No;;;;;No toll objects found
+2187;50.62702;3.03118;98;;;;;;;No;;;;;No toll objects found
+2188;50.62816;3.03226;148;;;;;;;No;;;;;No toll objects found
+2189;50.62899;3.0332;113;;;;;;;No;;;;;No toll objects found
+2190;50.62965;3.03394;90;;;;;;;No;;;;;No toll objects found
+2191;50.62984;3.03425;30;;;;;;;No;;;;;No toll objects found
+2192;50.63024;3.03488;62;;;;;;;No;;;;;No toll objects found
+2193;50.63025;3.0349;1;;;;;;;No;;;;;No toll objects found
+2194;50.63027;3.03493;3;;;;;;;No;;;;;No toll objects found
+2195;50.63032;3.03501;7;;;;;;;No;;;;;No toll objects found
+2196;50.63032;3.03501;0;;;;;;;No;;;;;No toll objects found
+2197;50.6304;3.0351;10;;;;;;;No;;;;;No toll objects found
+2198;50.63046;3.03519;9;;;;;;;No;;;;;No toll objects found
+2199;50.63048;3.03522;3;;;;;;;No;;;;;No toll objects found
+2200;50.63051;3.03524;3;;;;;;;No;;;;;No toll objects found
+2201;50.63064;3.03538;17;;;;;;;No;;;;;No toll objects found
+2202;50.63074;3.03549;13;;;;;;;No;;;;;No toll objects found
+2203;50.63099;3.03576;33;;;;;;;No;;;;;No toll objects found
+2204;50.63133;3.0361;44;;;;;;;No;;;;;No toll objects found
+2205;50.63182;3.03662;65;;;;;;;No;;;;;No toll objects found
+2206;50.63221;3.03707;53;;;;;;;No;;;;;No toll objects found
+2207;50.63228;3.03714;9;;;;;;;No;;;;;No toll objects found
+2208;50.63308;3.03798;107;;;;;;;No;;;;;No toll objects found
+2209;50.63391;3.03889;112;;;;;;;No;;;;;No toll objects found
+2210;50.63432;3.03933;55;;;;;;;No;;;;;No toll objects found
+2211;50.63474;3.03979;56;;;;;;;No;;;;;No toll objects found
+2212;50.63493;3.04003;27;;;;;;;No;;;;;No toll objects found
+2213;50.63499;3.04011;8;;;;;;;No;;;;;No toll objects found
+2214;50.63528;3.04043;39;;;;;;;No;;;;;No toll objects found
+2215;50.63528;3.04043;0;;;;;;;No;;;;;No toll objects found
+2216;50.63545;3.04066;24;;;;;;;No;;;;;No toll objects found
+2217;50.63574;3.04099;39;;;;;;;No;;;;;No toll objects found
+2218;50.6358;3.04117;14;;;;;;;No;;;;;No toll objects found
+2219;50.63584;3.04134;12;;;;;;;No;;;;;No toll objects found
+2220;50.63587;3.04146;9;;;;;;;No;;;;;No toll objects found
+2221;50.63595;3.04184;28;;;;;;;No;;;;;No toll objects found
+2222;50.63602;3.04217;24;;;;;;;No;;;;;No toll objects found
+2223;50.63605;3.04232;11;;;;;;;No;;;;;No toll objects found
+2224;50.63616;3.04288;41;;;;;;;No;;;;;No toll objects found
+2225;50.63626;3.0434;38;;;;;;;No;;;;;No toll objects found
+2226;50.63636;3.04395;40;;;;;;;No;;;;;No toll objects found
+2227;50.63645;3.04445;36;;;;;;;No;;;;;No toll objects found
+2228;50.63647;3.04459;10;;;;;;;No;;;;;No toll objects found
+2229;50.63648;3.04466;5;;;;;;;No;;;;;No toll objects found
+2230;50.63648;3.04473;4;;;;;;;No;;;;;No toll objects found
+2231;50.63648;3.04473;0;;;;;;;No;;;;;No toll objects found
+2232;50.63647;3.04478;3;;;;;;;No;;;;;No toll objects found
+2233;50.63646;3.04482;3;;;;;;;No;;;;;No toll objects found
+2234;50.63643;3.04489;5;;;;;;;No;;;;;No toll objects found
+2235;50.63625;3.04523;31;;;;;;;No;;;;;No toll objects found
+2236;50.63623;3.04528;4;;;;;;;No;;;;;No toll objects found
+2237;50.63617;3.0454;10;;;;;;;No;;;;;No toll objects found
+2238;50.63612;3.04549;8;;;;;;;No;;;;;No toll objects found
+2239;50.63611;3.04552;2;;;;;;;No;;;;;No toll objects found
+2240;50.63596;3.04579;25;;;;;;;No;;;;;No toll objects found
+2241;50.63569;3.04635;49;;;;;;;No;;;;;No toll objects found
+2242;50.63565;3.04643;7;;;;;;;No;;;;;No toll objects found
+2243;50.63559;3.04654;10;;;;;;;No;;;;;No toll objects found
+2244;50.63554;3.04663;8;;;;;;;No;;;;;No toll objects found
+2245;50.63547;3.04675;11;;;;;;;No;;;;;No toll objects found
+2246;50.63542;3.04684;8;;;;;;;No;;;;;No toll objects found
+2247;50.63491;3.0478;88;;;;;;;No;;;;;No toll objects found
+2248;50.63467;3.04828;43;;;;;;;No;;;;;No toll objects found
+2249;50.63453;3.04854;24;;;;;;;No;;;;;No toll objects found
+2250;50.63448;3.04866;10;;;;;;;No;;;;;No toll objects found
+2251;50.63448;3.04866;0;;;;;;;No;;;;;No toll objects found
+2252;50.63444;3.04874;7;;;;;;;No;;;;;No toll objects found
+2253;50.63454;3.04885;13;;;;;;;No;;;;;No toll objects found
+2254;50.63476;3.04908;29;;;;;;;No;;;;;No toll objects found
+2255;50.63501;3.04934;33;;;;;;;No;;;;;No toll objects found
+2256;50.63505;3.04938;5;;;;;;;No;;;;;No toll objects found
+2257;50.63595;3.05029;119;;;;;;;No;;;;;No toll objects found
+2258;50.63596;3.0503;1;;;;;;;No;;;;;No toll objects found
+2259;50.63602;3.05036;7;;;;;;;No;;;;;No toll objects found
+2260;50.63621;3.05056;25;;;;;;;No;;;;;No toll objects found
+2261;50.63626;3.05061;6;;;;;;;No;;;;;No toll objects found
+2262;50.63718;3.05157;122;;;;;;;No;;;;;No toll objects found
+2263;50.6372;3.05159;2;;;;;;;No;;;;;No toll objects found
+2264;50.63727;3.05166;9;;;;;;;No;;;;;No toll objects found
+2265;50.63727;3.05166;0;;;;;;;No;;;;;No toll objects found
+2266;50.63722;3.05173;7;;;;;;;No;;;;;No toll objects found
+2267;50.63718;3.05182;7;;;;;;;No;;;;;No toll objects found
+2268;50.63706;3.05207;22;;;;;;;No;;;;;No toll objects found
+2269;50.63691;3.05237;26;;;;;;;No;;;;;No toll objects found
+2270;50.63672;3.05273;33;;;;;;;No;;;;;No toll objects found
+2271;50.63662;3.05292;17;;;;;;;No;;;;;No toll objects found
+2272;50.63625;3.05358;62;;;;;;;No;;;;;No toll objects found
+2273;50.63623;3.05362;3;;;;;;;No;;;;;No toll objects found
+2274;50.63618;3.05371;8;;;;;;;No;;;;;No toll objects found
+2275;50.63614;3.0538;7;;;;;;;No;;;;;No toll objects found
+2276;50.63573;3.05454;69;;;;;;;No;;;;;No toll objects found
+2277;50.63538;3.05515;58;;;;;;;No;;;;;No toll objects found
+2278;50.63535;3.05521;5;;;;;;;No;;;;;No toll objects found
+2279;50.63527;3.05536;13;;;;;;;No;;;;;No toll objects found
+2280;50.63518;3.05552;15;;;;;;;No;;;;;No toll objects found
+2281;50.63515;3.05557;4;;;;;;;No;;;;;No toll objects found
+2282;50.63463;3.05651;88;;;;;;;No;;;;;No toll objects found
+2283;50.63461;3.05655;3;;;;;;;No;;;;;No toll objects found
+2284;50.63453;3.05669;13;;;;;;;No;;;;;No toll objects found
+2285;50.63446;3.05682;12;;;;;;;No;;;;;No toll objects found
+2286;50.63435;3.05703;19;;;;;;;No;;;;;No toll objects found
+2287;50.6337;3.05818;108;;;;;;;No;;;;;No toll objects found
+2288;50.63368;3.05822;3;;;;;;;No;;;;;No toll objects found
+2289;50.63362;3.05832;9;;;;;;;No;;;;;No toll objects found
+2290;50.63359;3.05839;5;;;;;;;No;;;;;No toll objects found
+2291;50.63317;3.05914;70;;;;;;;No;;;;;No toll objects found
+2292;50.63314;3.05919;4;;;;;;;No;;;;;No toll objects found
+2293;50.63309;3.05928;8;;;;;;;No;;;;;No toll objects found
+2294;50.63302;3.0594;11;;;;;;;No;;;;;No toll objects found
+2295;50.63235;3.06063;114;;;;;;;No;;;;;No toll objects found
+2296;50.63233;3.06066;3;;;;;;;No;;;;;No toll objects found
+2297;50.63226;3.06077;11;;;;;;;No;;;;;No toll objects found
+2298;50.63197;3.06131;50;;;;;;;No;;;;;No toll objects found
+2299;50.63192;3.06141;8;;;;;;;No;;;;;No toll objects found
+2300;50.63167;3.06184;41;;;;;;;No;;;;;No toll objects found
+2301;50.63159;3.06199;13;;;;;;;No;;;;;No toll objects found
+2302;50.63139;3.06235;33;;;;;;;No;;;;;No toll objects found
+2303;50.6313;3.06252;15;;;;;;;No;;;;;No toll objects found
+2304;50.63105;3.06297;42;;;;;;;No;;;;;No toll objects found
+2305;50.63069;3.06361;60;;;;;;;No;;;;;No toll objects found
+2306;50.63065;3.06368;6;;;;;;;No;;;;;No toll objects found
+2307;50.63024;3.06441;68;;;;;;;No;;;;;No toll objects found
+2308;50.63021;3.06447;5;;;;;;;No;;;;;No toll objects found
+2309;50.63015;3.06458;10;;;;;;;No;;;;;No toll objects found
+2310;50.63015;3.06458;0;;;;;;;No;;;;;No toll objects found
+2311;50.6302;3.06465;7;;;;;;;No;;;;;No toll objects found
+2312;50.63022;3.06468;3;;;;;;;No;;;;;No toll objects found
+2313;50.63028;3.06476;8;;;;;;;No;;;;;No toll objects found
+2314;50.63084;3.06551;81;;;;;;;No;;;;;No toll objects found
+2315;50.63087;3.06557;5;;;;;;;No;;;;;No toll objects found
+2316;50.631;3.06575;19;;;;;;;No;;;;;No toll objects found
+2317;50.63127;3.0661;38;;;;;;;No;;;;;No toll objects found
+2318;50.63127;3.0661;0;;;;;;;No;;;;;No toll objects found
+2319;50.63155;3.06612;31;;;;;;;No;;;;;No toll objects found
+2320;50.63157;3.06613;2;;;;;;;No;;;;;No toll objects found
+2321;50.63165;3.06614;8;;;;;;;No;;;;;No toll objects found
+2322;50.63167;3.06614;2;;;;;;;No;;;;;No toll objects found
+2323;50.63175;3.06615;8;;;;;;;No;;;;;No toll objects found
+2324;50.63262;3.06642;98;;;;;;;No;;;;;No toll objects found
+2325;50.63298;3.06655;41;;;;;;;No;;;;;No toll objects found
+2326;50.63301;3.06656;3;;;;;;;No;;;;;No toll objects found
+2327;50.63322;3.06664;24;;;;;;;No;;;;;No toll objects found
+2328;50.63322;3.06664;0;;;;;;;No;;;;;No toll objects found
+2329;50.63323;3.06675;7;;;;;;;No;;;;;No toll objects found
+2330;50.63336;3.06772;70;;;;;;;No;;;;;No toll objects found
+2331;50.63339;3.0679;13;;;;;;;No;;;;;No toll objects found
+2332;50.63339;3.06794;2;;;;;;;No;;;;;No toll objects found
+2333;50.63339;3.06803;6;;;;;;;No;;;;;No toll objects found
+2334;50.63339;3.06803;0;;;;;;;No;;;;;No toll objects found
+2335;50.63342;3.06802;3;;;;;;;No;;;;;No toll objects found
+2336;50.63343;3.06802;1;;;;;;;No;;;;;No toll objects found
+2337;50.63346;3.06801;3;;;;;;;No;;;;;No toll objects found
+2338;50.63352;3.06801;6;;;;;;;No;;;;;No toll objects found
+2339;50.63358;3.068;6;;;;;;;No;;;;;No toll objects found
+2340;50.63365;3.068;7;;;;;;;No;;;;;No toll objects found
+2341;50.63368;3.06799;3;;;;;;;No;;;;;No toll objects found
+2342;50.63371;3.06798;3;;;;;;;No;;;;;No toll objects found
+2343;50.63372;3.06798;1;;;;;;;No;;;;;No toll objects found
+2344;50.63406;3.06789;38;;;;;;;No;;;;;No toll objects found
+2345;50.63426;3.06781;22;;;;;;;No;;;;;No toll objects found
+2346;50.63429;3.0678;3;;;;;;;No;;;;;No toll objects found
+2347;50.6343;3.06779;1;;;;;;;No;;;;;No toll objects found
+2348;50.63437;3.06778;7;;;;;;;No;;;;;No toll objects found
+2349;50.63442;3.06776;5;;;;;;;No;;;;;No toll objects found
+2350;50.6345;3.06772;9;;;;;;;No;;;;;No toll objects found
+2351;50.63452;3.0677;2;;;;;;;No;;;;;No toll objects found
+2352;50.63481;3.06751;34;;;;;;;No;;;;;No toll objects found
+2353;50.63499;3.06734;23;;;;;;;No;;;;;No toll objects found
+2354;50.63508;3.06725;11;;;;;;;No;;;;;No toll objects found
+2355;50.63531;3.06702;30;;;;;;;No;;;;;No toll objects found
+2356;50.63536;3.06697;6;;;;;;;No;;;;;No toll objects found
+2357;50.63544;3.06687;11;;;;;;;No;;;;;No toll objects found
+2358;50.63565;3.06665;28;;;;;;;No;;;;;No toll objects found
+2359;50.63581;3.06647;21;;;;;;;No;;;;;No toll objects found
+2360;50.63586;3.06641;6;;;;;;;No;;;;;No toll objects found
+2361;50.63594;3.06631;11;;;;;;;No;;;;;No toll objects found
+2362;50.636;3.06622;9;;;;;;;No;;;;;No toll objects found
+2363;50.63607;3.06613;10;;;;;;;No;;;;;No toll objects found
+2364;50.63616;3.06602;12;;;;;;;No;;;;;No toll objects found
+2365;50.63621;3.0659;10;;;;;;;No;;;;;No toll objects found
+2366;50.63646;3.06552;38;;;;;;;No;;;;;No toll objects found
+2367;50.63684;3.06504;54;;;;;;;No;;;;;No toll objects found
+2368;50.63685;3.06503;1;;;;;;;No;;;;;No toll objects found
+2369;50.6369;3.06501;5;;;;;;;No;;;;;No toll objects found
+2370;50.63692;3.065;2;;;;;;;No;;;;;No toll objects found
+2371;50.63699;3.06501;7;;;;;;;No;;;;;No toll objects found
+2372;50.637;3.06502;1;;;;;;;No;;;;;No toll objects found
+2373;50.637;3.06502;0;;;;;;;No;;;;;No toll objects found
+2374;50.63706;3.06497;7;;;;;;;No;;;;;No toll objects found
+2375;50.63702;3.06487;8;;;;;;;No;;;;;No toll objects found
+2376;50.63696;3.06474;11;;;;;;;No;;;;;No toll objects found
+2377;50.63675;3.06429;39;;;;;;;No;;;;;No toll objects found
+2378;50.63672;3.06423;5;;;;;;;No;;;;;No toll objects found
+2379;50.6367;3.06417;4;;;;;;;No;;;;;No toll objects found
+2380;50.6367;3.06409;5;;;;;;;No;;;;;No toll objects found
+2381;50.63671;3.06404;3;;;;;;;No;;;;;No toll objects found
+2382;50.63674;3.06394;7;;;;;;;No;;;;;No toll objects found
+2383;50.63675;3.06392;1;;;;;;;No;;;;;No toll objects found
+2384;50.63677;3.0639;2;;;;;;;No;;;;;No toll objects found
+2385;50.63677;3.0639;0;;;;;;;No;;;;;No toll objects found
