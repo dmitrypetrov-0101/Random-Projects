@@ -4,7 +4,7 @@ This project explores ways to use Python libraries for extracting data from argu
 ## Task
 A service provider has a map of their locations available on the website https://www.gasum.com/sv/hallbara-transporter/tung-trafik/tankstationer/. Unfortunately, they do not offer an option to download list of all locations in a single file. But we can parse the HTML code of the webpage to extract GPS coordinates of all locations, which service provider have placed on the interactive map embedded into their website. Additionally, we can get other information with extracted GPS coordinates using Nominatim - a tool to perform reverse geocoding.
 
-Coordinates of each location are stored as attributes of anchor tag. We want to get all sibling DIV tags, who have anchor tag with coordinates as their child elements. 
+Coordinates of each location are stored as attributes of anchor tag. We want to get all sibling DIV tags, who have anchor tag with coordinates as their child elements, and then loop all these sibling DIV tags to collect information for each location. 
 ![GPS coordinates used as arguments of HTML tag of the webpage](img/gps.png)
 
 ## Ethical considerations
