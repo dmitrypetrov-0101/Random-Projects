@@ -9,7 +9,7 @@ Coordinates of each location are stored as attributes of anchor tag. We want to 
 
 ## Ethical considerations
 * In their Usage Policy, Nominatim allows **an absolute maximum of 1 request per second**. We must limit the frequency of reverse geocoding requests. https://operations.osmfoundation.org/policies/nominatim/
-* Some websites explicitly prohibit using parsers to collect data from their HTML code. https://www.gasum.com/ doesn't seem to have such restriction.
+* Some websites explicitly prohibit using crawlers and parsers to collect data from their HTML code. https://www.gasum.com/ doesn't seem to have such restriction.
 
 ## Solution
 As a solution we will be using Python's Beautiful Soup library to parse the HTML code, searching those DIV tags that we need. Additionally, we will extract the name of the image file which is used as an icon for location on the map to describe the type of each location. 
