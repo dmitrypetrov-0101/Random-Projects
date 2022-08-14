@@ -1,3 +1,5 @@
+**2022-08 UPDATE: Structure of gasum.com web page has changed, and this project is no longer successful in extracting details of location from the code of the page. This project is archived and it will not be modified to handle the changes of gasum.com**
+
 ## Description
 This project explores ways to use Python libraries for extracting data from arguments of HTML tags, and then enriching it with information from other sources.
 
